@@ -1258,6 +1258,25 @@
       "type": "Feature",
       "properties": {
         "line": 7,
+        "name": "Belges Tête d'Or",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.843852993825294,45.776719236416454],
+          [4.844094840424788, 45.77661656983589],
+          [4.844583451448173, 45.7764221471018]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
         "name": "Belges Ouest",
         "status": "postponed",
         "type": "bandes-cyclables",
@@ -1267,10 +1286,8 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.843852993825294,45.776719236416454],
-          [4.844094840424788, 45.77661656983589],
-          [4.84449785284734, 45.77653548972974],
-          [4.844859428115704, 45.776374042277745],
+          [4.844583451448173, 45.7764221471018],
+          [4.844744426935328, 45.776427121603],
           [4.845211393728164, 45.77621023741051],
           [4.8466337689160355, 45.775556870947554],
           [4.848082325839073, 45.77487931403378],

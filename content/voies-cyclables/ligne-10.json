@@ -1127,7 +1127,7 @@
       "properties": {
         "line": 10,
         "name": "Vaulx - La Soie",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
@@ -1169,7 +1169,7 @@
       "properties": {
         "line": 10,
         "name": "Rue Marius Grosso & carrefour T9",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
