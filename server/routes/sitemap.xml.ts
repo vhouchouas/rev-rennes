@@ -1,6 +1,6 @@
-import { dirname, resolve } from 'path';
-import { fileURLToPath } from 'url';
-import fs from 'fs';
+import { dirname, resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import fs from 'node:fs';
 import { SitemapStream, streamToPromise } from 'sitemap';
 import { serverQueryContent } from '#content/server';
 import config from '~/config.json';
