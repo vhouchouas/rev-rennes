@@ -10,16 +10,16 @@
         </p>
       </div>
       <div class="mt-12 grid gap-16 pt-12 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-4">
-        <div v-for="site in sites" :key="site.city" class="p-4 rounded-lg hover:bg-gray-50">
-          <NuxtLink :to="site.link" target="_blank">
+        <div v-for="carte in cartesMinutes" :key="carte.index" class="p-4 rounded-lg hover:bg-gray-50">
+          <NuxtLink :to="carte.link" target="_blank">
             <div>
-              <img class="h-48 lg:h-56 object-cover w-full object-center relative block bg-white rounded-lg overflow-hidden" :src="site.imageUrl">
+              <img class="h-48 lg:h-56 object-cover w-full object-center relative block bg-white rounded-lg overflow-hidden" :src="carte.imageUrl">
             </div>
             <p class="text-xl font-semibold text-gray-900 mt-4">
-              {{ site.title }}
+              {{ carte.title }}
             </p>
             <h4 class="text-gray-500 text-base">
-              {{ site.description }}
+              {{ carte.description }}
             </h4>
           </NuxtLink>
         </div>
