@@ -6,7 +6,7 @@
           Cartes Minutes
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          💡📐 Conception et réalisation : Nouvelles Aires et Neonab
+          💡📐 Conception et réalisation : <a href="mailto:cartominute@gmail.com">Nouvelles Aires</a> et <a href="mailto:nathan.blassel@neonab.com">Neonab</a>
         </p>
       </div>
       <div class="mt-12 grid gap-16 pt-12 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-4">
