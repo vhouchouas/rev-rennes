@@ -29,7 +29,7 @@
 </template>
 
 <script setup lang="ts">
-const { data: cartes-minutes } = await useAsyncData(() => {
+const { data: cartesMinutes } = await useAsyncData(() => {
   return queryContent('cartes-minutes')
     .sort({ index: 1 })
     .find();
