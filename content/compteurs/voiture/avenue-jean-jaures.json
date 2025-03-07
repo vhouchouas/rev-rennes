@@ -1,6 +1,6 @@
 {
   "name": "Avenue Jean Jaurès",
-  "description": "Ce compteur mesure le trafic sur l'avenue Jean Jaures'",
+  "description": "Ce compteur mesure le trafic sur l'avenue Jean Jaures",
   "arrondissement": "Lyon 7",
   "idsPdc": [
     1737,
