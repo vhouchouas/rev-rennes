@@ -6,7 +6,8 @@
           Cartes Minutes
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          💡📐 Conception et réalisation : <a href="mailto:cartominute@gmail.com">Nouvelles Aires</a> et <a href="mailto:nathan.blassel@neonab.com">Neonab</a>
+          💡📐 Conception et réalisation : <u><a href="mailto:cartominute@gmail.com">Nouvelles Aires</a></u> et <u><a href="mailto:nathan.blassel@neonab.com">Neonab</a></u><br>
+          🏠💻 Hébergement et Interface : Association <u><a href="www.lavilleavelo.org">La Ville à Vélo</a></u>
         </p>
       </div>
       <div class="mt-12 grid gap-16 pt-12 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-4">

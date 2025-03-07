@@ -3,5 +3,5 @@ imageUrl: https://cyclopolis.lavilleavelo.org/cartes-minutes/Strasbourg_Muscu.pn
 title: Eurométropole de Strasbourg
 description: 🚲 Vélo musculaire
 link: https://cartes-minutes.lavilleavelo.org/cartovelo/carteminuteEurometropoledeStrasbourgVeloMuscu.html
-index: 27
+index: 33
 ---

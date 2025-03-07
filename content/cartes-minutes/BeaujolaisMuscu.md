@@ -3,5 +3,5 @@ imageUrl: https://cyclopolis.lavilleavelo.org/cartes-minutes/BeaujolaisPierresDo
 title: CC Beaujolais Pierres Dorées
 description: 🚲 Vélo musculaire
 link: https://cartes-minutes.lavilleavelo.org/cartovelo/carteminuteCCBeaujolaisPierresDoreesVeloMuscu.html
-index: 1
+index: 12
 ---
