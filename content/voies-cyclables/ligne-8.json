@@ -161,6 +161,19 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
+        "name": "Carrefour Bois de la Lune",
+        "description": "Pincement voie verte et traversée mal sécurisée",
+        "danger": "Voie verte étroite derrière arrêt de bus avec conflit piéton-vélo, et traversée dangereuse pour maintenir des voies de préselection voiture dans les deux sens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.860622, 45.741715]
+      }
+    },        
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
         "name": "Carrefour Epargne-Berliet, sens Est>Ouest",
         "description": "Cisaillement dangereux avec les bus et les véhicules dans le dos du cycliste",
         "danger": "Difficulté à rejoindre le pont de l'Epargne en coupant en diagonale le carrefour sans espace de stockage"
@@ -1140,7 +1153,7 @@
       "properties": {
         "line": 8,
         "name": "Rue de l'Université",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-8#rue-de-luniversité-et-rue-marc-bloch"
@@ -1161,7 +1174,7 @@
         "id": "MarcBloch-commun",
         "line": 8,
         "name": "Rue Marc Bloch",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-8#rue-de-luniversité-et-rue-marc-bloch"
@@ -1208,7 +1221,7 @@
       "properties": {
         "line": 8,
         "name": "Rue Camille Roy",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-8#rue-camille-roy"

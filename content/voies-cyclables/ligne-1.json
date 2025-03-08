@@ -751,8 +751,8 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "name": "St-Jean-de-Dieu - Sampaix - Sembat",
-        "status": "planned",
+        "name": "St-Jean-de-Dieu - Sampaix",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre",
         "quality": "satisfactory"
@@ -777,7 +777,23 @@
           [4.8448050051250675, 45.71314508015095],
           [4.844860593222535, 45.71248523063613],
           [4.844953240051041, 45.7118447810098],
-          [4.844767946393944, 45.71150191102217],
+          [4.845195389829598, 45.71145573998746]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "name": "Rue Marcel Sembat",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.845195389829598, 45.71145573998746],
           [4.846038475967731, 45.71112580623145],
           [4.8471872966403, 45.71050474917155],

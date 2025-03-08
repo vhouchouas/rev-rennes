@@ -34,7 +34,7 @@ Le projet a été validé et déclaré d'utilité publique le 26 février 2024.\
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm){:target="_blank"}
 
 ::banner{type="wip"}
-Les travaux préparatoires sur les réseaux ont lieu entre février et l'automne 2024, et s'enchaineront avec les travaux d'aménagement jusqu'à début 2026.
+Les travaux préparatoires sur les réseaux ont lieu entre février et l'automne 2024, et s'enchaineront avec les travaux d'aménagement jusqu'à fin 2026.
 ::
 
 ::content-image
@@ -211,7 +211,7 @@ Le projet a été validé et déclaré d'utilité publique le 10 octobre 2023.\
 [Voir la présentation du projet du tram T10](https://www.sytral.fr/634-tramway-t10.htm)
 
 ::banner{type="wip"}
-Les travaux préparatoires sur les réseaux ont lieu entre septembre 2023 et l'automne 2024, et s'enchaineront avec les travaux d'aménagement jusqu'à début 2026. Les premiers travaux d'aménagement sur l'Ouest de l'avenue Tony Garnier ont débuté en mai 2024.
+Les travaux préparatoires sur les réseaux ont lieu entre septembre 2023 et l'automne 2024, et s'enchaineront avec les travaux d'aménagement jusqu'à l'automne 2026. Les premiers travaux d'aménagement sur l'Ouest de l'avenue Tony Garnier ont débuté en mai 2024 et avancent progressivement vers le Sud et l'Est en 2025.
 ::
 
 ## Calendriers prévisionnels

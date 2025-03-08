@@ -130,6 +130,19 @@
         "type": "Point",
         "coordinates": [4.874221, 45.810073]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Carrefour Boucle - Henri Dor",
+        "description": "Multiples croisements",
+        "danger": "Multiples croisements vélo et voiture avec vitesses excessives, manque de visibilité en montée et régime de priorité inadapté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.836151, 45.782872]
+      }
     },    
     {
       "type": "Feature",
