@@ -77,7 +77,7 @@ streetView: 45.800433,4.7867128,3a,75y,163.52h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur la commune de Champagne entre la rue Sans Souci et l'avenue de Montlouis commenceront en mars 2025 et continueront par sections jusqu'à l'automne 2025.
+Les travaux sur la commune de Champagne entre la rue Sans Souci et l'avenue de Montlouis ont commencé mi-mars 2025 et continueront par sections jusqu'à l'automne 2025.
 ::
 
 #### Avenue de Montlouis à Rue Juttet
@@ -103,7 +103,7 @@ streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur l'avenue de Montlouis devraient commencer en mars 2025 et durer jusqu'en mai 2025.\
+Les travaux sur l'avenue de Montlouis commencent en avril 2025 et devraient durer jusqu'en juin 2025.\
 Les travaux sur le boulevard de la République ont lieu entre décembre 2024 et mars 2025.\
 Les travaux sur la rue de la Mairie et la place de la Liberté devraient commencer en avril 2025 et se terminer à l'été 2025.
 ::
