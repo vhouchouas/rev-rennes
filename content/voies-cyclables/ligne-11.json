@@ -512,9 +512,9 @@
       "properties": {
         "line": 11,
         "name": "Rue Paul Bert",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#rue-paul-bert-garibaldi-à-vivier-merle"
       },
       "geometry": {
@@ -592,9 +592,9 @@
         "id": "HachetteDauphine-commun",
         "line": 11,
         "name": "Hachette - Renoir - Dauphiné",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#avenue-félix-faure-vivier-merle-à-esplanade-mandela"
       },
       "geometry": {

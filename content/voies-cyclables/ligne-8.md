@@ -170,6 +170,11 @@ Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhôn
 #### Pont de l'Université
 La Voie Lyonnaise 8 va totalement réaménager le pont qui sera débarrassé de ses vieilles bandes cyclables bilatérales sur trottoir. Les 4 voies de circulation actuelles seront réduites à 2, un couloir de bus à contre-sens sera créé et une large piste cyclable bidirectionnelle prendra place côté Sud.
 
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce pont ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sur des bandes peintes sur les trottoirs en attendant le confortement de la structure prévu ces prochaines années.
+::
+
+
 #### Rue de l'Université et rue Marc Bloch
 Le projet consiste en la suppression d'une à deux voies de circulation automobile et la création d'une large piste cyclable côté Sud qui sera séparée de la circulation automobile par une bande technique permettant d'accueillir le stationnement, les livraisons et de la végétalisation.
 

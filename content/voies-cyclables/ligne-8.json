@@ -853,9 +853,9 @@
         "id": "BuyerEst-commun",
         "line": 8,
         "name": "Trion - Quatre Colonnes",
-        "status": "planned",
-        "type": "bilaterale",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#avenue-barthélémy-buyer-pierre-audry-à-trion"
       },
       "geometry": {
@@ -1134,9 +1134,9 @@
       "properties": {
         "line": 8,
         "name": "Pont de l'Université",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "bilaterale",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-8#pont-de-luniversité"
       },
       "geometry": {

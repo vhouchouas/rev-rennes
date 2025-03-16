@@ -703,9 +703,10 @@
         "id": "PontTassigny-commun",
         "line": 4,
         "name": "Pont de Lattre de Tassigny",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "31/10/2013",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {

@@ -251,9 +251,10 @@
         "id": "Valvert-commun",
         "line": 10,
         "name": "Porte du Valvert",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "30/09/2020",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -299,9 +300,9 @@
         "id": "Souvenir-commun",
         "line": 10,
         "name": "Souvenir - Bourbonnais",
-        "status": "planned",
+        "status": "done",
         "type": "velorue",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -328,9 +329,9 @@
         "id": "PlaceValmy-commun",
         "line": 10,
         "name": "Place Valmy",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -344,11 +345,38 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "PlaceValmy-commun",
+        "line": 10,
+        "name": "Rue du Chapeau Rouge",
+        "status": "variante",
+        "text": "variante temporaire",
+        "type": "velorue",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.805415015656813, 45.774275105396384],
+          [4.805806739223158, 45.774276803515534],
+          [4.806038369211308, 45.774253723670995],
+          [4.806319634197507, 45.77418448407886],
+          [4.806496114188121, 45.774099857794084],
+          [4.806672594179673, 45.77400369140534],
+          [4.8068435591707726, 45.77381520480279],
+          [4.806964889164789, 45.77364210430048],
+          [4.8075439641355615, 45.773172806902835]
+        ]
+      }
+    },     
+    {
+      "type": "Feature",
+      "properties": {
         "id": "RondpointValmy-commun",
         "line": 10,
         "name": "Rond-point Valmy",
-        "status": "planned",
-        "type": "bilaterale",
+        "status": "postponed",
+        "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
@@ -380,9 +408,9 @@
         "id": "Roquette-commun",
         "line": 10,
         "name": "Rue Roquette",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -402,6 +430,27 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Roquette-commun",
+        "line": 10,
+        "name": "Rue St-Pierre-de-Vaise",
+        "status": "variante",
+        "text": "variante temporaire",
+        "type": "bilaterale",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8075439641355615, 45.773172806902835],
+          [4.808666325086193, 45.77372758119222],
+          [4.809234141908888, 45.77406192601236]
+        ]
+      }
+    },     
     {
       "type": "Feature",
       "properties": {
@@ -442,6 +491,26 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Jayr-commun",
+        "line": 10,
+        "name": "Quai Jaÿr Trémie",
+        "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin",
+        "type": "bilaterale",
+        "quality": "unsatisfactory",
+        "status": "postponed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.808707237243652, 45.775036521310206],
+          [4.808658289530314, 45.77482922087245],
+          [4.809234141908888, 45.77406192601236]
+        ]
+      }
+    },      
     {
       "type": "Feature",
       "properties": {
@@ -496,9 +565,10 @@
         "id": "PontTassigny-commun",
         "line": 10,
         "name": "Pont de Lattre de Tassigny",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "31/10/2013",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -790,9 +860,9 @@
         "id": "HachetteDauphine-commun",
         "line": 10,
         "name": "Hachette - Renoir - Dauphiné",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#avenue-félix-faure-vivier-merle-à-esplanade-mandela"
       },
       "geometry": {

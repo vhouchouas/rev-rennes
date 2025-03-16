@@ -17,6 +17,10 @@ cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
 #### Chemin de halage de Crépieux
 Ce tronçon est aujourd'hui un chemin de halage en sable stabilisé le long de la voie SNCF. Le projet consiste à le transformer en voie verte et à modifier le revêtement pour un sol clair, lisse, confortable et drainant en conservant la largeur actuelle d'environ 3m. Il n'y a aucun éclairage prévu.
 
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sur un revêtement en stabilisé inconfortable et salissant par temps de pluie.
+::
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/chemin-de-halage-rillieux-la-pape.png
@@ -93,6 +97,10 @@ A l'extrémité Sud du cours d'Herbouville, deux aménagements sont prévus pour
  - vers la VL4, le tunnel mode doux et le pont De Lattre de Tassigny, en utilisant la rampe de jonction entre le quai et le pont. Le projet consiste en la création d'une piste cyclable bidirectionnelle à la place du stationnement existant.
  - vers le centre-ville de Lyon et la suite de la VL6, en utilisant les trémies passant sous les voies en provenance du tunnel de la Croix-Rousse et du pont. Deux variantes sont proposées ici, avec une piste bidirectionnelle dans la trémie la plus profonde, ou deux pistes unidirectionnelles empruntant chacune des deux trémies. Cette dernière paraît moins favorable car elle nécessitera davantage de traversées de carrefours aux extrémités.
 
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sur une piste cyclable unidirectionnelle dans le sens Sud>Nord, et dans un couloir de bus dans le sens Nord>Sud.
+::
+
 #### Concertation
 La concertation publique sur ce tronçon s'est tenue du 20/11 au 31/12/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6Nord_Herbouville_Crepieux.pdf)
@@ -130,17 +138,20 @@ Après être passée sous la M7 dans des modalités qui restent à définir, la 
 
 La section rue du Belier - rue Casimir Périer a été réalisée à l'été 2021.\
 La section rue Casimir Périer - rue Emile Duployé a été aménagée en transitoire à l'été 2022 en attendant la fin des travaux des immeubles de la seconde tranche d'aménagement du quartier Confluence.\
-La section rue Duployé - pont de la Mulatière ne comporte aucun aménagement cyclable à ce jour, et aucune information publique n'existe à ce jour sur ce tronçon.
+
+::banner{type="wip"}
+La section rue Casimir Périer - rue Montrochet sera aménagée pendant le second semestre 2025.
+::
+
+::banner{type="postponed"}
+La section rue Duployé - pont de la Mulatière ne comporte aucun aménagement cyclable à ce jour, et ne fait pas partie de la liste des aménagements financés pour la fin de mandat qui est détaillée dans la délibération du Conseil Métropolitain du 17/03/2025. Elle est donc de fait reportée à un mandat ultérieur.
+::
 
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/quai-perrache.png
 caption: Photo de la Voie Lyonnaise 6 - Quai Perrache (Lyon 2)
 ---
-::
-
-::banner{type="wip"}
-La section rue Casimir Périer - rue Montrochet sera aménagée pendant le second semestre 2025.
 ::
 
 #### Pont autoroutier de la Mulatière
@@ -150,8 +161,16 @@ Après de longues années de revendications associatives, une étroite bande cyc
 
 *Aucune information publique n'existe à ce jour sur le réaménagement de ce tronçon dans le cadre de la Voie Lyonnaise 6.*
 
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce pont autoroutier ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à se serrer sur les trottoirs sur des aménagements étroits en conflit avec les piétons, avec une traversée dangereuse du grand carrefour devant l'Aquarium.
+::
+
 #### Aquarium à Pont d'Oullins
 *Aucune information publique n'existe à ce jour sur ce tronçon.*
+
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et cette section ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un mandat ultérieur.
+::
 
 ::banner{type="info"}
 Compte-tenu des fortes contraintes sur la rue Stéphane Déchant avec le flux de circulation et les lignes de bus, nous pensons probable qu'un itinéraire par le Chemin du Pras soit privilégié. Il est d'ailleurs préféré aujourd'hui par les cyclistes du secteur. Dans ce cas, la configuration actuelle de la rue sera globalement conservée et compatible sans aménagement particulier avec un fonctionnement en vélorue.
@@ -226,6 +245,10 @@ Après de nombreux rebondissements politiques déplorables début 2024 où Mairi
 
 #### Rue de la Camille à Giratoire Gadagne
 Sur cette section, le projet consiste en la transformation des deux bandes cyclables bilatérales existantes (depuis 2003) en une piste cyclable bidirectionnelle de 3m de large côté Ouest de la chaussée.
+
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et cette section ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un mandat ultérieur. Les cyclistes continueront donc à utiliser les bandes cyclables pendant encore de nombreuses années.
+::
 
 ::content-image
 ---

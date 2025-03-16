@@ -137,9 +137,9 @@
         "id": "PlaceValmy-commun",
         "line": 12,
         "name": "Place Valmy",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality":"satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality":"unsatisfactory",
         "link": "/voie-lyonnaise-12#valmy-à-place-de-trion"
       },
       "geometry": {
@@ -155,9 +155,9 @@
       "properties": {
         "line": 12,
         "name": "Rue du Sergent Berthet",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#rue-du-sergent-michel-berthet"
       },
       "geometry": {
@@ -237,9 +237,9 @@
         "id": "BuyerEst-commun",
         "line": 12,
         "name": "Trion - Quatre Colonnes",
-        "status": "planned",
-        "type": "bilaterale",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#avenue-barthélémy-buyer-pierre-audry-à-trion"
       },
       "geometry": {

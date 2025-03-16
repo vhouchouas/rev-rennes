@@ -1026,10 +1026,10 @@
         "id": "YzeronOuest-commun",
         "line": 9,
         "name": "Berge Yzeron Ouest - scénario A",
-        "status": "variante",
+        "status": "variante-postponed",
         "text": "variante A",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1054,10 +1054,10 @@
         "id": "OullinsHerriot-commun",
         "line": 9,
         "name": "Oullins Herriot",
-        "status": "variante",
+        "status": "variante-postponed",
         "text": "variante A",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1076,10 +1076,10 @@
         "id": "OullinsChabriere-commun",
         "line": 9,
         "name": "Parc Chabrières-Arles - scénario A",
-        "status": "variante",
+        "status": "variante-postponed",
         "text": "variante A",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1138,7 +1138,34 @@
       "properties": {
         "id": "OullinsB-commun",
         "line": 9,
-        "name": "Rue Sémard & Avenue du Rhône - scénario B",
+        "name": "Rue Sémard & Aulagne - scénario B",
+        "status": "variante-postponed",
+        "text": "variante B",
+        "type": "aucun",
+        "quality": "unsatisfactory",
+        "link": "/voie-lyonnaise-9#traversée-doullins"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.809653451120909, 45.717523535665066],
+          [4.809781106935645, 45.717474483033925],
+          [4.809800794946057, 45.71739743332874],
+          [4.809889622665594, 45.71737090209746],
+          [4.81096390699085, 45.71737986699867],
+          [4.812051031365854, 45.71740377339458],
+          [4.812247912158796, 45.71740078509575],
+          [4.812346352554584, 45.71738285529861],
+          [4.812551793381658, 45.71710494270883]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OullinsRhone-commun",
+        "line": 9,
+        "name": "Avenue du Rhône - scénario B",
         "status": "variante",
         "text": "variante B",
         "type": "bidirectionnelle",
@@ -1148,14 +1175,6 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.809653451120909, 45.717523535665066],
-          [4.809781106935645,45.717474483033925],
-          [4.809800794946057,45.71739743332874],
-          [4.809889622665594, 45.71737090209746],
-          [4.81096390699085, 45.71737986699867],
-          [4.812051031365854, 45.71740377339458],
-          [4.812247912158796, 45.71740078509575],
-          [4.812346352554584, 45.71738285529861],
           [4.812551793381658, 45.71710494270883],
           [4.813597127013395, 45.717164715666826],
           [4.813922408322753, 45.71716770397873],
@@ -1169,10 +1188,10 @@
         "id": "BoulZolaEst-commun",
         "line": 9,
         "name": "Boulevard Emile Zola Est - Scénario B",
-        "status": "variante",
+        "status": "variante-postponed",
         "text": "variante B",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1239,9 +1258,9 @@
         "id": "BoulZolaOuest-commun",
         "line": 9,
         "name": "Boulevard Emile Zola Ouest",
-        "status": "planned",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1265,9 +1284,9 @@
         "id": "ParcYzeron-commun",
         "line": 9,
         "name": "Parc de l'Yzeron",
-        "status": "planned",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1303,10 +1322,9 @@
         "id": "Merlo-commun",
         "line": 9,
         "name": "Rue de Merlo",
-        "status": "done",
-        "doneAt": "10/04/2014",
-        "type": "velorue",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1331,9 +1349,9 @@
         "id": "AqueducBeaunant-commun",
         "line": 9,
         "name": "Avenue de l'Aqueduc de Beaunant",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {

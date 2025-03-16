@@ -177,9 +177,9 @@
       "properties": {
         "line": 6,
         "name": "Chemin de Halage de Crépieux",
-        "status": "planned",
+        "status": "postponed",
         "type": "voie-verte",
-        "quality":"satisfactory",
+        "quality":"unsatisfactory",
         "link": "/voie-lyonnaise-6#chemin-de-halage-de-crépieux"
       },
       "geometry": {
@@ -299,9 +299,10 @@
         "id": "CarrefourBoucle-commun",
         "line": 6,
         "name": "Carrefour Boucle - Pont Churchill",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "01/07/2018",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#cours-dherbouville"
       },
       "geometry": {
@@ -364,9 +365,10 @@
       "properties": {
         "line": 6,
         "name": "Jonction Quais du Rhône Centre - VL4",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "done",
+        "doneAt": "01/02/2014",
+        "type": "bilaterale",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#jonction-vers-rhône-rive-droite-et-vl4"
       },
       "geometry": {
@@ -566,16 +568,34 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "name": "Quai Perrache Sud",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "name": "Quai Perrache H7",
+        "status": "done",
+        "doneAt": "01/04/2022",
+        "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.821607387257046, 45.73836389508797],
+          [4.820830821990966, 45.737443627164645]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "name": "Quai Perrache Sud",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
+        "link": "/voie-lyonnaise-6#quai-perrache"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.820830821990966, 45.737443627164645],
           [4.820230466859556, 45.73676785150205],
           [4.819238328880331, 45.73553349936795],
@@ -590,9 +610,9 @@
       "properties": {
         "line": 6,
         "name": "Pont de la Mulatière",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "done",
+        "type": "bilaterale",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#pont-autoroutier-de-la-mulatière"
       },
       "geometry": {
@@ -614,9 +634,9 @@
         "id": "CarrefourAqua-commun",
         "line": 6,
         "name": "Carrefour Aquarium",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -709,9 +729,9 @@
         "id": "OullinsHerriot-commun",
         "line": 6,
         "name": "Oullins Herriot",
-        "status": "planned",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -729,9 +749,9 @@
       "properties": {
         "line": 6,
         "name": "Pont d'Oullins",
-        "status": "planned",
-        "type": "inconnu",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -967,9 +987,9 @@
       "properties": {
         "line": 6,
         "name": "Oullins Bourgeois - St-Genis-Laval Gadagne",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#rue-de-la-camille-à-giratoire-gadagne"
       },
       "geometry": {

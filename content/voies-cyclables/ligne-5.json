@@ -113,9 +113,9 @@
       "properties": {
         "line": 5,
         "name": "Liaison VL7",
-        "status": "unknown",
-        "type": "inconnu",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#traversée-vallée-de-la-chimie"
       },
       "geometry": {
@@ -131,7 +131,8 @@
       "properties": {
         "line": 5,
         "name": "Saint-Fons - Sud",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "10/04/2006",
         "type": "voie-verte",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-vallée-de-la-chimie"
@@ -167,9 +168,9 @@
       "properties": {
         "line": 5,
         "name": "Saint-Fons - Frères Perret",
-        "status": "planned",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#traversée-vallée-de-la-chimie"
       },
       "geometry": {
@@ -203,7 +204,7 @@
       "properties": {
         "line": 5,
         "name": "Pont Rhône-A7",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-vallée-de-la-chimie"
@@ -371,7 +372,7 @@
       "properties": {
         "id": "OullinsJaurès-commun",
         "line": 5,
-        "name": "Oullins - Avenue Jaurès",
+        "name": "Oullins - Avenue Jaurès Sud",
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte",
@@ -393,9 +394,54 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "OullinsCrance-commun",
+        "id": "OullinsCranceS-commun",
         "line": 5,
-        "name": "Oullins - Rue Dubois Crancé",
+        "name": "Oullins - Avenue Jaurès Nord",
+        "status": "variante",
+        "text": "variante temporaire",
+        "type": "voie-verte",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.819320165274689, 45.71418732326234],
+          [4.819561453040123, 45.71311666165023],
+          [4.819592950079546, 45.71309396688242],
+          [4.81993574483792,45.711520632000436]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OullinsCranceS-commun",
+        "line": 5,
+        "name": "Oullins - Rue Dubois Crancé Sud",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
+        "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.818352566383808, 45.71223890390645],
+          [4.818586993120078, 45.71200277108274],
+          [4.818783853963005, 45.71184028687],
+          [4.818985827597814, 45.711737489103754],
+          [4.819813761206756, 45.71153237523109],
+          [4.81993574483792, 45.711520632000436]
+        ]
+      }
+    },           
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OullinsCranceN-commun",
+        "line": 5,
+        "name": "Oullins - Rue Dubois Crancé Nord",
         "status": "planned",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
@@ -407,20 +453,37 @@
           [4.817267726957937, 45.71396524612453],
           [4.81742906961523, 45.713505281766004],
           [4.818086559233677, 45.71252649002994],
-          [4.818586993120078, 45.71200277108274],
-          [4.818783853963005, 45.71184028687],
-          [4.818985827597814, 45.711737489103754],
-          [4.819813761206756, 45.71153237523109],
-          [4.81993574483792, 45.711520632000436]
+          [4.818352566383808, 45.71223890390645]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "id": "OullinsCranceN-commun",
+        "line": 5,
+        "name": "Oullins - Avenue des Saules Est",
+        "status": "variante",
+        "text": "variante temporaire",
+        "type": "bilaterale",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.815988402129236, 45.71382570856283],
+          [4.817267726957937, 45.71396524612453],
+          [4.819320165274689, 45.71418732326234]
+        ]
+      }
+    },      
+    {
+      "type": "Feature",
+      "properties": {
         "id": "OullinsSaules-commun",
         "line": 5,
-        "name": "Oullins - Avenue des Saules",
+        "name": "Oullins - Avenue des Saules Ouest",
         "status": "planned",
         "type": "bilaterale",
         "quality": "satisfactory",
@@ -487,10 +550,10 @@
         "id": "YzeronOuest-commun",
         "line": 5,
         "name": "Berge Yzeron Ouest - scénario A",
-        "status": "variante",
+        "status": "variante-postponed",
         "text": "variante A",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -515,10 +578,10 @@
         "id": "OullinsHerriot-commun",
         "line": 5,
         "name": "Oullins Herriot",
-        "status": "variante",
+        "status": "variante-postponed",
         "text": "variante A",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -537,10 +600,10 @@
         "id": "OullinsChabriere-commun",
         "line": 5,
         "name": "Parc Chabrières-Arles - scénario A",
-        "status": "variante",
+        "status": "variante-postponed",
         "text": "variante A",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -576,11 +639,11 @@
       "properties": {
         "id": "OullinsB-commun",
         "line": 5,
-        "name": "Rue Sémard & Avenue du Rhône - scénario B",
-        "status": "variante",
+        "name": "Rue Sémard & Aulagne - scénario B",
+        "status": "variante-postponed",
         "text": "variante B",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -594,6 +657,25 @@
           [4.812051031365854, 45.71740377339458],
           [4.812247912158796, 45.71740078509575],
           [4.812346352554584, 45.71738285529861],
+          [4.812551793381658, 45.71710494270883]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OullinsRhone-commun",
+        "line": 5,
+        "name": "Avenue du Rhône - scénario B",
+        "status": "variante",
+        "text": "variante B",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.812551793381658, 45.71710494270883],
           [4.813597127013395, 45.717164715666826],
           [4.813922408322753, 45.71716770397873],
@@ -607,10 +689,10 @@
         "id": "BoulZolaEst-commun",
         "line": 5,
         "name": "Boulevard Emile Zola Est - Scénario B",
-        "status": "variante",
+        "status": "variante-postponed",
         "text": "variante B",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -677,9 +759,9 @@
         "id": "BoulZolaOuest-commun",
         "line": 5,
         "name": "Boulevard Emile Zola Ouest",
-        "status": "planned",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#route-de-brignais-à-boulevard-de-lyzeron"
       },
       "geometry": {
@@ -703,9 +785,9 @@
         "id": "ParcYzeron-commun",
         "line": 5,
         "name": "Parc de l'Yzeron",
-        "status": "planned",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#route-de-brignais-à-boulevard-de-lyzeron"
       },
       "geometry": {
@@ -741,10 +823,9 @@
         "id": "Merlo-commun",
         "line": 5,
         "name": "Rue de Merlo",
-        "status": "done",
-        "doneAt": "10/04/2014", 
-        "type": "velorue",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#route-de-brignais-à-boulevard-de-lyzeron"
       },
       "geometry": {
@@ -769,9 +850,9 @@
         "id": "AqueducBeaunant-commun",
         "line": 5,
         "name": "Avenue de l'Aqueduc de Beaunant",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#route-de-brignais-à-boulevard-de-lyzeron"
       },
       "geometry": {
@@ -843,7 +924,7 @@
         "line": 5,
         "name": "Francheville - Avenue du Chater",
         "status": "postponed",
-        "type": "aucun",
+        "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#alaï-à-beaunant-rd342"
       },
@@ -998,9 +1079,9 @@
         "line": 5,
         "name": "Porte du Valvert",
         "type": "bidirectionnelle",
-        "status": "planned",
-        
-        "quality": "satisfactory",
+        "status": "done",
+        "doneAt" : "30/09/2020",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#porte-du-valvert"
       },
       "geometry": {
@@ -1046,9 +1127,10 @@
         "id": "Souvenir-commun",
         "line": 5,
         "name": "Souvenir - Bourbonnais",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "10/04/2006",
         "type": "velorue",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#rue-du-bourbonnais-et-rue-du-souvenir"
       },
       "geometry": {
@@ -1075,9 +1157,9 @@
         "id": "PlaceValmy-commun",
         "line": 5,
         "name": "Place Valmy",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#rue-du-sergent-michel-berthet-le-long-de-la-place-valmy"
       },
       "geometry": {
@@ -1091,11 +1173,38 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "PlaceValmy-commun",
+        "line": 5,
+        "name": "Rue du Chapeau Rouge",
+        "status": "variante",
+        "text": "variante temporaire",
+        "type": "velorue",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-5#rue-du-sergent-michel-berthet-le-long-de-la-place-valmy"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.805415015656813, 45.774275105396384],
+          [4.805806739223158, 45.774276803515534],
+          [4.806038369211308, 45.774253723670995],
+          [4.806319634197507, 45.77418448407886],
+          [4.806496114188121, 45.774099857794084],
+          [4.806672594179673, 45.77400369140534],
+          [4.8068435591707726, 45.77381520480279],
+          [4.806964889164789, 45.77364210430048],
+          [4.8075439641355615, 45.773172806902835]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
         "id": "RondpointValmy-commun",
         "line": 5,
         "name": "Rond-point Valmy",
-        "type": "bilaterale",
-        "status": "planned",
+        "type": "aucun",
+        "status": "postponed",
         "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#rond-point-de-valmy"
       },
@@ -1127,9 +1236,9 @@
         "id": "Roquette-commun",
         "line": 5,
         "name": "Rue Roquette",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#rue-roquette"
       },
       "geometry": {
@@ -1149,6 +1258,27 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Roquette-commun",
+        "line": 5,
+        "name": "Rue St-Pierre-de-Vaise",
+        "status": "variante",
+        "text": "variante temporaire",
+        "type": "bilaterale",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-5#rue-roquette"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8075439641355615, 45.773172806902835],
+          [4.808666325086193, 45.77372758119222],
+          [4.809234141908888, 45.77406192601236]
+        ]
+      }
+    },    
     {
       "type": "Feature",
       "properties": {
@@ -1189,6 +1319,26 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Jayr-commun",
+        "line": 5,
+        "name": "Quai Jaÿr Trémie",
+        "link": "/voie-lyonnaise-5#quais-de-saône",
+        "type": "bilaterale",
+        "quality": "unsatisfactory",
+        "status": "postponed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.808707237243652, 45.775036521310206],
+          [4.808658289530314, 45.77482922087245],
+          [4.809234141908888, 45.77406192601236]
+        ]
+      }
+    },    
     {
       "type": "Feature",
       "properties": {
@@ -1243,9 +1393,10 @@
         "id": "PontTassigny-commun",
         "line": 5,
         "name": "Pont de Lattre de Tassigny",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "31/10/2013",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#pont-poincaré-à-pont-de-lattre-de-tassigny"
       },
       "geometry": {

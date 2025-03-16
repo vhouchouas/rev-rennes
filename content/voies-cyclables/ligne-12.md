@@ -18,8 +18,8 @@ cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 #### Rue du Sergent Michel Berthet
 Sur cette rue aujourd'hui à fort trafic et sans aménagements cyclables, il est prévu d'aménager une piste cyclable bidirectionnelle de 2.50 à 4.00m de large côté Est de la chaussée, en lieu et place de la bande de stationnement et parfois d'une voie de circulation. Au niveau de la place Dumas de Loire, l'étroitesse ponctuelle de la rue nécessitera la mise en place d'un alternat routier de circulation.
 
-::banner{type="info"}
-Cet aménagement très attendu permettra d'enfin sécuriser les déplacements des cyclistes entre la place Valmy et le pôle multimodal de Gorge de Loup. Les travaux auront lieu en 2026.
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et la rue du Sergent Berthet ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un mandat ultérieur et les cyclistes devront continuer à se mettre en danger entre Valmy et Gorge de Loup sur un tronçon sans aucun aménagement cyclable pendant encore de nombreuses années.
 ::
 
 ::content-image
@@ -49,6 +49,10 @@ Bien que qualitatif, cet aménagement est insuffisant au regard des ambitions de
 
 #### Avenue Barthélémy Buyer - *Pierre Audry à Trion*
 Sur cette petite section de 120m de long jusqu'à la place de Trion, le projet prévoit l'aménagement de deux pistes cyclables bilatérales de 2m de large.
+
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur.
+::
 
 ### Traversée de Saint-Just
 Pour traverser ce quartier ancien, le projet prévoit d'emprunter la rue de Trion puis la rue des Farges. Ces rues étroites, sans aménagements cyclables et avec des trottoirs parfois inférieurs à 1m de large voient passer un flux de transit automobile inadapté, approchant 8000 à 9000 véhicules par jour. Elles sont anxiogènes pour les cyclistes et très bruyantes pour les riverains.

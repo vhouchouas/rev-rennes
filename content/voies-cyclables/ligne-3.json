@@ -198,9 +198,9 @@
       "properties": {
         "line": 3,
         "name": "Quincieux",
-        "status": "planned",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#quincieux-à-neuville"
       },
       "geometry": {
@@ -231,9 +231,9 @@
       "properties": {
         "line": 3,
         "name": "St-Germain-au-Mont-d'Or",
-        "status": "planned",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#quincieux-à-neuville"
       },
       "geometry": {
@@ -694,9 +694,9 @@
         "id": "Barbe-commun",
         "line": 3,
         "name": "Quai Raoul Carrié",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
@@ -708,16 +708,18 @@
           [4.837771654129028, 45.80075755554231],
           [4.836815194232855, 45.80022843351546],
           [4.8358190059661865, 45.799755270962166],
-          [4.831871115758162, 45.798557831464315]
+          [4.831871115758162, 45.798557831464315],
+          [4.831059727875555, 45.798218640954275],
+          [4.8304759395564645, 45.797975559948014]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "StRambert-commun",
+        "id": "Barbe-commun",
         "line": 3,
-        "name": "Variante - Gde Rue de Saint Rambert",
+        "name": "Variante - Gde Rue de Saint Rambert & Termier",
         "status": "variante",
         "type": "velorue",
         "quality": "satisfactory",
@@ -726,43 +728,44 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.8304758024926, 45.79797553345537],
-          [4.830367421232495, 45.79799353549845],
-          [4.830230184397806, 45.797979402654846],
-          [4.830212368318826, 45.798042999877765],
-          [4.830096833590744, 45.7981594171801],
-          [4.830056432817003, 45.79817110470535],
-          [4.8300817461998236, 45.798247465995445],
-          [4.8301528681452055, 45.7983083045967],
-          [4.830308244539282, 45.79835905501531],
-          [4.8305385437747645, 45.79842383239756],
-          [4.8306551213303806, 45.79844535509437],
-          [4.830949362025194, 45.798528657030715],
-          [4.831296380256504, 45.798635582673455],
-          [4.831649113960225, 45.79874844233328],
-          [4.831713482035923, 45.798686449226835],
-          [4.83175020043052, 45.79865245145075],
-          [4.831870481365343, 45.79855789805916]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "Carrié-commun",
-        "line": 3,
-        "name": "Variante - Quai Raoul Carrié",
-        "status": "variante",
-        "type": "inconnu",
-        "quality": "satisfactory",
-        "link": "/voie-lyonnaise-3#saint-rambert-à-pont-de-lîle-barbe"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
           [4.8304759395564645, 45.797975559948014],
-          [4.831059727875555, 45.798218640954275],
-          [4.831870776912041, 45.79855785412218]
+          [4.830364186117464, 45.79799316615052],
+          [4.830234965368106, 45.79798458601218],
+          [4.830207275206618, 45.79805537211166],
+          [4.830090361194834, 45.798162623605094],
+          [4.830050364296767, 45.79817549377063],
+          [4.830090361194834, 45.798259149773116],
+          [4.830151894885603, 45.79830634028335],
+          [4.830281115635955, 45.798355675773905],
+          [4.830674931254805, 45.798454346624055],
+          [4.832010212336769, 45.798857608282475],
+          [4.832465563120024, 45.799245852386974],
+          [4.832690161090426, 45.799348811625066],
+          [4.833717773720508, 45.79970487752419],
+          [4.833991599096237, 45.799771371808504],
+          [4.835056131940945, 45.80003949189833],
+          [4.835317650125063, 45.80019178353541],
+          [4.835456100928553, 45.80030975564375],
+          [4.835566861571579, 45.80044917690472],
+          [4.835708389059505, 45.80074946766561],
+          [4.8357580202702195, 45.800897064601855],
+          [4.83571494668675, 45.80103648439325],
+          [4.835444198449494, 45.80134106180034],
+          [4.83581647727658, 45.80145688657433],
+          [4.836253367957454, 45.8016649421084],
+          [4.836517962825951, 45.80179792531462],
+          [4.838200909868533, 45.80292826937651],
+          [4.838496271582898, 45.803363671078074],
+          [4.8385024251327025, 45.80351380905964],
+          [4.838490118395185, 45.803655367119205],
+          [4.838567035507907, 45.80380121444051],
+          [4.8386624127279845, 45.80388700680393],
+          [4.838853167168111, 45.80398137825142],
+          [4.838951621073591, 45.80383767621106],
+          [4.839028538186341, 45.80349021601509],
+          [4.839028538282037, 45.803110580978],
+          [4.838991618067382, 45.802756681694376],
+          [4.839157418246998, 45.802784532756064]
         ]
       }
     },
@@ -792,7 +795,7 @@
           [4.824462096715621, 45.79490888883926],
           [4.825862646102905, 45.79564122746802],
           [4.829010388048317, 45.79728487618268],
-          [4.8304620219190895, 45.79796575861203]
+          [4.8304759395564645, 45.797975559948014]
         ]
       }
     },
@@ -871,9 +874,9 @@
         "line": 3,
         "name": "Quai Jaÿr Trémie",
         "link": "/voie-lyonnaise-3#pont-clémenceau-au-pont-koenig",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
-        "status": "planned"
+        "type": "bilaterale",
+        "quality": "unsatisfactory",
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
@@ -890,9 +893,9 @@
         "line": 3,
         "name": "Place du Port Mouton",
         "link": "/voie-lyonnaise-3#pont-clémenceau-au-pont-koenig",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
-        "status": "planned"
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
@@ -1050,9 +1053,9 @@
         "id": "CarrefourAqua-commun",
         "line": 3,
         "name": "Carrefour Aquarium",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#pont-de-la-mulatière-au-barrage-de-pierre-bénite"
       },
       "geometry": {
@@ -1243,7 +1246,7 @@
       "properties": {
         "id": "OullinsSaules-commun",
         "line": 3,
-        "name": "Oullins - Avenue des Saules",
+        "name": "Oullins - Avenue des Saules Ouest",
         "status": "planned",
         "type": "bilaterale",
         "quality": "satisfactory",
@@ -1260,9 +1263,30 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "OullinsCrance-commun",
+        "id": "OullinsCranceN-commun",
         "line": 3,
-        "name": "Oullins - Rue Dubois Crancé",
+        "name": "Oullins - Avenue des Saules Est",
+        "status": "variante",
+        "text": "variante temporaire",
+        "type": "bilaterale",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.815988402129236, 45.71382570856283],
+          [4.817267726957937, 45.71396524612453],
+          [4.819320165274689, 45.71418732326234]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OullinsCranceN-commun",
+        "line": 3,
+        "name": "Oullins - Rue Dubois Crancé Nord",
         "status": "planned",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
@@ -1274,6 +1298,25 @@
           [4.817267726957937, 45.71396524612453],
           [4.81742906961523, 45.713505281766004],
           [4.818086559233677, 45.71252649002994],
+          [4.818352566383808, 45.71223890390645]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OullinsCranceS-commun",
+        "line": 3,
+        "name": "Oullins - Rue Dubois Crancé Sud",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.818352566383808, 45.71223890390645],
           [4.818586993120078, 45.71200277108274],
           [4.818783853963005, 45.71184028687],
           [4.818985827597814, 45.711737489103754],
@@ -1285,9 +1328,31 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "OullinsCranceS-commun",
+        "line": 3,
+        "name": "Oullins - Avenue Jaurès Nord",
+        "status": "variante",
+        "text": "variante temporaire",
+        "type": "voie-verte",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.819320165274689, 45.71418732326234],
+          [4.819561453040123, 45.71311666165023],
+          [4.819592950079546, 45.71309396688242],
+          [4.81993574483792,45.711520632000436]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
         "id": "OullinsJaurès-commun",
         "line": 3,
-        "name": "Oullins - Avenue Jaurès",
+        "name": "Oullins - Avenue Jaurès Sud",
         "status": "done",
         "link": "/voie-lyonnaise-3#quartier-de-la-saulaie",
         "doneAt": "31/12/2019",
@@ -1857,7 +1922,8 @@
       "properties": {
         "line": 3,
         "name": "Givors Freyssinet",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "28/02/2025",
         "type": "voie-verte",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#givors-sud"

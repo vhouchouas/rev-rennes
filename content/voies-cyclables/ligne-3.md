@@ -28,6 +28,10 @@ streetView: 45.885026,4.8102775,3a,75y,162.21h,90t
 ---
 ::
 
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'ensemble de ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur.
+::
+
 #### Massieux à Neuville
 Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagé en voie verte de 3m de large situé côté Ouest de la route de Trévoux puis de l'avenue Sadi Carnot. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
 
@@ -79,7 +83,11 @@ Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transit
 ::
 
 #### Saint-Rambert à pont de l'Île Barbe
-Cette section de 500m a l'inconvénient d'être particulièrement étroite et de ne pas pouvoir accueillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
+Cette section de 900m a l'inconvénient d'être particulièrement étroite et de ne pas pouvoir accueillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
+
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'ensemble de ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. La Métropole étudie cependant le jalonnement d'une continuité cyclable pour éviter ce quai, que nous imaginons passer par la Grande Rue de St-Rambert et la rue Pierre Termier. Il restera à confirmer cette hypothèse et à connaitre les aménagements retenus.
+::
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.\
@@ -110,12 +118,16 @@ Les travaux entre le pont Clémenceau et le pont Schuman devraient avoir lieu en
 Cette portion doit faire l'objet d'un réaménagement majeur, avec la mise en sens unique Sud-Nord du quai, qui permettra de créer une piste cyclable bidirectionnelle de 3.50m de large le long de la Saône.
 
 ::banner{type="modified"}
-Contrairement à ce qui a été annoncé lors de la concertation, une petite portion entre la place du port Mouton et le pont Clémenceau ne sera pas aménagée pour maintenir le couloir bus sur la rampe Est de la trémie essentiel à la bonne performance des nombreuses lignes de bus qui rejoignent Valmy. Il faudra attendre un projet de suppression de la trémie sous le pont Clémenceau pour pouvoir aménager une piste cyclable sur ce tronçon de 125m de long.\
+Contrairement à ce qui a été annoncé lors de la concertation, une petite portion **entre le Nord de la place du Port Mouton et le pont Clémenceau** ne sera pas aménagée pour maintenir le couloir bus sur la rampe Est de la trémie essentiel à la bonne performance des nombreuses lignes de bus qui rejoignent Valmy. Il faudra attendre un projet de suppression de la trémie sous le pont Clémenceau pour pouvoir aménager une piste cyclable sur ce tronçon de 125m de long.\
 En attendant, pour les cyclistes en transit le long de la Saône, la Métropole a décidé d'aménager les berges de Saône qui passent sous le pont Clémenceau en voie verte pour relier en sécurité le quai Arloing et le carrefour des Monts d'Or au nord.
 ::
 
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et **le projet de réaménagement de la place du Port Mouton** ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur.
+::
+
 ::banner{type="wip"}
-Les travaux devraient avoir lieu entre le printemps 2025 et le printemps 2026.
+Les travaux **entre le pont Koenig et le Sud de la place du port Mouton** devraient avoir lieu entre le printemps 2025 et le printemps 2026.
 ::
 
 ::content-image
@@ -192,7 +204,11 @@ Ceux au nord de la rue Chardiny débuteront après les travaux de l'aquarium, au
 La Voie Lyonnaise 3 fait ici un léger détour en s'éloignant du Rhône via la rue Gabriel Péri compatible avec un aménagement en vélorue pour desservir le complexe évenementiel des Grandes Locos. Elle traverse l'Yzeron en voie verte sur la passerelle existante au niveau de l'avenue Edmond Locard. Ce franchissement étroit de la rivière devra être amélioré à moyen-terme pour ne pas en faire un point noir piéton. Les cyclistes continueront ensuite sur l'avenue Locard qu'ils emprunteront jusqu'à son extrémité Sud sur de nouvelles pistes cyclables sécurisées et élargies. Ils emprunteront ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
 
 ::banner{type="info"}
-Les travaux de voirie liés au projet urbain de la Saulaie commenceront à l'été 2025 et se termineront au printemps 2026. En attendant, les cyclistes utiliseront les aménagements sécurisés existants sur l'avenue Locard et l'avenue des Saules. Avant l'aménagement de le rue Dubois Crancé, nous recommandons de passer par l'Est de l'avenue des Saules et la voie verte sur trottoir Ouest de l'avenue Jean Jaurès.
+Les travaux de voirie liés au projet urbain de la Saulaie commenceront à l'été 2025 et se termineront au printemps 2026. En attendant, les cyclistes utiliseront les aménagements sécurisés existants sur l'avenue Locard et l'avenue des Saules.
+::
+
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et **la portion Sud de la rue Dubois Crancé** qui devait être aménagée par la Métropole ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un prochain mandat. D'ici là, nous recommandons de passer par l'Est de l'avenue des Saules et la voie verte sur trottoir Ouest de l'avenue Jean Jaurès.
 ::
 
 #### Traversée de Pierre-Bénite
@@ -246,7 +262,7 @@ Ce projet permet d'accueillir un tronçon isolé de la Voie Lyonnaise 3. Il n'es
 ::
 
 ::banner{type="wip"}
-Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux jusqu'à la route de la Centrale a débuté en juin 2024 et s'est terminée en fin d'année 2024. Une dernier tranche de travaux jusqu'au chemin de Freyssinet a débuté à l'automne 2024 et se poursuit jusqu'en février 2025.
+Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux jusqu'à la route de la Centrale a débuté en juin 2024 et s'est terminée en fin d'année 2024. Une dernier tranche de travaux jusqu'au chemin de Freyssinet a eu lieu entre l'automne 2024 et et février 2025.
 ::
 
 ## Budget prévisionnel
