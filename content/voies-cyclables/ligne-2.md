@@ -39,7 +39,7 @@ Ce tronçon, très attendu par les cyclistes du plateau Nord, restera malheureus
 ::
 
 ::banner{type="modified"}
-Après des études complémentaires de la Métropole pour proposer une solution court-terme à la traversée du Rhône dans ce secteur, l'option la plus crédible serait de faire un détour d'environ 800m via la passerelle de la Paix, en passant derrière l'Amphthéâtre 3000 et dans les rues du quartier de St-Clair.
+Après des études complémentaires de la Métropole pour proposer une solution court-terme à la traversée du Rhône dans ce secteur, l'option la plus crédible serait de faire un détour d'environ 800m via la passerelle de la Paix, en passant derrière l'Amphthéâtre 3000 et dans les rues du quartier de St-Clair, mais sans aucun aménagement supplémentaire côté Caluire...
 ::
 
 #### Boulevard Stalingrad Nord
@@ -222,6 +222,10 @@ Les travaux ont lieu entre décembre 2024 et avril 2025.
 
 #### Route de Lyon (rue des Alouettes à rue Diderot)
 Cette portion sera totalement réaménagée et verra la création d'une piste cyclable bidirectionnelle de 3m de large côté Nord, en lieu et place d'une des deux voies de circulation. Elle prendra fin au niveau de la rue Diderot qui permettra de rejoindre le centre-ville de Saint-Priest.
+
+::banner{type="postponed"}
+Les études de ce projet de grande ampleur ont commencé en fin de mandat et sa réalisation est donc de fait reportée à un mandat ultérieur.
+::
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 03/10 au 04/11/2022.\

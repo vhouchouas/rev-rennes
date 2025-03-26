@@ -199,6 +199,19 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "danger",
+        "name": "Sortie dépôt tram T2, sens Est>Ouest",
+        "description": "Création d'un large ilot en plein dans la trajectoire, pouvant mener à un risque de chute grave et obligeant les cyclistes à un slalom dangereux sur les rails",
+        "danger": "Risque de chute ou de collisions de cyclistes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.924177, 45.719651]
+      }
+    },     
+    {
+      "type": "Feature",
+      "properties": {
         "line": 8,
         "name": "La Tour de Salvagny - Ouest",
         "status": "postponed",
@@ -1399,9 +1412,9 @@
       "properties": {
         "line": 8,
         "name": "Rue Lionel Terray Ouest",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-8#rue-lionel-terray"
       },
       "geometry": {
@@ -1431,9 +1444,9 @@
         "id": "varianteParilly",
         "line": 8,
         "name": "Rue Lionel Terray Est",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-8#rue-lionel-terray"
       },
       "geometry": {

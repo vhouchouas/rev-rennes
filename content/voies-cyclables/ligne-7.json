@@ -1784,9 +1784,10 @@
       "properties": {
         "line": 7,
         "name": "Feyzin Nord",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "01/07/2005",
         "type": "bilaterale",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#traversée-de-feyzin"
       },
       "geometry": {

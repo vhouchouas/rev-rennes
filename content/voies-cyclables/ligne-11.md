@@ -67,7 +67,7 @@ Sur cette rue à fort trafic, une piste bidirectionnelle temporaire a été marq
 Le projet porté par la SPL Lyon Part-Dieu vise à transformer les bandes cyclables en une piste cyclable bidirectionnelle de 3 à 4m de large côté Nord. En parallèle, l'étroit trottoir Sud sera agrandi.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et cette section ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un mandat ultérieur.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et cette section ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc considérée comme reportée à un mandat ultérieur.
 ::
 
 ::content-image
@@ -110,7 +110,7 @@ Suite à la concertation, la Métropole et la mairie du 3e arrondissement ont an
 ::
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et cette section ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un mandat ultérieur.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et cette section ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc considérée comme reportée à un mandat ultérieur.
 ::
 
 ::content-image

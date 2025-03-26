@@ -229,7 +229,7 @@
         "line": 1,
         "name": "Einstein Est",
         "status": "postponed",
-        "type": "bidirectionnelle",
+        "type": "aucun",
         "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua",
         "quality": "unsatisfactory"
       },
@@ -244,11 +244,34 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "EinsteinE-commun",
+        "line": 1,
+        "name": "Variante Jean Capelle Est",
+        "status": "variante",
+        "text": "variante temporaire",
+        "type": "bandes-cyclables",
+        "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.87922082232771, 45.78288539135124],
+          [4.880563373515827, 45.78317094959934],
+          [4.882679387118259, 45.78363917766046],
+          [4.883614216726187, 45.783845993887525],
+          [4.883788881098923, 45.783762268603745]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
         "id": "EinsteinI-commun",
         "line": 1,
         "name": "Einstein INSA",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua",
         "quality": "satisfactory"
       },
@@ -263,13 +286,37 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "EinsteinO-commun",
+        "id": "EinsteinI-commun",
         "line": 1,
-        "name": "Einstein Ouest",
-        "status": "planned",
+        "name": "Variante Jean Capelle Ouest",
+        "status": "variante",
+        "text": "variante temporaire",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua",
         "quality": "satisfactory"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.877199044805195, 45.78255851628476],
+          [4.87814998610304, 45.78276779779068],
+          [4.878445509087072, 45.7827823454611],
+          [4.879149549137622, 45.78287144983638],
+          [4.87922082232771, 45.78288539135124]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EinsteinO-commun",
+        "line": 1,
+        "name": "Einstein Ouest",
+        "status": "done",
+        "doneAt": "08/07/2005",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua",
+        "quality": "unsatisfactory"
       },
       "geometry": {
         "type": "LineString",
@@ -289,10 +336,11 @@
         "id": "11NovE-commun",
         "line": 1,
         "name": "Boulevard du 11 Nov. 1918 - Est",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "done",
+        "doneAt": "08/07/2005",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-1#stalingrad-nord",
-        "quality": "satisfactory"
+        "quality": "unsatisfactory"
       },
       "geometry": {
         "type": "LineString",

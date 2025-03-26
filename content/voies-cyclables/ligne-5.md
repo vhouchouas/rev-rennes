@@ -99,7 +99,7 @@ Le lien entre le pont Clémenceau et le centre de Vaise sera assuré en tronc co
 Le projet prévoit d'aménager une piste cyclable bidirectionnelle de 3m de large côté Nord à la place d'une des deux voies de circulation et d'une rangée de stationnement. Le trottoir adjacent le long du parc sera aussi élargi.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et la rue Roquette ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un mandat ultérieur.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et la rue Roquette ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc considéré comme reportée à un mandat ultérieur.
 ::
 
 #### Rond-point de Valmy
@@ -110,7 +110,7 @@ Faute de place disponible, les cheminements se feront avec peu de séparation av
 ::
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et le projet de réaménagement de la place Valmy ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et le projet de réaménagement de la place Valmy ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc considéré comme reporté à un mandat ultérieur.
 ::
 
 ::content-image
@@ -140,7 +140,7 @@ L'aménagement en vélorue permet de conserver un maximum de stationnement, d'é
 ::
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et le projet de réaménagement de la rue du Bourbonnais ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à partager leur itinéaire avec un flux automobile modéré qui reste trop important pour le rendre compatible avec une vélorue.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et le projet de réaménagement de la rue du Bourbonnais ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc considéré comme reporté à un mandat ultérieur. Les cyclistes continueront donc à partager leur itinéraire avec un flux automobile modéré qui reste trop important pour le rendre compatible avec une vélorue.
 ::
 
 #### Rue Marietton
@@ -159,7 +159,7 @@ La concertation publique sur ce tronçon se tenait du 29/01 au 11/03/2024 dans l
 Cette section très routière de l'avenue Victor Hugo a fait l'objet d'un aménagement transitoire fin 2020, avec le traçage d'une piste cyclable bidirectionnelle sur le trottoir Est. Il est prévu que cette piste soit pérennisée et améliorée dans le cadre de la Voie Lyonnaise 5 en restituant le trottoir aux piétons.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce projet de réaménagement ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sur un trottoir avec les piétons pendant encore de nombreuses années.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce projet de réaménagement ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc considéré comme reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sur un trottoir avec les piétons pendant encore de nombreuses années.
 ::
 
 #### Avenue Victor Hugo
@@ -196,7 +196,7 @@ La Voie Lyonnaise 5 empruntera :
   - le côté sud du boulevard Emile Zola, à partir de l'Intermarché jusqu'au pont Blanc, sous la forme d'une voie verte de 3 à 5m de large *(sauf point dur à moins de 2.5m sur 60m)*.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce projet ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à se mettre en danger en mixité avec les nombreux véhicules sans aucun aménagement cyclable pendant encore de nombreuses années.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce projet ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc considéré comme reporté à un mandat ultérieur. Les cyclistes continueront donc à se mettre en danger en mixité avec les nombreux véhicules sans aucun aménagement cyclable pendant encore de nombreuses années.
 ::
 
 ::content-image
@@ -217,7 +217,7 @@ Ce tronçon fait l'objet de deux variantes d'itinéraires :
   - au Sud, en voie verte sur le trottoir Nord du boulevard Emile Zola puis en piste cyclable bidirectionnelle sur la rue Pierre Sémard mise à sens unique avant de continuer sur l'avenue du Rhône
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce projet ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à se mettre en danger en mixité avec les nombreux véhicules sans aucun aménagement cyclable pendant encore de nombreuses années.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce projet ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc considéré comme reporté à un mandat ultérieur. Les cyclistes continueront donc à se mettre en danger en mixité avec les nombreux véhicules sans aucun aménagement cyclable pendant encore de nombreuses années.
 ::
 
 ::content-image
@@ -246,8 +246,12 @@ La Voie Lyonnaise 5 empruntera :
   - la voie verte existante au nord du Boulevard Urbain Sud,
   - à partir du Chemin des Ecoliers, elle se connectera à la :line-link{line=7} sur le boulevard Yves Farge sous une forme et un itinéraire à définir.
 
+::banner{type="wip"}
+Le pont sur l'A7 fait l'objet d'une réhabilitation totale, et la piste cyclable qui s'y trouve est fermée entre janvier et l'été 2025, obligeant les cyclistes à faire un détour conséquent. Elle sera légèrement élargie à la fin des travaux.
+::
+
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'avenue des Frères Perret, ainsi que le lien avec la VL7 ne font pas parties de la liste des aménagements financés qui est détaillée dans la délibération. Ils sont donc de fait reportés à un mandat ultérieur. Les cyclistes continueront donc à se mettre en danger en mixité avec les nombreux véhicules et poids lourds sans aucun aménagement cyclable pendant encore de nombreuses années.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'avenue des Frères Perret, ainsi que le lien avec la VL7 ne font pas parties de la liste des aménagements financés qui est détaillée dans la délibération. Nous les considérons donc comme reportés à un mandat ultérieur. Les cyclistes continueront donc à se mettre en danger en mixité avec les nombreux véhicules et poids lourds sans aucun aménagement cyclable pendant encore de nombreuses années.
 ::
 
 ## Budget prévisionnel

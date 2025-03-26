@@ -175,7 +175,7 @@ La Ville à Vélo demande au SYTRAL d'étudier la possibilité de dévier les bu
 Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidirectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce pont ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. L'élargissement de la piste cyclable est donc de fait reportée à un mandat ultérieur et les cyclistes devront continuer à faire avec une piste étroite de 2m50 de large avec conflits aux extrémités.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce pont ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. L'élargissement de la piste cyclable est donc considérée comme reportée à un mandat ultérieur et les cyclistes devront continuer à faire avec une piste étroite de 2m50 de large avec conflits aux extrémités.
 ::
 
 

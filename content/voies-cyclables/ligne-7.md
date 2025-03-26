@@ -292,6 +292,10 @@ La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.\
 ### Traversée de Feyzin
 *Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.*
 
+::banner{type="postponed"}
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises et ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Nous le considérons donc comme reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sur d'étroites bandes cyclables sur trottoir au nord, tandis qu'ils n'ont aucun aménagement dans le centre de la commune.
+::
+
 ## Budget prévisionnel
 - **27 300 000 € HT** au minimum dont :
 

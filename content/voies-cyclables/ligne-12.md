@@ -19,7 +19,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 Sur cette rue aujourd'hui à fort trafic et sans aménagements cyclables, il est prévu d'aménager une piste cyclable bidirectionnelle de 2.50 à 4.00m de large côté Est de la chaussée, en lieu et place de la bande de stationnement et parfois d'une voie de circulation. Au niveau de la place Dumas de Loire, l'étroitesse ponctuelle de la rue nécessitera la mise en place d'un alternat routier de circulation.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et la rue du Sergent Berthet ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un mandat ultérieur et les cyclistes devront continuer à se mettre en danger entre Valmy et Gorge de Loup sur un tronçon sans aucun aménagement cyclable pendant encore de nombreuses années.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et la rue du Sergent Berthet ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc considérée comme reportée à un mandat ultérieur et les cyclistes devront continuer à se mettre en danger entre Valmy et Gorge de Loup sur un tronçon sans aucun aménagement cyclable pendant encore de nombreuses années.
 ::
 
 ::content-image
@@ -51,7 +51,7 @@ Bien que qualitatif, cet aménagement est insuffisant au regard des ambitions de
 Sur cette petite section de 120m de long jusqu'à la place de Trion, le projet prévoit l'aménagement de deux pistes cyclables bilatérales de 2m de large.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc considéré comme reporté à un mandat ultérieur.
 ::
 
 ### Traversée de Saint-Just

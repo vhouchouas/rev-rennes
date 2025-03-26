@@ -53,7 +53,7 @@ Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large sera cré
 Le trottoir actuellement partagé avec les vélos sera rendu aux seuls piétons.
 
 ::banner{type="postponed"}
-La Métropole de Lyon a annoncé le 05/12/2024 que l'aménagement de la majeure partie du Boulevard du 11 Novembre serait reporté sur un prochain mandat du fait des contraintes budgétaires actuelles et de la nécessité de réduire le nombre de chantiers parallèles en 2025. Par conséquent, piétons et vélos continueront malheureusement à se partager un trottoir étroit et très inconfortable source de nombreux conflits.
+La Métropole de Lyon a annoncé le 05/12/2024 que l'aménagement du Boulevard du 11 Novembre serait reporté sur un prochain mandat du fait des contraintes budgétaires actuelles et de la nécessité de réduire le nombre de chantiers parallèles en 2025. Par conséquent, piétons et vélos continueront malheureusement à se partager un trottoir étroit et très inconfortable source de nombreux conflits.
 ::
 
 ::content-image
@@ -69,11 +69,9 @@ streetView: 45.7793808,4.8620772,3a,75y,69.67h,90.63t
 Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.
 
 ::banner{type="postponed"}
-De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
-::
+La Métropole de Lyon a annoncé le 05/12/2024 que l'aménagement de l'avenue Einstein serait reporté sur un prochain mandat du fait des contraintes budgétaires actuelles et de la nécessité de réduire le nombre de chantiers parallèles en 2025. Par conséquent, piétons et vélos continueront malheureusement à se partager un trottoir étroit et très inconfortable source de nombreux conflits.
 
-::banner{type="wip"}
-Les travaux devraient commencer au second semestre 2025 et se poursuivre jusqu'à début 2026.
+De manière transitoire, la VL1 empruntera les aménagements de l'avenue Jean Capelle à partir de la rue des Sports. Elle pourrait être déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue à condition que la volonté politique perdure à ce moment-là.
 ::
 
 #### Concertation

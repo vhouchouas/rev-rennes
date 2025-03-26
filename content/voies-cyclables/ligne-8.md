@@ -171,7 +171,7 @@ Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhôn
 La Voie Lyonnaise 8 va totalement réaménager le pont qui sera débarrassé de ses vieilles bandes cyclables bilatérales sur trottoir. Les 4 voies de circulation actuelles seront réduites à 2, un couloir de bus à contre-sens sera créé et une large piste cyclable bidirectionnelle prendra place côté Sud.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce pont ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sur des bandes peintes sur les trottoirs en attendant le confortement de la structure prévu ces prochaines années.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce pont ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc considéré comme reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sur des bandes peintes sur les trottoirs en attendant le confortement de la structure prévu ces prochaines années.
 ::
 
 
@@ -262,8 +262,8 @@ La piste cyclable bidirectionnelle de 3m de large côté Sud, aménagée en 2011
 #### Rue Lionel Terray
 Ce tronçon fera l'objet d'un vaste projet de requalification avec un budget dédié dans le cadre de la ZAC Bron-Parilly. On sait que l'aménagement consistera en une piste cyclable bidirectionnelle de 3.50m de large côté Sud et qu'une des deux voies de circulation restantes sera dédiée aux bus.
 
-::banner{type="info"}
-Du fait du retard pris dans le projet de la ZAC Bron-Parilly, l'aménagement de ce tronçon sur le mandat est incertain et la Métropole a fléché une variante temporaire qui passe par le parc de Parilly pour éviter la portion sans aucun aménagement cyclable sur l'Est de la rue Lionel Terray.
+::banner{type="postponed"}
+Du fait du retard pris dans le projet de la ZAC Bron-Parilly, l'aménagement de ce tronçon est reporté sur un prochain mandat et la Métropole a fléché une variante temporaire qui passe par le parc de Parilly pour éviter la portion sans aucun aménagement cyclable sur l'Est de la rue Lionel Terray.
 ::
 
 #### Branche vers Campus Sud

@@ -18,7 +18,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
 Ce tronçon est aujourd'hui un chemin de halage en sable stabilisé le long de la voie SNCF. Le projet consiste à le transformer en voie verte et à modifier le revêtement pour un sol clair, lisse, confortable et drainant en conservant la largeur actuelle d'environ 3m. Il n'y a aucun éclairage prévu.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sur un revêtement en stabilisé inconfortable et salissant par temps de pluie.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc considéré comme reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sur un revêtement en stabilisé inconfortable et salissant par temps de pluie.
 ::
 
 ::content-image
@@ -162,14 +162,14 @@ Après de longues années de revendications associatives, une étroite bande cyc
 *Aucune information publique n'existe à ce jour sur le réaménagement de ce tronçon dans le cadre de la Voie Lyonnaise 6.*
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce pont autoroutier ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. Les cyclistes continueront donc à se serrer sur les trottoirs sur des aménagements étroits en conflit avec les piétons, avec une traversée dangereuse du grand carrefour devant l'Aquarium.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce pont autoroutier ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc considéré comme reporté à un mandat ultérieur. Les cyclistes continueront donc à se serrer sur les trottoirs sur des aménagements étroits en conflit avec les piétons, avec une traversée dangereuse du grand carrefour devant l'Aquarium.
 ::
 
 #### Aquarium à Pont d'Oullins
 *Aucune information publique n'existe à ce jour sur ce tronçon.*
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et cette section ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un mandat ultérieur.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et cette section ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc considérée comme reportée à un mandat ultérieur.
 ::
 
 ::banner{type="info"}
@@ -247,7 +247,7 @@ Après de nombreux rebondissements politiques déplorables début 2024 où Mairi
 Sur cette section, le projet consiste en la transformation des deux bandes cyclables bilatérales existantes (depuis 2003) en une piste cyclable bidirectionnelle de 3m de large côté Ouest de la chaussée.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et cette section ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un mandat ultérieur. Les cyclistes continueront donc à utiliser les bandes cyclables pendant encore de nombreuses années.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et cette section ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc considérée comme reportée à un mandat ultérieur. Les cyclistes continueront donc à utiliser les bandes cyclables pendant encore de nombreuses années.
 ::
 
 ::content-image

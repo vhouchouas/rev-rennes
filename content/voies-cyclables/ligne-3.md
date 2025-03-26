@@ -29,7 +29,7 @@ streetView: 45.885026,4.8102775,3a,75y,162.21h,90t
 ::
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'ensemble de ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, la partie nord de ce tronçon entre St-Germain et Quincieux ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Nous le considérons donc comme reporté à un mandat ultérieur.
 ::
 
 #### Massieux à Neuville
@@ -86,7 +86,7 @@ Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transit
 Cette section de 900m a l'inconvénient d'être particulièrement étroite et de ne pas pouvoir accueillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'ensemble de ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur. La Métropole étudie cependant le jalonnement d'une continuité cyclable pour éviter ce quai, que nous imaginons passer par la Grande Rue de St-Rambert et la rue Pierre Termier. Il restera à confirmer cette hypothèse et à connaitre les aménagements retenus.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'ensemble de ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Nous le considérons donc comme reporté à un mandat ultérieur. La Métropole étudie cependant le jalonnement d'une continuité cyclable pour éviter ce quai, que nous imaginons passer par la Grande Rue de St-Rambert et la rue Pierre Termier. Il restera à confirmer cette hypothèse et à connaitre les aménagements retenus.
 ::
 
 #### *Concertation*
@@ -208,7 +208,7 @@ Les travaux de voirie liés au projet urbain de la Saulaie commenceront à l'ét
 ::
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et **la portion Sud de la rue Dubois Crancé** qui devait être aménagée par la Métropole ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Elle est donc de fait reportée à un prochain mandat. D'ici là, nous recommandons de passer par l'Est de l'avenue des Saules et la voie verte sur trottoir Ouest de l'avenue Jean Jaurès.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et **la portion Sud de la rue Dubois Crancé** qui devait être aménagée par la Métropole ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Nous la considérons donc comme reportée à un mandat ultérieur. D'ici là, nous recommandons de passer par l'Est de l'avenue des Saules et la voie verte sur trottoir Ouest de l'avenue Jean Jaurès.
 ::
 
 #### Traversée de Pierre-Bénite
