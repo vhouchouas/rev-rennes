@@ -588,8 +588,8 @@
       "properties": {
         "line": 6,
         "name": "Quai Perrache Sud",
-        "status": "postponed",
-        "type": "aucun",
+        "status": "planned",
+        "type": "voie-verte",
         "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#quai-perrache"
       },
@@ -611,6 +611,7 @@
         "line": 6,
         "name": "Pont de la Mulatière",
         "status": "done",
+        "doneAt": "01/12/2020",
         "type": "bilaterale",
         "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#pont-autoroutier-de-la-mulatière"

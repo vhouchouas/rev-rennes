@@ -153,7 +153,7 @@ La concertation continue s'est déroulée de juin 2022 à juin 2024.\
 [Voir la présentation du projet Ligne de l'Est Lyonnais](https://destinations2026-sytral.fr/processes/lel?locale=fr)
 
 ::banner{type="wip"}
-Les travaux auront lieu entre septembre 2024 et début 2025.
+Les travaux ont eu lieu entre septembre 2024 et mars 2025.
 ::
 
 ### Boulevard Urbain Est à Chassieu - Dauphiné
