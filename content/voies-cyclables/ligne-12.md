@@ -44,7 +44,7 @@ streetView: 45.7653309,4.8060854,3a,75y,143.07h,90t
 ::
 
 ::banner{type="unsecured"}
-Bien que qualitatif, cet aménagement est insuffisant au regard des ambitions des Voies Lyonnaises, car une partie de son linéaire n'est pas séparé physiquement des autres véhicules. Dans le sens de la descente, les chicanes aménagées pour réduire les vitesses conduisent souvent les véhicules à se déporter sur la bande cyclable, rendant l'aménagement très anxiogène. Une reprise ultérieure sera donc nécessaire pour en faire un maillon effectif du réseau des Voies Lyonnaises.
+Bien que qualitatif, cet aménagement est insuffisant au regard des ambitions des Voies Lyonnaises. En effet, une partie de son linéaire n'est pas séparé physiquement des autres véhicules. Dans le sens de la descente, la bande cyclable est située le long d'une bande de stationnement avec un risque d'emportiérage, tandis que les chicanes aménagées pour réduire les vitesses conduisent souvent les véhicules à se déporter sur la bande cyclable, rendant l'aménagement très anxiogène. Une reprise ultérieure sera donc nécessaire pour en faire un maillon effectif du réseau des Voies Lyonnaises.
 ::
 
 #### Avenue Barthélémy Buyer - *Pierre Audry à Trion*
@@ -62,7 +62,7 @@ Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement
 La montée du Chemin Neuf pourrait être aménagée en vélorue avec un trafic automobile proche de zéro, si et seulement si sa fermeture à la circulation générale est décidée.
 
 ::banner{type="modified"}
-Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu un troisième scénario qui ne modifie pas le plan de circulation à l'intérieur du quartier de Saint-Just pour faciliter les déplacements des riverains. En revanche, le trafic de transit reste supprimé avec la fermeture de la montée du Chemin Neuf aux automobiles, et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy. Cette expérimentation a débuté mi-Août 2024 et durera 9 mois.
+Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu un troisième scénario qui ne modifie pas le plan de circulation à l'intérieur du quartier de Saint-Just pour faciliter les déplacements des riverains. En revanche, le trafic de transit reste supprimé avec la fermeture de la montée du Chemin Neuf aux automobiles, et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy. Cette expérimentation a débuté mi-août 2024 et dure jusqu'en juin 2025.
 ::
 
 ::content-image
@@ -80,7 +80,7 @@ Dans le Vieux Lyon, la Voie Lyonnaise 12 empruntera la rue Tramassac puis la rue
 En arrivant devant le :transport-link{type=métro line=D} Saint-Jean, l'itinéraire emprunte l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
 
 ::banner{type="wip"}
-Les travaux sur l'avenue Adolphe Max auront lieu au printemps 2025.
+Les travaux sur l'avenue Adolphe Max auront lieu en juin et juillet 2025.
 ::
 
 ### Traversée de la Presqu'Île de Lyon
@@ -98,7 +98,8 @@ streetView: 45.7582316,4.8331345,3a,75y,261.07h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux entre le pont Bonaparte et la rue Chambonnet auront lieu de mi-janvier à début juin 2025.
+Les travaux sur la rue Chambonnet ont lieu de mi-janvier à avril 2025.
+Les travaux sur le pont Bonaparte auront lieu en avril et mai 2025.
 ::
 
 ::banner{type="postponed"}

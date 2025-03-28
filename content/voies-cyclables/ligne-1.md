@@ -159,6 +159,10 @@ A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Ray
 La Métropole a annoncé le 30/01/2025 que la majeure partie de ce tronçon est reporté sine die. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus sur une voie étroite. Seule une petite partie située au Sud de la rue du commandant Ayasse sera aménagée pour éviter que les cyclistes soient incités à circuler au sein du parc des Berges.
 ::
 
+::banner{type="wip"}
+La section entre la rue du commandant Ayasse et le pont Pasteur devrait être en travaux entre juin et décembre 2025.
+::
+
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Centre_TetedOr_HalleGarnier.pdf)

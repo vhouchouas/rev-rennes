@@ -14,7 +14,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
 La Voie Lyonnaise 11 débutera place Bénédict Teissier au coeur du quartier du Point du Jour et poursuivra vers l'Est pour transformer les bandes cyclables datant de 2019 en aménagement sécurisé. Elle continuera sur la rue de la Favorite aujourd'hui non aménagée et très dangereuse. Entre la rue Appian et la place de Trion, plusieurs variantes devront être étudiées par les services de la Métropole de Lyon.
 
 ::banner{type="postponed"}
-La Métropole de Lyon a annoncé publiquement début août 2024 sur le réseau social X que ce tronçon ne serait pas aménagé sur ce mandat. Les cyclistes de tous âges de plus en plus nombreux sur cet axe continueront donc à circuler au milieu des voitures malgré le dénivelé pendant encore de nombreuses années.
+La Métropole de Lyon a annoncé publiquement début août 2024 sur le réseau social X que ce tronçon ne serait pas aménagé sur ce mandat. Les cyclistes de tous âges de plus en plus nombreux sur cet axe continueront donc à circuler au milieu des voitures malgré le dénivelé pendant encore de nombreuses années. On peut simplement noter une petite prolongation des bandes cyclables sur l'avenue du Point du Jour entre la rue des Granges et l'impasse Cumin (100m), avec une première phase en juillet 2021 côté Sud et une seconde phase en avril 2025 côté Nord.
 ::
 
 ### Traversée de Saint-Just - Traversée de Saint-Jean

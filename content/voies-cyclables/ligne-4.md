@@ -151,12 +151,18 @@ streetView: 45.7775538,4.8033621,3a,75y,345.96h,90t
 #### Rue de la Corderie
 Cette rue sera mise en sens unique (vers Ouest) pour y créer une piste cyclable bidirectionnelle de 3m de large côté Sud. Les trottoirs seront élargis et une large place sera consacrée à la végétalisation en conservant la majorité de l'offre de stationnement.
 
+
 #### Quais de Saône
 Le lien entre la rue de la Corderie et le pont Clémenceau sera assuré en tronc commun avec la :line-link{line=3} sur les quais de Saône, après le franchissement du carrefour des Monts d'Or via la création d'une nouvelle traversée cyclable directe.
 
 #### *Concertation*
 La concertation publique sur ce tronçon se tenait du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".\
 [Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
+
+::banner{type="wip"}
+Les travaux devraient avoir lieu entre avril et octobre 2025.
+::
+
 
 ### Pont Clémenceau à Boulevard des Belges
 
@@ -207,6 +213,10 @@ streetView: 45.7725923,4.8562026,3a,75y,270.71h,90t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux devraient avoir lieu entre août et décembre 2025.
+::
+
 #### Cours André Philip et rue Francis de Pressensé
 Les deux pistes unidirectionnelles de chaque côté de l'alignement d'arbres se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle de 3.50m de large après la traversée des rails de tramway. La Voie Lyonnaise 4 se prolonge ensuite sous la forme d'une piste bidirectionnelle de 3 à 4m de large sur la rue Francis de Pressensé, hormis un pincement entre 2m50 et 3m entre les rues Branly et Bernoux.
 
@@ -215,7 +225,8 @@ Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera r
 Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.
 
 ::banner{type="wip"}
-Les travaux ont commencé fin novembre 2024 et avanceront progressivement par tronçon de l'Est vers l'Ouest jusqu'en fin d'année 2025.
+Les travaux entre le cours de la République et Flachet ont lieu entre janvier et septembre 2025 de l'Est vers l'Ouest.
+Les travaux entre le cours de la République et l'avenue Verguin auront lieu entre juin 2025 et mars 2026, en commençant par le carrefour Stalingrad/Verguin en juin, puis le rond-point des Charpennes en août.
 ::
 
 ::banner{type="info"}
