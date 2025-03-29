@@ -53,7 +53,7 @@ export default defineNuxtConfig({
     }
   },
 
-  modules: ['@nuxtjs/tailwindcss', '@nuxt/content', '@nuxt/icon'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/content', '@nuxt/icon', '@nuxt/eslint'],
 
   content: {
     markdown: {
