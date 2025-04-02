@@ -10,6 +10,15 @@ export default defineContentConfig({
         newsBannerText: z.string(),
       })
     }),
+    blog: defineCollection({
+      source: 'blog/*.md',
+      type: 'page',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        imageUrl: z.string().url(),
+      })
+    }),
     voiesCyclablesPage: defineCollection({
       source: 'voies-cyclables/*.md',
       type: 'page',
