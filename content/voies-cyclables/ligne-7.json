@@ -209,7 +209,7 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Route du Mas Rillier Est",
-        "status": "planned",
+        "status": "wip",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
@@ -236,7 +236,7 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Route du Mas Rillier Ouest",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
@@ -359,7 +359,8 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Janier & Combattants AFN",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "25/03/2025",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
@@ -411,7 +412,7 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Loup Pendu",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
