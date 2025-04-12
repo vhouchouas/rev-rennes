@@ -20,14 +20,16 @@
 <script setup lang="ts">
 import type { Count } from '../../../types/counters';
 
-const { params } = useRoute();
-
 const { data: veloCounter } = await useAsyncData(() => {
-  return queryContent('compteurs/velo').where({ cyclopolisId: params.slug }).findOne();
+  return queryCollection('compteurs')
+    .where('path', 'LIKE', '/compteurs/velo%')
+    .first();
 });
 
 const { data: voitureCounter } = await useAsyncData(() => {
-  return queryContent('compteurs/voiture').where({ cyclopolisId: params.slug }).findOne();
+  return queryCollection('compteurs')
+    .where('path', 'LIKE', '/compteurs/voiture%')
+    .first();
 });
 
 if (!veloCounter.value || !voitureCounter.value) {
@@ -35,13 +37,17 @@ if (!veloCounter.value || !voitureCounter.value) {
   router.push({ path: '/404' });
 }
 
-const data = voitureCounter.value?.counts.map((voitureCount: Count) => {
-  const veloCount = veloCounter.value?.counts.find((veloCount: Count) => veloCount.month === voitureCount.month);
-  return {
-    month: voitureCount.month,
-    veloCount: veloCount?.count || 0,
-    voitureCount: voitureCount.count
-  };
+const data = computed(() => {
+  if (!voitureCounter.value || !veloCounter.value) return [];
+
+  return voitureCounter.value.counts.map((voitureCount: Count) => {
+    const veloCount = veloCounter.value?.counts.find((veloCount: Count) => veloCount.month === voitureCount.month);
+    return {
+      month: voitureCount.month,
+      veloCount: veloCount?.count || 0,
+      voitureCount: voitureCount.count
+    };
+  });
 });
 
 // const graphTitles = {
