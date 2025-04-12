@@ -43,7 +43,7 @@ const defaultOptions = {
 
 const props = defineProps<{
   features: Collections['voiesCyclablesGeojson']['features'] | CompteurFeature[]
-  options: Partial<typeof defaultOptions>;
+  options?: Partial<typeof defaultOptions>;
 }>();
 
 const options = { ...defaultOptions, ...props.options };
