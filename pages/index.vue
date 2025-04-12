@@ -38,7 +38,7 @@
 </template>
 
 <script setup lang="ts">
-import type { Geojson } from '~/types';
+import type { Collections } from '@nuxt/content';
 
 const { getRevName, displayQuality, displayQualityOnHomePage } = useConfig();
 
@@ -46,5 +46,5 @@ const { data } = await useAsyncData(() => {
   return queryCollection('voiesCyclablesGeojson').all();
 });
 
-const voies: Ref<Geojson[]> = computed(() => voies.value || []);
+const voies: Ref<Collections['voiesCyclablesGeojson'][]> = computed(() => data.value || []);
 </script>

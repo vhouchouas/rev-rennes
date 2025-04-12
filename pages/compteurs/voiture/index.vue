@@ -26,27 +26,28 @@
 
       <!-- liste des compteurs -->
       <div class="mt-4 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
-        <CounterCard v-for="counter of counters" :key="counter.name" :counter="formatCounter(counter)" />
+        <CounterCard v-for="counter of counters" :key="counter.name" :counter="counter" counter-type="voiture" />
       </div>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import type { CounterParsedContent } from '../../../types/counters';
 import { removeDiacritics } from '~/helpers/helpers';
 
 const { getCompteursFeatures } = useMap();
 
 const { data: allCounters } = await useAsyncData(() => {
-  return queryContent<CounterParsedContent>('compteurs/voiture').find();
+  return queryCollection('compteurs')
+    .where('path', 'LIKE', '/compteurs/voiture%')
+    .all();
 });
 
 const searchText = ref('');
 
 const counters = computed(() => {
   if (!allCounters.value) { return []; }
-  return allCounters.value
+  return [...allCounters.value]
     .sort((counter1, counter2) => {
       const count1 = counter1.counts.at(-1)?.count ?? 0;
       const count2 = counter2.counts.at(-1)?.count ?? 0;
@@ -56,15 +57,4 @@ const counters = computed(() => {
 });
 
 const features = getCompteursFeatures({ counters: allCounters.value, type: 'compteur-voiture' });
-
-function formatCounter(counter: CounterParsedContent) {
-  return {
-    ...counter,
-    link: counter._path!,
-    counts: counter.counts.map(count => ({
-      month: count.month,
-      voitureCount: count.count
-    }))
-  };
-}
 </script>

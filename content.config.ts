@@ -1,4 +1,4 @@
-import { defineCollection, defineContentConfig, z } from '@nuxt/content'
+import { defineCollection, defineContentConfig, z } from '@nuxt/content';
 
 export default defineContentConfig({
   collections: {
@@ -30,7 +30,7 @@ export default defineContentConfig({
         description: z.string(),
         trafic: z.string(),
         cover: z.string(),
-      })  
+      })
     }),
     voiesCyclablesGeojson: defineCollection({
       source: 'voies-cyclables/*.json',
@@ -38,32 +38,83 @@ export default defineContentConfig({
       schema: z.object({
         type: z.enum(['FeatureCollection']),
         features: z.array(
+          z.union([
+            z.object({
+              type: z.enum(["Feature"]),
+              properties: z.object({
+                id: z.string().optional(),
+                line: z.number(),
+                name: z.string(),
+                status: z.enum(["planned", "postponed", "variante-postponed", "done", "wip", "variante", "tested", "unknown"]),
+                type: z.enum([
+                  "bidirectionnelle",
+                  "bilaterale",
+                  "voie-bus",
+                  "voie-bus-elargie",
+                  "velorue",
+                  "voie-verte",
+                  "bandes-cyclables",
+                  "zone-de-rencontre",
+                  "aucun",
+                  "inconnu"
+                ]),
+                link: z.string().optional(),
+                quality: z.enum(["satisfactory", "unsatisfactory"]),
+                text: z.string().optional(),
+                doneAt: z.string().optional(),
+              }),
+              geometry: z.object({
+                type: z.enum(["LineString"]),
+                coordinates: z.array(z.tuple([z.number(), z.number()])),
+              }),
+            }),
+            z.object({
+              type: z.enum(["Feature"]),
+              properties: z.object({
+                type: z.enum(["perspective"]),
+                name: z.string(),
+                line: z.number(),
+                imgUrl: z.string().url(),
+              }),
+              geometry: z.object({
+                type: z.enum(['Point']),
+                coordinates: z.tuple([z.number(), z.number()])
+              }),
+            }),
+            z.object({
+              type: z.enum(["Feature"]),
+              properties: z.object({
+                type: z.enum(['danger']),
+                name: z.string(),
+                description: z.string(),
+                danger: z.string(),
+              }),
+              geometry: z.object({
+                type: z.enum(['Point']),
+                coordinates: z.tuple([z.number(), z.number()]),
+              }),
+            })
+          ])
+        )
+      })
+    }),
+    compteurs: defineCollection({
+      source: 'compteurs/**/*.json',
+      type: 'page',
+      schema: z.object({
+        name: z.string(),
+        description: z.string(),
+        arrondissement: z.string(),
+        idPdc: z.number(),
+        coordinates: z.array(z.number()).length(2),
+        lines: z.array(z.number()).optional(),
+        counts: z.array(
           z.object({
-            type: z.enum(["Feature"]),
-            properties: z.object({
-              id: z.string().optional(),
-              line: z.number(),
-              name: z.string(),
-              status: z.enum(["planned", "postponed", "done", "wip", "variante"]).optional(),
-              type: z.string(),
-              link: z.string().optional(),
-              quality: z.enum(["satisfactory", "unsatisfactory"]).optional(),
-              imgUrl: z.string().url().optional(),
-              description: z.string().optional(),
-              danger: z.string().optional(),
-              text: z.string().optional(),
-              doneAt: z.string().optional(),
-            }),
-            geometry: z.object({
-              type: z.enum(["Point", "LineString"]),
-              coordinates: z.union([
-                z.tuple([z.number(), z.number()]), // For Point
-                z.array(z.tuple([z.number(), z.number()])), // For LineString
-              ]),
-            }),
+            month: z.string(),
+            count: z.number(),
           })
         )
       })
     })
   }
-})
+});

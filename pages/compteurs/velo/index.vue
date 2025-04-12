@@ -29,27 +29,29 @@
 
       <!-- liste des compteurs -->
       <div class="mt-4 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
-        <CounterCard v-for="counter of counters" :key="counter.name" :counter="formatCounter(counter)" />
+        <CounterCard v-for="counter of counters" :key="counter.name" :counter="counter" counter-type="velo" />
       </div>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import type { CounterParsedContent } from '../../../types/counters';
 import { removeDiacritics } from '~/helpers/helpers';
+import type { CompteurFeature } from '~/types';
 
 const { getCompteursFeatures } = useMap();
 
 const { data: allCounters } = await useAsyncData(() => {
-  return queryContent<CounterParsedContent>('compteurs/velo').find();
+  return queryCollection('compteurs')
+    .where('path', 'LIKE', '/compteurs/velo%')
+    .all();
 });
 
 const searchText = ref('');
 
 const counters = computed(() => {
   if (!allCounters.value) { return []; }
-  return allCounters.value
+  return [...allCounters.value]
     .sort((counter1, counter2) => {
       const count1 = counter1.counts.at(-1)?.count ?? 0;
       const count2 = counter2.counts.at(-1)?.count ?? 0;
@@ -58,16 +60,5 @@ const counters = computed(() => {
     .filter(counter => removeDiacritics(`${counter.arrondissement} ${counter.name}`).includes(removeDiacritics(searchText.value)));
 });
 
-const features = getCompteursFeatures({ counters: allCounters.value, type: 'compteur-velo' });
-
-function formatCounter(counter: CounterParsedContent) {
-  return {
-    ...counter,
-    link: counter._path!,
-    counts: counter.counts.map(count => ({
-      month: count.month,
-      veloCount: count.count
-    }))
-  };
-}
+const features: CompteurFeature[] = getCompteursFeatures({ counters: allCounters.value, type: 'compteur-velo' });
 </script>

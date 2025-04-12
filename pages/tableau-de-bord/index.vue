@@ -77,9 +77,9 @@ const description = `Tableau de bord de suivi des ${config.revName.plural} en te
 useHead({
   title: `Tableau de bord de suivi des ${config.revName.plural}`,
   meta: [
-    { hid: 'description', name: 'description', content: description },
-    { hid: 'og:description', property: 'og:description', content: description },
-    { hid: 'twitter:description', name: 'twitter:description', content: description }
+    { key: 'description', name: 'description', content: description },
+    { key: 'og:description', property: 'og:description', content: description },
+    { key: 'twitter:description', name: 'twitter:description', content: description }
   ]
 });
 </script>
