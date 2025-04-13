@@ -87,9 +87,6 @@ export type DangerFeature = {
   };
 }
 
-type PointFeature = PerspectiveFeature | CompteurFeature | DangerFeature;
-
-export type Feature = LineStringFeature | PointFeature;
 
 /**
  * type helpers
