@@ -128,6 +128,17 @@ export default defineContentConfig({
         link: z.string().url(),
         index: z.number(),
       })
+    }),
+    cartesMinutes: defineCollection({
+      source: 'cartes-minutes/**/*.md',
+      type: 'page',
+      schema: z.object({
+        imageUrl: z.string().url(),
+        title: z.string(),
+        description: z.string(),
+        link: z.string().url(),
+        index: z.number(),
+      })
     })
   }
 });
