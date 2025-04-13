@@ -29,7 +29,7 @@
 
       <!-- liste des compteurs -->
       <div class="mt-4 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
-        <CounterCard v-for="counter of counters" :key="counter.name" :counter="counter" counter-type="velo" />
+        <CounterCard v-for="counter of counters" :key="counter.name" :counter="counter" />
       </div>
     </div>
   </div>
@@ -57,7 +57,14 @@ const counters = computed(() => {
       const count2 = counter2.counts.at(-1)?.count ?? 0;
       return count2 - count1;
     })
-    .filter(counter => removeDiacritics(`${counter.arrondissement} ${counter.name}`).includes(removeDiacritics(searchText.value)));
+    .filter(counter => removeDiacritics(`${counter.arrondissement} ${counter.name}`).includes(removeDiacritics(searchText.value)))
+    .map(counter => ({
+      ...counter,
+      counts: counter.counts.map(count => ({
+        month: count.month,
+        veloCount: count.count,
+      })),
+    }));
 });
 
 const features: CompteurFeature[] = getCompteursFeatures({ counters: allCounters.value, type: 'compteur-velo' });

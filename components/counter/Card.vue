@@ -27,15 +27,15 @@
       </thead>
       <tbody>
         <!-- ligne vélo -->
-        <tr v-if="counterType === 'velo'">
+        <tr v-if="isTrackingVelo">
           <td class="flex items-center justify-center p-1 h-full">
             <Icon name="fluent:vehicle-bicycle-16-regular" class="text-3xl" />
           </td>
           <td class="text-center p-1">
-            {{ formatRecordCount(lastRecordPreviousYear?.count) }}
+            {{ formatRecordCount(lastRecordPreviousYear?.veloCount) }}
           </td>
           <td class="text-center p-1">
-            {{ formatRecordCount(lastRecord?.count) }}
+            {{ formatRecordCount(lastRecord?.veloCount) }}
           </td>
           <!-- <td class="text-center p-1">
             <div class="flex items-center justify-center">
@@ -44,23 +44,23 @@
             </div>
           </td> -->
           <td class="text-center p-1 border-l-2 border-lvv-blue-600">
-            <CounterEvolution :count1="lastRecordPreviousYear?.count" :count2="lastRecord?.count" />
+            <CounterEvolution :count1="lastRecordPreviousYear?.veloCount" :count2="lastRecord?.veloCount" />
           </td>
         </tr>
 
         <!-- ligne voiture -->
-        <tr v-if="counterType === 'voiture'">
+        <tr v-if="isTrackingVoiture">
           <td class="flex items-center justify-center p-1 h-full">
             <Icon name="fluent:vehicle-car-profile-ltr-16-regular" class="text-3xl" />
           </td>
           <td class="text-center p-1">
-            {{ formatRecordCount(lastRecordPreviousYear?.count) }}
+            {{ formatRecordCount(lastRecordPreviousYear?.voitureCount) }}
           </td>
           <td class="text-center p-1">
-            {{ formatRecordCount(lastRecord?.count) }}
+            {{ formatRecordCount(lastRecord?.voitureCount) }}
           </td>
           <td class="text-center p-1 border-l-2 border-lvv-blue-600">
-            <CounterEvolution :count1="lastRecordPreviousYear?.count" :count2="lastRecord?.count" />
+            <CounterEvolution :count1="lastRecordPreviousYear?.voitureCount" :count2="lastRecord?.voitureCount" />
           </td>
         </tr>
       </tbody>
@@ -71,15 +71,24 @@
 <script setup lang="ts">
 import type { Collections } from '@nuxt/content';
 
+type Counter = Omit<Collections['compteurs'], 'counts'> & {
+    counts: {
+      month: string;
+      veloCount?: number;
+      voitureCount?: number
+    }[]
+  }
 
 const props = defineProps<{
-  counterType: 'velo' | 'voiture'
-  counter: Collections['compteurs']
+  counter: Counter;
 }>();
 
 const arrondissement = props.counter.arrondissement;
 const name = props.counter.name;
 const link = props.counter.path;
+
+const isTrackingVelo = props.counter.counts.every(count => count.veloCount !== undefined);
+const isTrackingVoiture = props.counter.counts.every(count => count.voitureCount !== undefined);
 
 const lastRecord = props.counter.counts[props.counter.counts.length - 1];
 const lastRecordPreviousYear = getSameRecordPreviousYear(lastRecord);
@@ -87,11 +96,11 @@ const lastRecordPreviousYear = getSameRecordPreviousYear(lastRecord);
 /**
  * formatters
  */
-function formatRecordMonth(record: Collections['compteurs']['counts'][0]) {
+function formatRecordMonth(record: Counter['counts'][0]): string {
   return new Date(record.month).toLocaleString('fr-Fr', { month: 'short' });
 }
 
-function formatRecordYear(record: Collections['compteurs']['counts'][0]): number {
+function formatRecordYear(record: Counter['counts'][0]): number {
   return new Date(record.month).getFullYear();
 }
 
@@ -103,7 +112,7 @@ function formatRecordCount(count?: number) {
 /**
  * helpers
  */
-function getSameRecordPreviousYear(record: Collections['compteurs']['counts'][0]): Collections['compteurs']['counts'][0] | undefined {
+function getSameRecordPreviousYear(record: Counter['counts'][0]): Counter['counts'][0] | undefined {
   const recordMonth = new Date(record.month).getMonth();
   const recordYear = new Date(record.month).getFullYear();
   return props.counter.counts.find(count => {
