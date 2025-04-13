@@ -106,6 +106,7 @@ export default defineContentConfig({
         description: z.string(),
         arrondissement: z.string(),
         idPdc: z.number(),
+        cyclopolisId: z.string().optional(),
         coordinates: z.array(z.number()).length(2),
         lines: z.array(z.number()).optional(),
         counts: z.array(
