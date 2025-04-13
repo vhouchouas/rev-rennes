@@ -116,6 +116,18 @@ export default defineContentConfig({
           })
         )
       })
+    }),
+    sitesPartenaires: defineCollection({
+      source: 'sites-partenaires/**/*.md',
+      type: 'page',
+      schema: z.object({
+        imageUrl: z.string().url(),
+        title: z.string(),
+        description: z.string(),
+        city: z.string(),
+        link: z.string().url(),
+        index: z.number(),
+      })
     })
   }
 });
