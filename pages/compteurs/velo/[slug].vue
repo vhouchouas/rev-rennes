@@ -43,9 +43,9 @@ const { withoutTrailingSlash } = useUrl();
 const { getCompteursFeatures } = useMap();
 
 const { data: counter } = await useAsyncData(`compteur-${path}`, () => {
-  return queryContent()
-    .where({ _path: withoutTrailingSlash(path) })
-    .findOne();
+  return queryCollection('compteurs')
+    .path(withoutTrailingSlash(path))
+    .first();
 });
 
 if (!counter.value) {
