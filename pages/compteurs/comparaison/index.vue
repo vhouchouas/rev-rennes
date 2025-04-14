@@ -55,7 +55,7 @@ const counters = computed(() => {
     if (!voitureCounter) { return undefined; }
     return {
       ...veloCounter,
-      link: `/compteurs/comparaison/${veloCounter.cyclopolisId}`,
+      path: `/compteurs/comparaison/${veloCounter.cyclopolisId}`,
       counts: voitureCounter.counts.map(voitureCount => {
         const veloCount = veloCounter.counts.find(veloCount => veloCount.month === voitureCount.month);
         return {

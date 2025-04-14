@@ -20,15 +20,19 @@
 <script setup lang="ts">
 import type { Count } from '../../../types/counters';
 
+const { params } = useRoute();
+
 const { data: veloCounter } = await useAsyncData(() => {
   return queryCollection('compteurs')
     .where('path', 'LIKE', '/compteurs/velo%')
+    .where('cyclopolisId', '==', params.slug)
     .first();
 });
 
 const { data: voitureCounter } = await useAsyncData(() => {
   return queryCollection('compteurs')
     .where('path', 'LIKE', '/compteurs/voiture%')
+    .where('cyclopolisId', '==', params.slug)
     .first();
 });
 
