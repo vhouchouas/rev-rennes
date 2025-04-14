@@ -312,6 +312,6 @@ const navItems = [
 ];
 
 const { data: voies } = await useAsyncData(() => {
-  return queryCollection('voiesCyclablesPage').all();
+  return queryCollection('voiesCyclablesPage').order('line', 'ASC').all();
 });
 </script>
