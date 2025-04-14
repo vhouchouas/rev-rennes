@@ -1159,7 +1159,8 @@
       "properties": {
         "line": 3,
         "name": "Quai Sémard - Péri Yzeron",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "08/04/2025",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#quai-pierre-sémard"
