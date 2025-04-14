@@ -34,7 +34,7 @@ export default defineContentConfig({
     }),
     voiesCyclablesGeojson: defineCollection({
       source: 'voies-cyclables/*.json',
-      type: 'data',
+      type: 'page',
       schema: z.object({
         type: z.enum(['FeatureCollection']),
         features: z.array(
