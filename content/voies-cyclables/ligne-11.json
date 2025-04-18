@@ -536,7 +536,8 @@
         "id": "VivierMerle-commun",
         "line": 11,
         "name": "Vivier Merle Nord",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "18/04/2025",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#boulevard-vivier-merle-paul-bert-à-félix-faure"

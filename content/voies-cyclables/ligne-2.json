@@ -1071,7 +1071,8 @@
       "properties": {
         "line": 2,
         "name": "Part-Dieu en tunnel",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "18/04/2025",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#tunnel-vivier-merle",
         "quality": "satisfactory"
@@ -1132,7 +1133,8 @@
         "id": "VivierMerle-commun",
         "line": 2,
         "name": "Vivier Merle Nord",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "18/04/2025",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques",
         "quality": "satisfactory"
