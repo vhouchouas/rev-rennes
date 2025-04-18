@@ -3,6 +3,7 @@
     v-if="veloCounter"
     header="Fréquentation vélo & voiture"
     :title="veloCounter.name"
+    description=""
   >
     <!-- <ClientOnly>
       <Map :features="features" :options="{ legend: false, filter: false }" class="mt-12" style="height: 40vh" />
@@ -18,21 +19,21 @@
 </template>
 
 <script setup lang="ts">
-import type { Count } from '../../../types/counters';
+import type { Count } from '~/types';
 
 const { params } = useRoute();
 
-const { data: veloCounter } = await useAsyncData(() => {
+const { data: veloCounter } = await useAsyncData(`/compteurs/velo/${params.slug}`, () => {
   return queryCollection('compteurs')
     .where('path', 'LIKE', '/compteurs/velo%')
-    .where('cyclopolisId', '==', params.slug)
+    .where('cyclopolisId', '=', params.slug)
     .first();
 });
 
-const { data: voitureCounter } = await useAsyncData(() => {
+const { data: voitureCounter } = await useAsyncData(`/compteurs/voiture/${params.slug}`, () => {
   return queryCollection('compteurs')
     .where('path', 'LIKE', '/compteurs/voiture%')
-    .where('cyclopolisId', '==', params.slug)
+    .where('cyclopolisId', '=', params.slug)
     .first();
 });
 

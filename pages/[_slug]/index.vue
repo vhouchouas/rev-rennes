@@ -39,7 +39,7 @@ definePageMeta({
   middleware: 'voie-cyclable'
 });
 
-const { data: voie } = await useAsyncData(`${path}`, () => {
+const { data: voie } = await useAsyncData(path, () => {
   return queryCollection('voiesCyclablesPage')
     .where('line', '=', Number(line))
     .first();

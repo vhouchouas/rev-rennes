@@ -42,7 +42,7 @@ const { path } = useRoute();
 const { withoutTrailingSlash } = useUrl();
 const { getCompteursFeatures } = useMap();
 
-const { data: counter } = await useAsyncData(`compteur-${path}`, () => {
+const { data: counter } = await useAsyncData(path, () => {
   return queryCollection('compteurs')
     .path(withoutTrailingSlash(path))
     .first();

@@ -87,6 +87,7 @@ export type DangerFeature = {
   };
 }
 
+export type Count = { month: string, count: number };
 
 /**
  * type helpers
