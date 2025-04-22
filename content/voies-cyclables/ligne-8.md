@@ -19,33 +19,33 @@ L'impact du projet était important dans le centre-ville, avec la nécessité de
 Les cyclistes de la commune qui y circulent continueront donc à le faire sans aucune sécurité.
 ::
 
-#### La-Tour-de-Salvagny - Est à Dardilly - Montcourand
+#### La-Tour-de-Salvagny - Est à Dardilly - Montcourant
 Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour mettre fin à l'interruption de la voie verte.
 
 ::banner{type="info"}
-Les finitions de ce tronçon sont médiocres, avec des différences d'enrobé à la suite du creusement d'une tranchée, un revêtement régulièrement bosselé, des marquages au sol non conventionnels et une bordure transversale très inconfortable dans la traversée de la rue de la Veyrie. En outre, un petit tronçon de 150m qui relie le hameau à l'ex RN7 est resté sous la forme d'un vieux chemin en stabilisé, le temps que des régularisations foncières aient lieu.
+Les finitions de ce tronçon sont médiocres, avec des différences d'enrobé à la suite du creusement d'une tranchée, un revêtement régulièrement bosselé, des marquages au sol non conventionnels et une bordure transversale très inconfortable dans la traversée de la rue de la Veyrie. En outre, un petit tronçon de 150m en stabilisé qui relie le hameau à l'ex RN7 a été recouvert d'un enrobé lisse en mars/avril 2025 le temps que des régularisations foncières aient lieu.
 ::
 
 ::banner{type="wip"}
-Les travaux principaux de cette section ont eu lieu à l'automne 2023, mais les travaux de finalisation (plateau, marquages) ont eu lieu en juillet 2024. 
+Les travaux principaux de cette section ont eu lieu à l'automne 2023, mais les travaux de finalisation (plateau, marquages) ont eu lieu en juillet 2024. En outre, un petit tronçon de 150m qui relie le hameau à l'ex RN7 est resté sous la forme d'un vieux chemin en stabilisé jusqu'en février 2025, le temps que des régularisations foncières aient lieu.
 ::
 
 #### RD307 (Ancienne Route Nationale 7)
 Cette ancienne route nationale située hors agglomération sera profondément réaménagée. Aujourd'hui limitée à 70km/h avec 2 à 4 larges voies de circulation, cette route sera reconfigurée à 2x1 voies, avec la création d'une voie verte de 3 à 4m de large côté Ouest de la chaussée, séparée par un terre-plein végétalisé de 2 à 3m de large. La vitesse sera en outre abaissée à 50km/h sur certains tronçons accidentogènes.
 
 ::banner{type="wip"}
-Les travaux ont lieu entre octobre 2024 et février 2025.
+Les travaux ont eu lieu entre octobre 2024 et mars 2025.
 ::
 
 #### Traversée de Charbonnières-les-Bains
 Cette section fait l'objet d'un vaste projet de requalification qui consiste à réaménager la très large Route de Paris. Le projet prévoit la création de larges trottoirs de minimum 2m de large, une voirie automobile à 2x1 voies de circulation et la création d'une piste cyclable bidirectionnelle de 4m de large côté Ouest de la chaussée et séparée ponctuellement par une bande végétalisée. Une voie de bus sera aussi créé ponctuellement pour améliorer les performances des transports en commun du secteur.
 
 Ce projet ambitieux sera réalisé en deux phases :
- - entre le chemin des Verrières et l'allée du Mas, l'aménagement est réalisé en transitoire entre l'automne 2024 et le printemps 2025, et le réaménagement définitif prévu à un mandat ultérieur
+ - entre le chemin des Verrières et l'allée du Mas, l'aménagement est réalisé en transitoire entre l'automne 2024 et avril 2025, et le réaménagement définitif prévu à un mandat ultérieur
  - entre l'allée du Mas et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
 ::banner{type="wip"}
-Entre l'allée du Mas et le giratoire du Montcelard, les travaux préalables sur les réseaux ont lieu entre l'été 2022 et l'automne 2024, puis les travaux d'aménagement enchaineront entre fin 2024 et l'été 2026 en commençant par la partie Sud.
+Entre l'allée du Mas et le giratoire du Montcelard, les travaux préalables sur les réseaux ont eu lieu entre l'été 2022 et l'automne 2024, puis les travaux d'aménagement ont commencé fin 2024 et continueront jusqu'à l'été 2026 en commençant par la partie Sud.
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*\
