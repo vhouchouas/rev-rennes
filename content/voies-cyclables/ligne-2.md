@@ -39,7 +39,11 @@ Ce tronçon, très attendu par les cyclistes du plateau Nord, restera malheureus
 ::
 
 ::banner{type="modified"}
-Après des études complémentaires de la Métropole pour proposer une solution court-terme à la traversée du Rhône dans ce secteur, l'option la plus crédible serait de faire un détour d'environ 800m via la passerelle de la Paix, en passant derrière l'Amphthéâtre 3000 et dans les rues du quartier de St-Clair, mais sans aucun aménagement supplémentaire côté Caluire...
+Après des études complémentaires de la Métropole pour proposer une solution court-terme à la traversée du Rhône dans ce secteur, l'option retenue par la Métropole est de faire un détour d'environ 800m via la passerelle de la Paix, en passant derrière l'Amphthéâtre 3000 et dans les rues du quartier de St-Clair, mais sans aucun aménagement supplémentaire côté Caluire...
+::
+
+::banner{type="wip"}
+Les travaux entre le Transbordeur et la passerelle de la Paix auront lieu entre l'été 2025 et début 2026.
 ::
 
 #### Boulevard Stalingrad Nord
@@ -51,6 +55,10 @@ Au sud, la Métropole de Lyon étudie deux variantes d'insertion d'une piste bid
 
 ::banner{type="info"}
 Après des études complémentaires de la Métropole, l'option voie verte à l'Est s'est avérée bien plus crédible, évitant notamment une double traversée du boulevard Stalingrad pour les usagers de la Voie Lyonnaise 1.
+::
+
+::banner{type="wip"}
+Les travaux sur cette section auront lieu entre l'été 2025 et début 2026.
 ::
 
 #### Boulevard Stalingrad Sud
@@ -170,8 +178,8 @@ streetView: 45.732077,4.8653939,3a,75y,329.84h,90t
 
 ::banner{type="wip"}
 Les travaux entre la rue Sarrazin et l'avenue Viviani ont eu lieu entre mars et novembre 2024.\
-Les travaux entre la rue Cazeneuve et la rue Sarrazin ont commencé en novembre 2024 et dureront jusqu'au printemps 2025.\
-Les travaux entre l'avenue Berthelot et la rue Cazeneuve auront lieu entre mi-février et l'été 2025.
+Les travaux entre la rue Cazeneuve et la rue Sarrazin ont eu lieu entre novembre 2024 et avril 2025.\
+Les travaux entre l'avenue Berthelot et la rue Cazeneuve ont lieu entre mi-février et mai 2025.
 ::
 
 #### Avenue Viviani

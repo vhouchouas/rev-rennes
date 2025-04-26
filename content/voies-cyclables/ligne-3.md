@@ -57,7 +57,7 @@ La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51
 La section sur la commune d'Albigny est réalisée entre février et décembre 2025.\
 La section sur la commune de Couzon a été réalisée en deux phases : Sud de l'avenue De Gaulle à l'automne 2019 et Nord de l'avenue de juin à décembre 2022.\
 La section sur la commune de St-Romain a été réalisée entre février et juillet 2024.\
-La section sur la commune de Collonges devrait être en travaux à partir de l'été 2025 jusqu'à l'été 2026.
+La section sur la commune de Collonges devrait être en travaux au second semestre 2025. Entre les ponts Bocuse et Leclerc, l'aménagement sera définitif, tandis qu'entre le pont Bocuse et St-Rambert cela se limitera en une pérénisation de la piste cyclable transitoire.
 ::
 
 ::content-image
@@ -86,7 +86,7 @@ Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transit
 Cette section de 900m a l'inconvénient d'être particulièrement étroite et de ne pas pouvoir accueillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'ensemble de ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Nous le considérons donc comme reporté à un mandat ultérieur. La Métropole étudie cependant le jalonnement d'une continuité cyclable pour éviter ce quai, que nous imaginons passer par la Grande Rue de St-Rambert et la rue Pierre Termier. Il restera à confirmer cette hypothèse et à connaitre les aménagements retenus.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'ensemble de ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Nous le considérons donc comme reporté à un mandat ultérieur. La Métropole étudie cependant le jalonnement d'une continuité cyclable pour éviter ce quai, qui passerait par la Grande Rue de St-Rambert et la rue Pierre Termier avec des marquages en continuité cyclable et quelques aménagements légers. Les travaux sont prévus pendant l'été 2025.
 ::
 
 #### *Concertation*
@@ -97,7 +97,9 @@ La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.\
 *Parcours commun avec la véloroute touristique "La Voie Bleue"*
 
 #### Île Barbe à rue Antonin Laborde (Quai Sédallian)
-L'objectif est de transformer la piste cyclable bidirectionnelle transitoire créée à l'été 2020 en aménagement pérenne de 2.50 à 3.50m de large aux standards d'une Voie Lyonnaise. La concertation a fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
+Initialement, l'objectif était de transformer la piste cyclable bidirectionnelle transitoire créée à l'été 2020 en aménagement pérenne de 2.50 à 3.50m de large aux standards d'une Voie Lyonnaise. La concertation a fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
+
+Malheureusement, cette section a été victime des restrictions budgétaires de la Métropole de Lyon, et seule une pérenisation à minima de la piste cyclable transitoire est prévue pendant l'été 2025.
 
 #### Rue Antonin Laborde au pont Clémenceau
 Une piste cyclable bidirectionnelle de 2.50 à 4.00m de large existe déjà sur ce tronçon, créée progressivement entre 2013 et 2020. Elle sera ponctuellement élargie et améliorée. La concertation a fait remonter le besoin de supprimer la chicane en voie verte au niveau du n°16 du quai du Commerce. La Métropole de Lyon étudie actuellement la solution la plus pertinente pour améliorer ce point noir.
