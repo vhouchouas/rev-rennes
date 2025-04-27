@@ -16,14 +16,14 @@ Le projet initial prévoyait de traverser l'ensemble de la commune depuis la rou
 
 ::banner{type="postponed"}
 L'impact du projet était important dans le centre-ville, avec la nécessité de passer la rue de Paris en sens unique ou de supprimer les stationnements de cette portion commerçante. Les refus successifs de la Préfecture et des élus locaux ont conduit à l'abandon du projet.
-Les cyclistes de la commune qui y circulent continueront donc à le faire sans aucune sécurité.
+Les cyclistes de la commune qui y circulent continueront donc à le faire en mixité avec les voitures sans aucune sécurité.
 ::
 
 #### La-Tour-de-Salvagny - Est à Dardilly - Montcourant
-Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour mettre fin à l'interruption de la voie verte.
+Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consistait à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile a été créé pour mettre fin à l'interruption de la voie verte.
 
 ::banner{type="info"}
-Les finitions de ce tronçon sont médiocres, avec des différences d'enrobé à la suite du creusement d'une tranchée, un revêtement régulièrement bosselé, des marquages au sol non conventionnels et une bordure transversale très inconfortable dans la traversée de la rue de la Veyrie. En outre, un petit tronçon de 150m en stabilisé qui relie le hameau à l'ex RN7 a été recouvert d'un enrobé lisse en mars/avril 2025 le temps que des régularisations foncières aient lieu.
+Les finitions de ce tronçon sont médiocres, avec des différences d'enrobé à la suite du creusement d'une tranchée, un revêtement régulièrement bosselé, des marquages au sol non conventionnels et une bordure transversale très inconfortable dans la traversée de la rue de la Veyrie.
 ::
 
 ::banner{type="wip"}
@@ -31,7 +31,7 @@ Les travaux principaux de cette section ont eu lieu à l'automne 2023, mais les 
 ::
 
 #### RD307 (Ancienne Route Nationale 7)
-Cette ancienne route nationale située hors agglomération sera profondément réaménagée. Aujourd'hui limitée à 70km/h avec 2 à 4 larges voies de circulation, cette route sera reconfigurée à 2x1 voies, avec la création d'une voie verte de 3 à 4m de large côté Ouest de la chaussée, séparée par un terre-plein végétalisé de 2 à 3m de large. La vitesse sera en outre abaissée à 50km/h sur certains tronçons accidentogènes.
+Cette ancienne route nationale située hors agglomération a été profondément réaménagée. Auparavant limitée à 70km/h avec 2 à 4 larges voies de circulation, cette route a été reconfigurée à 2x1 voies, avec la création d'une voie verte de 3 à 4m de large côté Ouest de la chaussée, séparée par un terre-plein végétalisé de 2 à 3m de large. La vitesse a en outre été abaissée à 50km/h.
 
 ::banner{type="wip"}
 Les travaux ont eu lieu entre octobre 2024 et mars 2025.
@@ -42,7 +42,7 @@ Cette section fait l'objet d'un vaste projet de requalification qui consiste à 
 
 Ce projet ambitieux sera réalisé en deux phases :
  - entre le chemin des Verrières et l'allée du Mas, l'aménagement est réalisé en transitoire entre l'automne 2024 et avril 2025, et le réaménagement définitif prévu à un mandat ultérieur
- - entre l'allée du Mas et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
+ - entre l'allée du Mas et le giratoire du Montcelard, le réaménagement de façade à façade est prévu en 2025 et 2026.
 
 ::banner{type="wip"}
 Entre l'allée du Mas et le giratoire du Montcelard, les travaux préalables sur les réseaux ont eu lieu entre l'été 2022 et l'automne 2024, puis les travaux d'aménagement ont commencé fin 2024 et continueront jusqu'à l'été 2026 en commençant par la partie Sud.

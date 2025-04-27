@@ -32,7 +32,7 @@ Compte-tenu des contraintes liées aux lignes de bus sur la montée des Soldats,
 *via Stalingrad, Vivier Merle et Tchécoslovaques*
 
 #### Carrefour Saint-Clair et Pont Poincaré
-Le carrefour routier de Saint-Clair devrait faire l'objet d'un réaménagement pour sécuriser le cheminement des cyclistes en provenance de la route de Strasbourg, du centre de Caluire et des berges du Rhône. Il sera relié à une nouvelle piste bidirectionnelle sécurisée qui traversera le pont Poincaré côté Ouest pour se connecter aux futurs aménagements cyclables de la Cité Internationale, du campus de la Doua et du boulevard Stalingrad.
+Le carrefour routier de Saint-Clair devait faire l'objet d'un réaménagement pour sécuriser le cheminement des cyclistes en provenance de la route de Strasbourg, du centre de Caluire et des berges du Rhône. Il devait être relié à une nouvelle piste bidirectionnelle sécurisée qui aurait traversé le pont Poincaré côté Ouest pour se connecter aux futurs aménagements cyclables de la Cité Internationale, du campus de la Doua et du boulevard Stalingrad.
 
 ::banner{type="postponed"}
 Ce tronçon, très attendu par les cyclistes du plateau Nord, restera malheureusement un des points noirs majeurs du secteur pour encore de nombreuses années. Son aménagement est reporté, car la création d'une piste cyclable bidirectionnelle aurait des conséquences désastreuses pour la performances des lignes de bus qui passent sur le pont. La Ville à Vélo espère qu'un scénario plus ambitieux avec encorbelllement sera étudié sérieusement au prochain mandat.
@@ -50,8 +50,8 @@ Les travaux entre le Transbordeur et la passerelle de la Paix auront lieu entre 
 
 *entre Pont Poincaré et boulevard du 11 Novembre 1918*
 
-Une piste cyclable bidirectionnelle de 4m de large sera aménagée à l'Est derrière le Transbordeur, en lieu et place d'une des deux voies de circulation.\
-Au sud, la Métropole de Lyon étudie deux variantes d'insertion d'une piste bidirectionnelle : à l'Ouest côté parc de la Tête d'Or à la place d'une voie de circulation ou à l'Est en réaménageant la voie verte actuelle.
+Une piste cyclable bidirectionnelle de 4m de large devait être aménagée à l'Est derrière le Transbordeur, en lieu et place d'une des deux voies de circulation.\
+Au sud, la Métropole de Lyon a étudié deux variantes d'insertion d'une piste bidirectionnelle : à l'Ouest côté parc de la Tête d'Or à la place d'une voie de circulation ou à l'Est en réaménageant la voie verte actuelle.
 
 ::banner{type="info"}
 Après des études complémentaires de la Métropole, l'option voie verte à l'Est s'est avérée bien plus crédible, évitant notamment une double traversée du boulevard Stalingrad pour les usagers de la Voie Lyonnaise 1.
@@ -65,7 +65,7 @@ Les travaux sur cette section auront lieu entre l'été 2025 et début 2026.
 
 *entre boulevard du 11 Novembre 1918 et avenue Verguin*
 
-La Voie Lyonnaise 2 prend la place de l'ancienne contre-allée de stationnement le long du parc de la Tête d'Or. Elle est réaménagée en une piste cyclable bidirectionnelle de 3m de large le long du mur SNCF, et un cheminement piéton végétalisé de 2m de large le long de l'alignement d'arbres existant.
+La Voie Lyonnaise 2 a pris la place de l'ancienne contre-allée de stationnement le long du parc de la Tête d'Or. Elle a été réaménagée en une piste cyclable bidirectionnelle de 3m de large le long du mur SNCF, et un cheminement piéton végétalisé de 2m de large le long de l'alignement d'arbres existant.
 
 ::content-image
 ---
@@ -85,7 +85,7 @@ L'ouverture du tronçon à la circulation est inauguré le 5 avril 2024.
 
 *entre avenue Verguin et blvd des Belges*
 
-Cette partie fera l'objet de la création d'une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place d'une voie de circulation ou de stationnement. Elle se connectera aux pistes cyclables bilatérales existantes sur le cours Vitton grace à un nouveau carrefour hollandais. Une partie du stationnement supprimé fera l'objet de végétalisation.
+Cette partie a fait l'objet de la création d'une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place d'une voie de circulation ou de stationnement. Elle se connecte aux pistes cyclables bilatérales existantes sur le cours Vitton grace à un nouveau carrefour hollandais. Une partie du stationnement supprimé a fait l'objet de végétalisation.
 
 ::banner{type="wip"}
 Les travaux sur cette section ont débuté à la fin de l'été 2023 et se sont terminés début avril 2024.
@@ -95,11 +95,11 @@ Les travaux sur cette section ont débuté à la fin de l'été 2023 et se sont 
 
 *entre la rue Waldeck-Rousseau et le cours Lafayette*
 
-Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.\
-Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux à 5m de large et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
+Cette portion a été aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévue dans un mandat ultérieur.\
+Les deux voies de circulation générale actuelles ont été réduites à une voie unique, ce qui a permis d'élargir les couloirs bus bilatéraux à 5m de large et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours.
 
 ::banner{type="unsecured"}
-Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tronçon ne sera pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
+Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tronçon n'est pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 ::
 
 ::banner{type="info"}
@@ -107,18 +107,18 @@ La modification du marquage au sol a été réalisée pendant les vacances scola
 ::
 
 #### Tunnel Vivier-Merle
-La Voie Lyonnaise 2 passera dans le nouveau tunnel sous le pole multimodal de la gare de la Part-Dieu qui a ouvert en 2020. Une des deux voies de circulation actuelle, côté Ouest, sera transformée en piste cyclable bidirectionnelle de 2.50 à 3.00m de large.\
-Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en surface en utilisant l'aménagement de la SPL Part-Dieu livré entre début 2023 et l'été 2024 et qui comporte principalement de larges voies de bus partagées avec les cyclistes.
+La Voie Lyonnaise 2 passe dans le tunnel routier sous le pole multimodal de la gare de la Part-Dieu qui a ouvert en 2020. Une des deux voies de circulation d'origine, côté Ouest, a été transformée en piste cyclable bidirectionnelle de 3 à 4m de large, séparée de la circulation en étant réhaussée de 22cm au niveau du passe-pied d'origine pour maximiser sa largeur.\
+Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en surface en utilisant l'aménagement de la SPL Part-Dieu livré entre début 2023 et l'été 2025 et qui comporte principalement de larges voies de bus partagées avec les cyclistes.
 
 ::banner{type="wip"}
 Les travaux ont eu lieu de fin septembre à novembre 2024, mais la piste cyclable a seulement été ouverte mi-avril 2025 le temps de mettre en conformité les équipements de sécurité du tunnel et de terminer le tronçon manquant jusqu'à l'avenue Félix Faure.
 ::
 
 #### Boulevard Vivier-Merle et Boulevard des Tchécoslovaques
-La Voie Lyonnaise 2 prendra la forme d'une piste cyclable bidirectionnelle de 3 à 5m de large située à l'ouest du boulevard, en lieu et place de l'ancien couloir bus en contre-allée. Cette voie de bus sera repositionnée sur la large voirie routière qui sera redimensionnée pour éviter des vitesses élevées et parfois séparée de la piste cyclable avec une bande arborée et végétalisée.
+La Voie Lyonnaise 2 a pris la forme d'une piste cyclable bidirectionnelle de 3 à 5m de large située à l'ouest du boulevard, en lieu et place de l'ancien couloir bus en contre-allée. Cette voie de bus a été repositionnée sur la large voirie routière redimensionnée pour éviter des vitesses élevées. Elle est parfois séparée de la piste cyclable avec une bande arborée et végétalisée.
 
 ::banner{type="unsecured"}
-Entre la rue Boisard et le cours Gambetta, la piste cyclable bidirectionnelle se transformera temporairement en couloir bus ouvert aux vélos dans le sens Nord-Sud avec un double-sens cyclable marqué en bande dans l'autre sens. Sur ce petit tronçon de 150m de long, l'aménagement ne sera donc malheureusement pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
+Entre la rue Boisard et le cours Gambetta, la piste cyclable bidirectionnelle se transforme temporairement en couloir bus ouvert aux vélos dans le sens Nord-Sud avec un double-sens cyclable marqué en bande dans l'autre sens. Sur ce petit tronçon de 150m de long, l'aménagement n'est donc malheureusement pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 ::
 
 ::content-image
@@ -164,8 +164,8 @@ Les travaux sur cette section ont lieu entre novembre 2024 et avril 2025.
 ::
 
 #### Boulevard des États-Unis
-Sur cette section, la Métropole de Lyon envisage d'insérer une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place de la voie de bus actuelle, côté Ouest du boulevard. La voie de bus sera alors déplacée sur une des deux voies de circulation existantes côté Ouest.\
-Côté Est, l'ensemble de la voirie actuelle ne sera pas modifiée.
+Sur cette section, la Métropole de Lyon a inséré une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place de la voie de bus actuelle, côté Ouest du boulevard. La voie de bus a été déplacée sur une des deux voies de circulation existantes côté Ouest.\
+Côté Est, l'ensemble de la voirie d'origine n'a pas été modifiée.
 
 ::content-image
 ---
@@ -183,7 +183,7 @@ Les travaux entre l'avenue Berthelot et la rue Cazeneuve ont lieu entre mi-févr
 ::
 
 #### Avenue Viviani
-Sur cette large avenue, la Voie Lyonnaise 2 serait insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera requalifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
+Sur cette large avenue, la Voie Lyonnaise 2 sera insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera requalifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
 
 ::content-image
 ---
@@ -205,11 +205,11 @@ Les travaux auront lieu entre mai 2025 et janvier 2026.
 Depuis l'avenue Viviani, les cyclistes emprunteront le passage sécurisé en voie verte sous le boulevard périphérique Laurent Bonnevay, inauguré au printemps 2019. Ils traverseront ensuite la place Grandclément (accès :transport-link{type=métro line=D}) avec une piste bidirectionnelle, puis emprunteront l'ancienne route d'Heyrieux qui sera aménagée en vélorue. Ils traverseront ensuite l'angle Sud-Ouest de la Plaine des Sports du Parc de Parilly avant de rejoindre l'avenue Charles de Gaulle.
 
 ::banner{type="wip"}
-Les travaux sont prévus de mai 2025 à octobre 2025.
+Les travaux sont prévus de mai à octobre 2025.
 ::
 
 #### Route de Lyon (parc Parilly à rue des Alouettes)
-La piste cyclable actuelle côté Nord sera élargie et ses abords végétalisés pour créer une piste cyclable bidirectionnelle de 3m de large bien séparée du flux de circulation.
+La piste cyclable actuelle côté Nord devait être élargie et ses abords végétalisés pour créer une piste cyclable bidirectionnelle de 3m de large bien séparée du flux de circulation.
 
 ::banner{type="modified"}
 Contrairement à ce qui était annoncé pendant la concertation, l'étroite piste cyclable côté Nord ne sera finalement pas élargie. Elle sera simplement transformée en voie verte de 2m60 de large et conservée en l'état. Seuls les carrefours seront repris et mieux sécurisés.

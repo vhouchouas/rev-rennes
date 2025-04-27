@@ -48,9 +48,18 @@ streetView: 45.7842013,4.8861424,3a,75y,259.87h,90t
 
 
 ### Sud du campus de la Doua
+#### Avenue Einstein
+Le rond point de la Doua devait être réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.
+
+::banner{type="postponed"}
+La Métropole de Lyon a annoncé le 05/12/2024 que l'aménagement de l'avenue Einstein serait reporté sur un prochain mandat du fait des contraintes budgétaires actuelles et de la nécessité de réduire le nombre de chantiers parallèles en 2025. Par conséquent, piétons et vélos continueront malheureusement à se partager un trottoir étroit et très inconfortable source de nombreux conflits.
+
+De manière transitoire, la VL1 empruntera les aménagements de l'avenue Jean Capelle à partir de la rue des Sports. Elle pourrait être déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue à condition que la volonté politique perdure à ce moment-là.
+::
+
 #### Boulevard du 11 Novembre
-Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large sera créée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.\
-Le trottoir actuellement partagé avec les vélos sera rendu aux seuls piétons.
+Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large devait être créée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.\
+Le trottoir actuellement partagé avec les vélos aurait alors été rendu aux seuls piétons.
 
 ::banner{type="postponed"}
 La Métropole de Lyon a annoncé le 05/12/2024 que l'aménagement du Boulevard du 11 Novembre serait reporté sur un prochain mandat du fait des contraintes budgétaires actuelles et de la nécessité de réduire le nombre de chantiers parallèles en 2025. Par conséquent, piétons et vélos continueront malheureusement à se partager un trottoir étroit et très inconfortable source de nombreux conflits.
@@ -65,15 +74,6 @@ streetView: 45.7793808,4.8620772,3a,75y,69.67h,90.63t
 ---
 ::
 
-#### Avenue Einstein
-Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.
-
-::banner{type="postponed"}
-La Métropole de Lyon a annoncé le 05/12/2024 que l'aménagement de l'avenue Einstein serait reporté sur un prochain mandat du fait des contraintes budgétaires actuelles et de la nécessité de réduire le nombre de chantiers parallèles en 2025. Par conséquent, piétons et vélos continueront malheureusement à se partager un trottoir étroit et très inconfortable source de nombreux conflits.
-
-De manière transitoire, la VL1 empruntera les aménagements de l'avenue Jean Capelle à partir de la rue des Sports. Elle pourrait être déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue à condition que la volonté politique perdure à ce moment-là.
-::
-
 #### Concertation
 La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)
@@ -86,8 +86,7 @@ Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard
 *via Quais du Rhône rive gauche*
 
 #### Allée Achille Lignon
-Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large sera aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé sera créé entre le site propre bus et la nouvelle piste cyclable.\
-*Aucune information sur le calendrier des travaux n'a été rendue publique.*
+Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large devait être aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé aurait alors été créé entre le site propre bus et la nouvelle piste cyclable.\
 
 ::banner{type="postponed"}
 Après des études complémentaires de la Métropole, le scénario initial de création d'un nouveau cheminement parallèle pour séparer piétons et cyclistes s'est avéré plus complexe que prévu. En cause : les oeuvres d'art qui ponctuent l'espace végétalisé, ainsi que l'emprise importante de l'Amphithéâtre 3000. Il a donc été décidé de conserver dans un premier temps la voie verte actuelle avec un simple changement du revêtement stabilisé côté Ouest, remplacé par un enrobé lisse plus confortable pour tous. Nous déplorons ce choix qui va maintenir un fort conflit dans une zone très fréquentée par les piétons.
@@ -116,10 +115,10 @@ streetView: 45.7756491,4.8431614,3a,75y,14.38h,86.38t
 
 *(Pont Morand <> Pont de la Guillotière)*
 
-Cette section, qui concentre le trafic vélo le plus important de la Métropole (jusqu'à 18 000 vélos par jour), verra la piste cyclable existante être élargie à 4m sur une des 3 voies de circulation actuelles.
+Cette section, qui concentre le trafic vélo le plus important de la Métropole (jusqu'à 12 000 vélos par jour), était une piste cyclable étroite de seulement 2m50 de large qui datait de 2017. Elle a été élargie à 4m en supprimant une des 3 voies de circulation.
 
 ::banner{type="wip"}
-Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont eu lieu entre novembre 2023 et juin 2024. La nouvelle piste est ouverte à la fin du mois.
+Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont eu lieu entre novembre 2023 et fin juin 2024.
 ::
 
 ::content-image
@@ -152,7 +151,7 @@ streetView: 45.7502784,4.8356748,3a,75y,12.37h,82.36t
 ::
 
 #### Avenue Général Leclerc
-Une piste cyclable bidirectionnelle sera créée côté Rhône à la place d'une voie de circulation, dans la continuité des aménagements au Nord.\
+Une piste cyclable bidirectionnelle devait être créée côté Rhône à la place d'une voie de circulation, dans la continuité des aménagements au Nord.\
 A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Raymond Barre vers Confluence ou le pont de la Mulatière.\
 
 ::banner{type="postponed"}
@@ -173,9 +172,9 @@ La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.\
 *via Gerland et le nord de la vallée de la Chimie*
 
 Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur :transport-link{type=tram line=10}.
-Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
+Sa réalisation est traitée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
-Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s'agira d'une piste cyclable bidirectionnelle de 3.20m de large située au centre de la chaussée actuelle au sein du double alignement arboré qui sert aujourd'hui de voie bus. Sur le reste de l'avenue, sa largeur sera de 4m.
+Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s'agira d'une piste cyclable bidirectionnelle de 3.20m de large située au centre de la chaussée actuelle au sein du double alignement arboré qui servait historiquement de voie bus. Sur le reste de l'avenue, sa largeur sera de 4m.
 
 ::content-image
 ---
@@ -186,7 +185,8 @@ streetView: 45.7289473,4.824018,3a,75y,12.44h,92.69t
 ---
 ::
 
-Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphérique, le boulevard Sampaix et la rue Sembat, il s'agira d'une piste bidirectionnelle de 3.50m de large côté Sud ou Ouest de la chaussée.
+Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphérique, le boulevard Sampaix et la rue Sembat, il s'agira d'une piste bidirectionnelle de 3.50m de large côté Sud ou Ouest de la chaussée. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/bvd-sampaix.png
@@ -196,7 +196,7 @@ streetView: 45.7125629,4.8448908,3a,75y,357.13h,90.44t
 ---
 ::
 
-Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit piéton sur l'extrémité Est. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
+Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit piéton sur l'extrémité Est. 
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg
@@ -213,7 +213,7 @@ Le projet a été validé et déclaré d'utilité publique le 10 octobre 2023.\
 [Voir la présentation du projet du tram T10](https://www.sytral.fr/634-tramway-t10.htm)
 
 ::banner{type="wip"}
-Les travaux préparatoires sur les réseaux ont lieu entre septembre 2023 et l'automne 2024, et s'enchaineront avec les travaux d'aménagement jusqu'à l'automne 2026. Les premiers travaux d'aménagement sur l'Ouest de l'avenue Tony Garnier ont débuté en mai 2024 et avancent progressivement vers le Sud et l'Est en 2025.
+Les travaux préparatoires sur les réseaux ont eu lieu entre septembre 2023 et l'automne 2024, et se sont enchainés avec les travaux d'aménagement prévus jusqu'à l'automne 2026. Les premiers travaux d'aménagement sur l'Ouest de l'avenue Tony Garnier ont débuté en mai 2024 et avancent progressivement vers le Sud et l'Est en 2025.
 ::
 
 ## Calendriers prévisionnels

@@ -14,10 +14,10 @@ cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 
 #### Quincieux à Neuville
 ::banner{type="postponed"}
-Cette première branche devait commencer à la limite Ouest de Quincieux, au niveau de la traversée de l'A466, pour se connecter à un futur aménagement cyclable vers Anse. Cependant, compte-tenu de l'étroitesse de la voirie dans la traversée du bourg de Grand Veissieux, la Métropole a préféré conserver en l'état la voirie existante. En dehors de ce bourg sans aménagements cyclables, on conserve des bandes cyclables bilatérales et non sécurisées.
+Cette première branche devait commencer à la limite Ouest de Quincieux, au niveau de la traversée de l'A466, pour se connecter à un futur aménagement cyclable vers Anse. Cependant, compte-tenu de l'étroitesse de la voirie dans la traversée du bourg de Grand Veissieux, la Métropole a préféré conserver en l'état la voirie existante. En dehors de ce bourg sans aménagements cyclables, on conservera des bandes cyclables bilatérales et non sécurisées.
 ::
 
-La Voie Lyonnaise 3 débute donc réellement au niveau du giratoire de la route de Varennes à l'entrée de Quincieux, puis continue vers le Sud sur une voie verte de 3.00 à 3.50m de large située côté Est de la route départementale 51. Elle rejoint la rive droite de la Saône à hauteur de la commune de Saint-Germain-au-Mont-d'Or et sa gare TER. Elle longe ensuite la Saône et les voies ferrées jusqu'au pont de Neuville.
+La Voie Lyonnaise 3 devait donc débuter réellement au niveau du giratoire de la route de Varennes à l'entrée de Quincieux, puis continuer vers le Sud sur une voie verte de 3.00 à 3.50m de large située côté Est de la route départementale 51. Elle rejoingnait ensuite la rive droite de la Saône à hauteur de la commune de Saint-Germain-au-Mont-d'Or et sa gare TER. Elle longe ensuite la Saône et les voies ferrées jusqu'au pont de Neuville.
 
 ::content-image
 ---
@@ -29,14 +29,14 @@ streetView: 45.885026,4.8102775,3a,75y,162.21h,90t
 ::
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, la partie nord de ce tronçon entre St-Germain et Quincieux ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Nous le considérons donc comme reporté à un mandat ultérieur.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises et la partie nord de ce tronçon entre St-Germain et Quincieux ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Nous le considérons donc comme reporté à un mandat ultérieur.
 ::
 
 #### Massieux à Neuville
 Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagé en voie verte de 3m de large situé côté Ouest de la route de Trévoux puis de l'avenue Sadi Carnot. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
 
 ::banner{type="info"}
-Sur l'avenue Sadi Carnot, des travaux mineurs de sécurisation des carrefours devraient avoir lieu pour relier la voie verte et les rues perpendiculaires à l'Est.
+Sur l'avenue Sadi Carnot, des travaux mineurs de sécurisation des carrefours devraient avoir lieu à l'été 2025 pour relier la voie verte et les rues perpendiculaires à l'Est.
 ::
 
 ::banner{type="wip"}
@@ -79,14 +79,14 @@ streetView: 45.8337609,4.8371625,3a,46.1y,312.7h,87.18t
 ::
 
 ::banner{type="info"}
-Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire a été aménagée pendant l'été 2020.
+Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire avait été aménagée pendant l'été 2020, sans traiter les giratoires et l'entrée de St-Rambert, ce qui obligeait les cyclistes dans le sens Nord>Sud à traverser dangereusement toute la voirie à 3 reprises pour repasser en configuration bilatérale.
 ::
 
 #### Saint-Rambert à pont de l'Île Barbe
-Cette section de 900m a l'inconvénient d'être particulièrement étroite et de ne pas pouvoir accueillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
+Cette section de 900m a l'inconvénient d'être particulièrement étroite et de ne pas pouvoir accueillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques ont été étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'ensemble de ce tronçon ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Nous le considérons donc comme reporté à un mandat ultérieur. La Métropole étudie cependant le jalonnement d'une continuité cyclable pour éviter ce quai, qui passerait par la Grande Rue de St-Rambert et la rue Pierre Termier avec des marquages en continuité cyclable et quelques aménagements légers. Les travaux sont prévus pendant l'été 2025.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et l'ensemble du quai Raoul Carrié ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Nous le considérons donc comme reporté à un mandat ultérieur. La Métropole étudie cependant le jalonnement d'une continuité cyclable pour éviter ce quai, qui passerait par la Grande Rue de St-Rambert et la rue Pierre Termier avec des marquages en continuité cyclable et quelques aménagements légers. Les travaux sont prévus pendant l'été 2025.
 ::
 
 #### *Concertation*
@@ -97,12 +97,14 @@ La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.\
 *Parcours commun avec la véloroute touristique "La Voie Bleue"*
 
 #### Île Barbe à rue Antonin Laborde (Quai Sédallian)
-Initialement, l'objectif était de transformer la piste cyclable bidirectionnelle transitoire créée à l'été 2020 en aménagement pérenne de 2.50 à 3.50m de large aux standards d'une Voie Lyonnaise. La concertation a fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
+Initialement, l'objectif était de transformer la piste cyclable bidirectionnelle transitoire créée à l'été 2020 en aménagement pérenne de 2.50 à 3.50m de large aux standards d'une Voie Lyonnaise. La concertation avait en outre fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
 
 Malheureusement, cette section a été victime des restrictions budgétaires de la Métropole de Lyon, et seule une pérenisation à minima de la piste cyclable transitoire est prévue pendant l'été 2025.
 
 #### Rue Antonin Laborde au pont Clémenceau
-Une piste cyclable bidirectionnelle de 2.50 à 4.00m de large existe déjà sur ce tronçon, créée progressivement entre 2013 et 2020. Elle sera ponctuellement élargie et améliorée. La concertation a fait remonter le besoin de supprimer la chicane en voie verte au niveau du n°16 du quai du Commerce. La Métropole de Lyon étudie actuellement la solution la plus pertinente pour améliorer ce point noir.
+Une piste cyclable bidirectionnelle de 2.50 à 4.00m de large existe déjà sur ce tronçon, créée progressivement entre 2013 et 2020. Elle sera élargie et améliorée entre le pont Clémenceau et le pont Schuman, là où elle était la plus étroite. 
+
+La concertation a aussi fait remonter le besoin de supprimer la chicane en voie verte au niveau du n°16 du quai du Commerce. La Métropole de Lyon a étudié la solution la plus pertinente pour améliorer ce point noir, mais a reporté son traitement à un mandat ultérieur suite aux contraintes budgétaires de la fin du mandat 2020-2026.
 
 ::content-image
 ---
@@ -125,7 +127,7 @@ En attendant, pour les cyclistes en transit le long de la Saône, la Métropole 
 ::
 
 ::banner{type="postponed"}
-Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et **le projet de réaménagement de la place du Port Mouton** ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc de fait reporté à un mandat ultérieur.
+Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et **le projet de réaménagement de la place du Port Mouton** ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. Il est donc considéré comme reporté à un mandat ultérieur.
 ::
 
 ::banner{type="wip"}
@@ -142,11 +144,11 @@ streetView: 45.7727386,4.810561,3a,75y,163.15h,90t
 ::
 
 #### Pont Koenig au pont Kitchener Marchand
-Entre le pont Koenig et le pont La Feuillée, la piste bidirectionnelle existante de 3m de large est l'une des premières de Lyon, aménagée en 2005. Elle sera globalement conservée en l'état à l'exception des arrêts de bus qui seront tous repris pour mettre fin à l'effet chicane actuel qui provoque de nombreux conflits avec les piétons.
+Entre le pont Koenig et le pont La Feuillée, la piste bidirectionnelle existante de 3m de large est l'une des premières de Lyon, aménagée en 2005. Elle est globalement conservée en l'état à l'exception des arrêts de bus qui ont tous été repris pour mettre fin aux chicane d'origine derrière le quai qui provoquaient de nombreux conflits avec les piétons.
 
-Entre le pont La Feuillée et le pont Bonaparte, la piste bidirectionnelle de 2.20 à 2.80m de large qui date de 2013 et 2016 sera élargie en grande partie, avec un revêtement très abimé qui sera refait.
+Entre le pont La Feuillée et le pont Bonaparte, la piste bidirectionnelle de 2.20 à 2.80m de large qui date de 2013 et 2016 a été élargie en grande partie, et le revêtement très abimé a été refait. En outre, le carrefour pénible avec le pont Juin qui se traversait en 3 phases de feux a été amélioré et sécurisé, tout comme les 2 entrées du parking LPA St-Jean.
 
-Entre le pont Bonaparte et le pont Kitchener, l'aménagement récent du quai Fulchiron qui date de 2019 sera conservé dans son état actuel.
+Entre le pont Bonaparte et le pont Kitchener, l'aménagement récent du quai Fulchiron qui date de 2019 a été conservé dans son état actuel, avec une simple densification de la végétation sur sa partie Sud.
 
 ::content-image
 ---
@@ -167,7 +169,7 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\
 
 ### Quai Jean-Jacques Rousseau et Quai des Etroits
 
-L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle de 3m de large le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire.
+L'aménagement proposé par la Métropole de Lyon consistait en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle de 3m de large le long de la Saône. Cette solution impactait fortement la ligne de bus qui dessert aujourd'hui ce quai isolé dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire.
 
 *La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_QuaiJJRousseau.pdf)
@@ -203,7 +205,7 @@ Ceux au nord de la rue Chardiny débuteront après les travaux de l'aquarium, au
 ::
 
 #### Quartier de la Saulaie
-La Voie Lyonnaise 3 fait ici un léger détour en s'éloignant du Rhône via la rue Gabriel Péri compatible avec un aménagement en vélorue pour desservir le complexe évenementiel des Grandes Locos. Elle traverse l'Yzeron en voie verte sur la passerelle existante au niveau de l'avenue Edmond Locard. Ce franchissement étroit de la rivière devra être amélioré à moyen-terme pour ne pas en faire un point noir piéton. Les cyclistes continueront ensuite sur l'avenue Locard qu'ils emprunteront jusqu'à son extrémité Sud sur de nouvelles pistes cyclables sécurisées et élargies. Ils emprunteront ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
+La Voie Lyonnaise 3 fait ici un léger détour en s'éloignant du Rhône via la rue Gabriel Péri compatible avec un aménagement en vélorue pour desservir le complexe évenementiel des Grandes Locos. Elle traverse l'Yzeron en voie verte sur la passerelle existante au niveau de l'avenue Edmond Locard. Ce franchissement étroit de la rivière devra être amélioré à moyen-terme pour ne pas en faire un point noir piéton. Les cyclistes continueront ensuite sur l'avenue Locard qu'ils emprunteront jusqu'à son extrémité Sud sur de nouvelles pistes cyclables sécurisées et élargies. Ils auraient dû circuler ensuite sur la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, pour rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
 
 ::banner{type="info"}
 Les travaux de voirie liés au projet urbain de la Saulaie commenceront à l'été 2025 et se termineront au printemps 2026. En attendant, les cyclistes utiliseront les aménagements sécurisés existants sur l'avenue Locard et l'avenue des Saules.
@@ -214,7 +216,7 @@ Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire
 ::
 
 #### Traversée de Pierre-Bénite
-Cette section sera totalement réaménagée, avec une sécurisation du carrefour Chardon très accidentogène, et la création d'une double piste cyclable bilatérale axiale végétalisée de 2.5m de large chacune au centre de la chaussée sur le boulevard de l'Europe. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.
+Cette section sera totalement réaménagée, avec une amélioration du carrefour Chardon très accidentogène, et la création d'une double piste cyclable bilatérale axiale végétalisée de 2.5m de large chacune au centre de la chaussée sur le boulevard de l'Europe. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.
 Enfin, les cyclistes emprunteront la voie verte existante de 3m de large sur le Chemin du Barrage, qui date de 2018 et restera en l'état.
 
 ::content-image
@@ -257,7 +259,7 @@ L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s
 [Voir la délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrnofZUeuR6NXc4mHg89XdeHsg4lPRLipPME9MNyZ2%2BsxOnlPZg%2FlCIU)
 
 ### Givors Sud
-A la demande de la mairie de Givors, la Métropole réalise un aménagement cyclable sur les quais au Sud de la ville pour faciliter la liaison entre le centre-ville et le collège Paul Vallon. Dans ce cadre, une piste cyclable bidirectionnelle de 3.5m de large est en train d'être aménagée entre le pont de Chasse et le chemin du Freyssinet. Elle est située côté Nord du quai Rosenberg qui devient avenue Anatole France plus au Sud.
+A la demande de la mairie de Givors, la Métropole a réalisé un aménagement cyclable sur les quais au Sud de la ville pour faciliter la liaison entre le centre-ville et le collège Paul Vallon. Dans ce cadre, une piste cyclable bidirectionnelle de 3.5m de large a été aménagée entre le pont de Chasse et le chemin du Freyssinet. Elle est située côté Nord du quai Rosenberg qui devient avenue Anatole France plus au Sud.
 
 ::banner{type="info"}
 Ce projet permet d'accueillir un tronçon isolé de la Voie Lyonnaise 3. Il n'est relié à absolument aucun aménagement cyclable à ses extrémités, ce qui y mettra en difficulté les cyclistes circulant du Nord vers le Sud. La Ville à Vélo espère vivement la reprise des études puis des travaux de la ViaRhôna entre Givors et Irigny dans les meilleurs délais pour créer une continuité cyclable et sécurisée tant attendue par les habitants et cyclotouristes du secteur.

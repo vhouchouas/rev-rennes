@@ -15,7 +15,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 #### Giratoire Chicotière à Giratoire Maison Carrée
 *via gare Dommartin-Lissieu et Dardilly Nord*
 
-Depuis le [giratoire de la Chicotière](https://goo.gl/maps/1UkZTP9b3Q3MmWkT8){:target="_blank"}, la voie lyonnaise n°4 prend la direction du Sud-Est sous la forme d'une large voie verte de 3 à 5m de large le long de la partie Sud de l'ancienne RN6. Elle sera séparée de la voirie automobile par une large bande plantée et arborée, ou par une nouvelle voie de bus dédiée à améliorer les performances des transports en commun du secteur. Les voies de sortie et d'insertion de l'échangeur du Sémanet seront améliorées, tandis que les deux giratoires du parcours seront modifiés pour sécuriser leur traversée.
+Depuis le [giratoire de la Chicotière](https://goo.gl/maps/1UkZTP9b3Q3MmWkT8){:target="_blank"}, la Voie Lyonnaise 4 prend la direction du Sud-Est sous la forme d'une large voie verte de 3 à 5m de large le long de la partie Sud de l'ancienne RN6. Elle sera séparée de la voirie automobile par une large bande plantée et arborée, ou par une nouvelle voie de bus dédiée à améliorer les performances des transports en commun du secteur. Les voies de sortie et d'insertion de l'échangeur du Sémanet seront améliorées, tandis que les deux giratoires du parcours seront modifiés pour sécuriser leur traversée.
 
 ::content-image
 ---
