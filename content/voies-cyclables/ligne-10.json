@@ -698,7 +698,8 @@
         "id": "BelgesSudSud-commun",
         "line": 10,
         "name": "Belges de Fournet à Lafayette",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "05/03/2025",
         "type": "voie-bus-elargie",
         "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#boulevard-des-belges-de-waldeck-rousseau-à-lafayette"

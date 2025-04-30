@@ -160,7 +160,7 @@ streetView: 45.7400878,4.857942,3a,75y,311.49h,83.09t
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont lieu entre novembre 2024 et avril 2025.
+Les travaux sur cette section ont eu lieu entre novembre 2024 et avril 2025.
 ::
 
 #### Boulevard des États-Unis

@@ -104,8 +104,8 @@ streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 
 ::banner{type="wip"}
 Les travaux sur l'avenue de Montlouis commencent en avril 2025 et devraient durer jusqu'en juin 2025.\
-Les travaux sur le boulevard de la République ont lieu entre décembre 2024 et mars 2025.\
-Les travaux sur la rue de la Mairie et la place de la Liberté devraient commencer en avril 2025 et se terminer à l'été 2025.
+Les travaux sur le boulevard de la République ont lieu entre décembre 2024 et mai 2025.\
+Les travaux sur la rue de la Mairie et la place de la Liberté devraient commencer en mai 2025 et se terminer à l'été 2025.
 ::
 
 #### Rue Juttet à Avenue de Champagne

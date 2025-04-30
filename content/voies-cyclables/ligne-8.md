@@ -42,10 +42,10 @@ Cette section fait l'objet d'un vaste projet de requalification qui consiste à 
 
 Ce projet ambitieux sera réalisé en deux phases :
  - entre le chemin des Verrières et l'allée du Mas, l'aménagement est réalisé en transitoire entre l'automne 2024 et avril 2025, et le réaménagement définitif prévu à un mandat ultérieur
- - entre l'allée du Mas et le giratoire du Montcelard, le réaménagement de façade à façade est prévu en 2025 et 2026.
+ - entre l'allée du Mas et le giratoire du Montcelard, le réaménagement de façade à façade est en cours de début 2025 à l'été 2026.
 
 ::banner{type="wip"}
-Entre l'allée du Mas et le giratoire du Montcelard, les travaux préalables sur les réseaux ont eu lieu entre l'été 2022 et l'automne 2024, puis les travaux d'aménagement ont commencé fin 2024 et continueront jusqu'à l'été 2026 en commençant par la partie Sud.
+Entre l'allée du Mas et le giratoire du Montcelard, les travaux préalables sur les réseaux ont eu lieu entre l'été 2022 et l'automne 2024, puis les travaux d'aménagement ont commencé fin 2024 et continueront jusqu'à l'été 2026 en commençant par le tiers Sud début 2025, le tiers central à l'été 2025 puis le tiers Nord début 2026. Chaque phase de chantier est estimée durer entre 6 et 9 mois.
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*\
@@ -68,7 +68,7 @@ La Voie Lyonnaise 8 continue ensuite sur le boulevard du Valvert. Au Sud de l'av
 Sur la suite du boulevard du Valvert, le projet prévoit de conforter la piste cyclable bidirectionnelle actuelle côté Sud, en l'élargissant jusqu'à 4.00m de large, et en la séparant mieux de la voirie automobile avec un séparateur béton de grande taille.
 
 ::banner{type="wip"}
-Les travaux sur cette section, initialement prévus au second semestre 2024 ont été reporté au entre le second semestre 2025 et l'été 2026 à la demande du maire de Tassin. La sécurisation des cyclistes attendra.
+Les travaux sur cette section, initialement prévus au second semestre 2024, ont été reporté entre mai 2025 et mars 2026. Ils débuteront sur la route de Paris, puis continueront à partir de l'été 2025 sur le boulevard du Valvert.
 ::
 
 #### Tassin - Valvert à Victor Hugo
@@ -85,6 +85,10 @@ caption: Aperçu de la Voie Lyonnaise 8 - Chemin du Vallon (Tassin - variante pi
 credit: Métropole de Lyon
 streetView: 45.7688341,4.7861129,3a,75y,64.59h,90t
 ---
+::
+
+::banner{type="wip"}
+Les travaux auront lieu pendant l'hiver 2025-2026.
 ::
 
 #### *Concertation*
@@ -121,7 +125,7 @@ Les travaux devraient avoir lieu entre juin et septembre 2025.
 Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée pour y insérer une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.00m de large. La piste s'interrompra au niveau du carrefour avec l'avenue Apollinaire compte-tenu de l'étroitesse de la partie Est, qui obligerait à une mise en sens unique fortement impactante pour les lignes de bus du secteur.
 
 ::banner{type="wip"}
-Après des travaux préliminaires sur les réseaux souterrains en 2024, les travaux d'aménagement commenceront en juin 2025 et devraient durer jusqu'en février 2026.
+Après des travaux préliminaires sur les réseaux souterrains en 2024, les travaux d'aménagement commenceront en juin 2025 et devraient durer jusqu'en fin d'année.
 ::
 
 ::content-image
@@ -218,7 +222,7 @@ Concernant la circulation automobile et le traitement du pont, deux variantes so
  - La coupure de la circulation automobile sur le pont de l'Epargne, où l'espace libéré est réparti entre une piste cyclable au Sud et un trottoir au Nord. La circulation automobile passe alors en sens unique côté Ouest, en direction du boulevard des Tchécoslovaques. Cela permet de libérer davantage d'espace et de végétaliser et arborer massivement.
  - Le maintien de la circulation automobile sur le pont de l'Epargne, où une voie verte étroite mélangeant cyclistes et piétons est aménagée au Sud et la voirie automobile au Nord. Le circulation automobile est maintenue à double sens côté Ouest, les piétons et vélos sont contraints de traverser la voirie, et il reste peu d'espace pour végétaliser davantage la rue.
 
- ::banner{type="wip"}
+::banner{type="wip"}
 Une première phase d'aménagement entièrement transitoire est prévue être déployée entre le dernier trimestre 2025 et début 2026.
 ::
 
@@ -242,7 +246,7 @@ streetView: 45.7350505,4.8736669,3a,75y,304.21h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux ont lieu entre mi-janvier 2025 et le début d'été 2025.
+Les travaux ont lieu entre mi-janvier 2025 et septembre 2025.
 ::
 
 Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du :transport-link{type=tram line=6}.

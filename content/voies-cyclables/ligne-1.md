@@ -86,7 +86,7 @@ Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard
 *via Quais du Rhône rive gauche*
 
 #### Allée Achille Lignon
-Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large devait être aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé aurait alors été créé entre le site propre bus et la nouvelle piste cyclable.\
+Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large devait être aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé aurait alors été créé entre le site propre bus et la nouvelle piste cyclable.
 
 ::banner{type="postponed"}
 Après des études complémentaires de la Métropole, le scénario initial de création d'un nouveau cheminement parallèle pour séparer piétons et cyclistes s'est avéré plus complexe que prévu. En cause : les oeuvres d'art qui ponctuent l'espace végétalisé, ainsi que l'emprise importante de l'Amphithéâtre 3000. Il a donc été décidé de conserver dans un premier temps la voie verte actuelle avec un simple changement du revêtement stabilisé côté Ouest, remplacé par un enrobé lisse plus confortable pour tous. Nous déplorons ce choix qui va maintenir un fort conflit dans une zone très fréquentée par les piétons.
