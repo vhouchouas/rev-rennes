@@ -54,7 +54,7 @@ Se référer à la page de chaque ligne pour davantage d'informations.
 *Parcours commun avec la véloroute touristique ViaRhôna.*
 
 ::banner{type="wip"}
-Les travaux ont eu lieu entre début février 2025 et fin avril 2025.
+Les travaux ont eu lieu entre début février 2025 et mi-avril 2025.
 ::
 
 #### Rue du Canal
@@ -158,6 +158,9 @@ caption: Voie Lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
 ::
 
 ## Fil d'actu
+
+### Inauguration tronçon nord-est
+La Voie Lyonnaise 9 entre les Puces du canal et le parc de Miribel est inaugurée le 23 mai 2025.
 
 ### Concertation publique
 17 octobre 2022

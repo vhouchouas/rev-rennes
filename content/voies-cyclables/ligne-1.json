@@ -286,6 +286,26 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "BiblioI-commun",
+        "line": 1,
+        "name": "Bibliothèque INSA",
+        "status": "done",
+        "doneAt": "31/08/2021",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.877199044805195, 45.78255851628476],
+          [4.877317297826664, 45.7822875659929]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "EinsteinI-commun",
         "line": 1,
         "name": "Variante Jean Capelle Ouest",

@@ -1629,6 +1629,25 @@
           [4.877075097949387, 45.78447494618939],
           [4.877519623313248, 45.78346798216612],
           [4.877143455217293, 45.78322534180985],
+          [4.877199044805195, 45.78255851628476]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BiblioI-commun",
+        "line": 5,
+        "name": "Bibliothèque INSA",
+        "status": "done",
+        "doneAt": "31/08/2021",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-5#traversée-du-campus-de-la-doua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.877199044805195, 45.78255851628476],
           [4.877317297826664, 45.7822875659929]
         ]

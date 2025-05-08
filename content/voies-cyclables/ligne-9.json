@@ -315,7 +315,8 @@
       "properties": {
         "line": 9,
         "name": "Parc de Miribel",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "18/04/2025",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-9#allée-du-morlet"
@@ -400,7 +401,8 @@
       "properties": {
         "line": 9,
         "name": "Le long de l'A42",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "18/04/2025",
         "type": "voie-verte",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-9#promenade-le-long-de-la42"
@@ -448,8 +450,9 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "name": "Rue du Canal",
-        "status": "wip",
+        "name": "Rue du Canal Nord",
+        "status": "done",
+        "doneAt": "18/04/2025",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-9#promenade-le-long-de-la42"
@@ -460,6 +463,23 @@
           [4.893062710762024, 45.786196478774215],
           [4.893427491188049, 45.78559046402379],
           [4.893776178359985, 45.78496947911212],
+          [4.894194290757852,45.784150955400385]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 9,
+        "name": "Rue du Canal Sud",
+        "status": "wip",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-9#promenade-le-long-de-la42"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.894194290757852,45.784150955400385],
           [4.8941900965150005,45.78398539686815],
           [4.894309779045649,45.783657270897024],
@@ -558,6 +578,26 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BiblioI-commun",
+        "line": 9,
+        "name": "Bibliothèque INSA",
+        "status": "done",
+        "doneAt": "31/08/2021",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.877199044805195, 45.78255851628476],
+          [4.877317297826664, 45.7822875659929]
+        ]
+      }
+    },    
     {
       "type": "Feature",
       "properties": {
