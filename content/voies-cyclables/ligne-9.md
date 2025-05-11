@@ -109,12 +109,12 @@ Suite à la concertation, c'est la seconde option qui a été retenue avec la su
 #### Promenade des Îles
 Sur cette section à enjeu environnemental plus marqué, la voie verte existante de 3m de large sera conservée en l'état.
 
-#### Digue EDF le long du Grand Large
+#### Ferme des Allivoz au Pont d'Herbens
 La voie verte existante de 3m de large devait être élargie à 4m compte-tenu de la convergence des accès au parc de Miribel-Jonage sur cette section.
-En outre, le revêtement en sable stabilisé devait être remplacé par un enrobé lisse plus confortable.
+En outre, le revêtement en sable stabilisé sur la digue EDF devait être remplacé par un enrobé lisse plus confortable.
 
-::banner{type="postponed"}
-EDF et les services de l'Etat ont finalement refusé d'élargir la voie verte et de modifier son revêtement, car cela impliquait des travaux très complexes et coûteux sur une digue qui date de la fin du XIXè siècle.
+::banner{type="modified"}
+Le tracé a été modifié et ne passe plus par l'allée des Allivoz mais coupe au plus court via un ancien chemin agricole reconverti en voie verte en 2024 avec un enrobé lisse et confortable qui rejoint la digue juste à l'Ouest du pont d'Herbens. Cette alternative a permis de prolonger la Voie Lyonnaise jusqu'à l'Est du deversoir d'Herbens.
 ::
 
 #### Pont d'Herbens à Pont de Jonage
@@ -131,7 +131,7 @@ EDF et les services de l'Etat ont finalement refusé de modifier le revêtement 
 ::
 
 #### Jonage - Chemin de Halage
-Le projet prévoit de conserver la voie verte existante de 3m sur la digue Sud. Seul le revêtement en sable stabilisé sera remplacé par un enrobé lisse.
+Le projet prévoyait de conserver la voie verte existante de 3m sur la digue Sud. Seul le revêtement en sable stabilisé devait être remplacé par un enrobé lisse.
 
 ::banner{type="postponed"}
 EDF et les services de l'Etat ont finalement refusé de modifier le revêtement de la digue qui restera en stabilisé, car cela impliquait des travaux très complexes et coûteux sur un ouvrage qui date de la fin du XIXè siècle.
