@@ -364,7 +364,7 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "name": "Jonction Quais du Rhône Centre - VL4",
+        "name": "Trémie De Lattre",
         "status": "done",
         "doneAt": "01/02/2014",
         "type": "bilaterale",
@@ -377,6 +377,23 @@
           [4.838095708858418, 45.77074336120836],
           [4.838240821707814, 45.77210623333772],
           [4.838392362080555, 45.773317722416465],
+          [4.838555559405393, 45.77387060801536]
+        ]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "name": "Jonction Pont De Lattre",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
+        "link": "/voie-lyonnaise-6#jonction-vers-rhône-rive-droite-et-vl4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.838555559405393, 45.77387060801536],
           [4.8386743183995975, 45.77376810669651],
           [4.838622058007331, 45.773577619085074],

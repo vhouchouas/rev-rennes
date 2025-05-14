@@ -201,7 +201,7 @@ Sur la section entre le carrefour du pont de la Mulatière et la rue Chardiny, l
 
 ::banner{type="wip"}
 Les travaux sur les sections au Sud de la rue Chardiny ont lieu entre septembre 2024 et avril 2025.\
-Ceux au nord de la rue Chardiny débuteront après les travaux de l'aquarium, au cours du second semestre 2025.
+Ceux au nord de la rue Chardiny débuteront après les travaux de l'aquarium, entre octobre et décembre 2025.
 ::
 
 #### Quartier de la Saulaie

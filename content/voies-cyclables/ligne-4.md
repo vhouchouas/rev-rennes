@@ -119,7 +119,7 @@ Les travaux devraient commencer en juillet 2025 et durer jusque fin 2025.
 Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande végétalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
 ::banner{type="wip"}
-Les travaux préalables sur les réseaux souterrains ont eu lieu entre mars et août 2024, puis enchainent avec les travaux d'aménagement entre octobre 2024 et juin 2025.
+Les travaux préalables sur les réseaux souterrains ont eu lieu entre mars et août 2024, puis enchainent avec les travaux d'aménagement entre octobre 2024 et septembre 2025.
 ::
 
 #### *Concertation*

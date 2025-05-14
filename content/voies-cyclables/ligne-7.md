@@ -144,6 +144,10 @@ La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.\
 La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchill sur une piste cyclable bidirectionnelle de 2.8m côté Sud créée en 2018. Elle sera conservée en l'état malgré sa faible largeur et la présence de 7 voies de circulation automobile sur ce pont...
 Elle continuera ensuite sur l'avenue de Grande Bretagne jusqu'au boulevard des Belges avec la création d'une nouvelle piste cyclable bidirectionnelle de 4m de large à la place d'une voie de circulation dans chaque sens. L'ancienne piste cyclable entre les arbres sera rendue aux piétons.
 
+::banner{type="wip"}
+Les travaux sur cette section sont prévus entre juillet et octobre 2025.
+::
+
 #### Boulevard des Belges - Quais du Rhône à Garibaldi
 L'aménagement actuel de ce tronçon consiste en une voie automobile et une bande cyclable dans le sens Est>Ouest, et une voie automobile et une voie de bus partagée avec les vélos dans le sens Est>Ouest.
 
