@@ -576,7 +576,7 @@
       "properties": {
         "line": 4,
         "name": "Bourgogne Sud",
-        "status": "planned",
+        "status": "wip",
         "type": "voie-bus",
         "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-4#rue-de-bourgogne"
@@ -764,8 +764,8 @@
         "id": "BelgesNord-commun",
         "line": 4,
         "name": "Belges - Duquesne Verguin",
-        "status": "planned",
-        "type": "voie-bus-elargie",
+        "status": "postponed",
+        "type": "voie-bus",
         "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },

@@ -920,7 +920,8 @@
       "properties": {
         "line": 7,
         "name": "Cuire - Chemin du Penthod",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "01/07/2005",
         "type": "velorue",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#métro-cuire-et-infirmerie-protestante"
@@ -942,8 +943,9 @@
       "properties": {
         "line": 7,
         "name": "Cuire - Place Jules Ferry",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "done",
+        "doneAt":"01/07/2012",
+        "type": "zone-de-rencontre",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#métro-cuire-et-infirmerie-protestante"
       },
@@ -1121,7 +1123,8 @@
       "properties": {
         "line": 7,
         "name": "Montée de la Boucle",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "15/01/2023",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#montée-de-la-boucle"

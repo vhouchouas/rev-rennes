@@ -92,6 +92,10 @@ Pour desservir le quartier de la Cité Internationale, une piste cyclable bidire
 Après des études complémentaires de la Métropole, le scénario initial de création d'un nouveau cheminement parallèle pour séparer piétons et cyclistes s'est avéré plus complexe que prévu. En cause : les oeuvres d'art qui ponctuent l'espace végétalisé, ainsi que l'emprise importante de l'Amphithéâtre 3000. Il a donc été décidé de conserver dans un premier temps la voie verte actuelle avec un simple changement du revêtement stabilisé côté Ouest, remplacé par un enrobé lisse plus confortable pour tous. Nous déplorons ce choix qui va maintenir un fort conflit dans une zone très fréquentée par les piétons.
 ::
 
+::banner{type="wip"}
+Le changement de revêtement sur la partie Sud aura lieu pendant l'été 2025.
+::
+
 #### Quai de Grande-Bretagne et Quai de Serbie
 
 *(Tête d'Or <> Pont Morand)*
@@ -159,7 +163,7 @@ La Métropole a annoncé le 30/01/2025 que la majeure partie de ce tronçon est 
 ::
 
 ::banner{type="wip"}
-La section entre la rue du commandant Ayasse et le pont Pasteur devrait être en travaux entre mai et novembre 2025.
+La section entre la rue du commandant Ayasse et le pont Pasteur est en travaux entre fin mai et novembre 2025.
 ::
 
 #### *Concertation*

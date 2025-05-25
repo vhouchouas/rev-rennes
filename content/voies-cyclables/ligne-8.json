@@ -565,9 +565,9 @@
       "type": "Feature",
       "properties": {
         "line": 8,
-        "id": "Bld-Valvert-commun",
-        "name": "Boulevard du Valvert",
-        "status": "planned",
+        "id": "Nd-Valvert-commun",
+        "name": "Noeud du Valvert",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-8#tassin-valvert-à-victor-hugo"
@@ -587,6 +587,24 @@
           [4.768506108944933, 45.76581631362956],
           [4.768886336071404, 45.766063754225144],
           [4.769326526426369, 45.766169944127],
+          [4.769473774987375, 45.76615876130967]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "id": "Bld-Valvert-commun",
+        "name": "Boulevard du Valvert",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-8#tassin-valvert-à-victor-hugo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.769473774987375, 45.76615876130967],
           [4.7697070703487725, 45.766119118773275],
           [4.769729275575514, 45.766113942240054],
@@ -619,6 +637,24 @@
           [4.781909182687656, 45.7670936826631],
           [4.7823207061805135, 45.767357865379495],
           [4.782815551290781, 45.76768695845439],
+          [4.783080874640945, 45.76785755837943]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "id": "Ch-Vallon-commun",
+        "name": "Chemin Vernique/Vallon",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-8#tassin-valvert-à-victor-hugo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.783080874640945, 45.76785755837943],
           [4.7833130482174795, 45.76792411909557],
           [4.783525145981912, 45.76798245657443],

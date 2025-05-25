@@ -195,7 +195,7 @@ streetView: 45.7228161,4.877238,3a,75y,301.55h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux auront lieu entre mai 2025 et janvier 2026.
+Les travaux ont lieu entre fin mai 2025 et janvier 2026.
 ::
 
 ####  Quartier de Parilly
@@ -205,7 +205,9 @@ Les travaux auront lieu entre mai 2025 et janvier 2026.
 Depuis l'avenue Viviani, les cyclistes emprunteront le passage sécurisé en voie verte sous le boulevard périphérique Laurent Bonnevay, inauguré au printemps 2019. Ils traverseront ensuite la place Grandclément (accès :transport-link{type=métro line=D}) avec une piste bidirectionnelle, puis emprunteront l'ancienne route d'Heyrieux qui sera aménagée en vélorue. Ils traverseront ensuite l'angle Sud-Ouest de la Plaine des Sports du Parc de Parilly avant de rejoindre l'avenue Charles de Gaulle.
 
 ::banner{type="wip"}
-Les travaux sont prévus de mai à octobre 2025.
+Les travaux à l'Est de la place du métro Parilly sont prévus sur mai et juin 2025.
+Les travaux dans le parc de Parilly auront lieu de juin à août 2025.
+Les travaux sur l'ancienne Route d'Heyrieux auront lieu de juillet à fin septembre 2025.
 ::
 
 #### Route de Lyon (parc Parilly à rue des Alouettes)

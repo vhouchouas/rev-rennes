@@ -1461,7 +1461,7 @@
       "properties": {
         "line": 2,
         "name": "Avenue Viviani",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#avenue-viviani",
         "quality": "satisfactory"
@@ -1611,7 +1611,7 @@
       "properties": {
         "line": 2,
         "name": "Métro Parilly",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#quartier-de-parilly",
         "quality": "satisfactory"

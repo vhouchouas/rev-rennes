@@ -86,6 +86,10 @@ Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protesta
 
 La Voie Lyonnaise 7 passera ensuite place Jules Ferry, qui sera traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du :transport-link{type=métro line=C}.
 
+::banner{type="postponed"}
+La Métropole a finalement reporté début 2025 le réaménagement de ce tronçon pour des raisons budgétaires.
+::
+
 #### Boulevard des Canuts
 Entre la rue de la gare de Cuire et la station BP, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m sera réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune, bien séparées des piétons.
 
@@ -124,6 +128,10 @@ Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large c
 
 ::banner{type="modified"}
 Contrairement à ce qui était annoncé lors de la concertation, la contre-allée en bas de la Montée de la Boucle sera finalement aménagée en vélorue de 4m de large pour conserver un maximum de places de stationnements à la demande de la mairie de Caluire et des commerçants.
+::
+
+::banner{type="postponed"}
+La Métropole a finalement reporté début 2025 l'aménagement définitif de ce tronçon pour des raisons budgétaires.
 ::
 
 ::content-image

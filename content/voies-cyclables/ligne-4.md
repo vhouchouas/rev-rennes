@@ -103,9 +103,9 @@ streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur l'avenue de Montlouis commencent en avril 2025 et devraient durer jusqu'en juin 2025.\
-Les travaux sur le boulevard de la République ont lieu entre décembre 2024 et mai 2025.\
-Les travaux sur la rue de la Mairie et la place de la Liberté devraient commencer en mai 2025 et se terminer à l'été 2025.
+Les travaux sur l'avenue de Montlouis ont eu lieu en avril et mai 2025.\
+Les travaux sur le boulevard de la République ont eu lieu entre décembre 2024 et mai 2025.\
+Les travaux sur la rue de la Mairie et la place de la Liberté ont lieu entre juin et fin octobre 2025.
 ::
 
 #### Rue Juttet à Avenue de Champagne
@@ -195,6 +195,10 @@ Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verg
 
 ::banner{type="modified"}
 Contrairement à ce qui était proposé initialement, et suite aux remarques lors de la concertation, la Métropole a décidé lors de la [commission permanente du 08 juillet 2024](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrlzrDjrXmLxiZr7Y2VVWXnfBHPF8XlIiq8H6s%2BQkgCsyNfTSYath86%2F) de ne pas aménager cette piste cyclable derrière les platanes. Comme suggéré par notre association, il a été préféré élargir les deux couloirs de bus existants en laissant une seule voie de circulation générale, de la même manière que ce qui est proposé provisoirement dans la continuité Sud du boulevard des Belges en attendant LCO. Il conviendra cependant de passer le stationnement en long pour élargir le trottoir côté Parc en faveur des piétons.
+::
+
+::banner{type="postponed"}
+Nouveau rebondissement sur ce tronçon en mai 2025 : l'élargissement des couloirs bus nécessitait de gratter les marquages sur la chaussée pour en créer de nouveaux de manière durable. Malheureusement, le revêtement est amianté sur cette portion et les coups de désamiantage étaient bien trop conséquents (>100k€). Les marquages seront donc conservés en l'état sur ce mandat.
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.\

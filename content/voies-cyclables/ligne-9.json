@@ -778,8 +778,8 @@
         "id": "BelgesNord-commun",
         "line": 9,
         "name": "Belges - Duquesne Verguin",
-        "status": "planned",
-        "type": "voie-bus-elargie",
+        "status": "postponed",
+        "type": "voie-bus",
         "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },

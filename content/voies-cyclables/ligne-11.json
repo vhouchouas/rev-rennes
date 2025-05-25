@@ -555,7 +555,8 @@
       "properties": {
         "line": 11,
         "name": "Avenue Félix Faure",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "20/05/2025",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#avenue-félix-faure-vivier-merle-à-esplanade-mandela"

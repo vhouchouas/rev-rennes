@@ -26,6 +26,10 @@ Les deux voies de circulation générale actuelles seront réduites à une voie 
 Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tronçon ne sera pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 ::
 
+::banner{type="postponed"}
+L'élargissement des couloirs bus nécessitait de gratter les marquages sur la chaussée pour en créer de nouveaux de manière durable. Malheureusement, le revêtement est amianté sur cette portion et les coups de désamiantage étaient bien trop conséquents (>100k€). Il a donc été décidé en mai 2025 de conserver les marquages en l'état sur ce mandat.
+::
+
 ### Boulevard des Belges - de Waldeck Rousseau à Lafayette
 Cette section est en tronçon commun avec la :line-link{line=2}.
 
@@ -74,9 +78,13 @@ Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroi
 ***Vaulx-La Soie***
  - le long du terminus du :transport-link{type=métro line=A}, le cheminement cyclable sera complexifié en lien avec le nouveau terminus du :transport-link{type=tram line=9} dans le secteur
  - sur l'avenue des Canuts, la piste cyclable sera séparée de l'espace piéton avec une bordure de 10cm.
- - la partie Nord de la rue Marius Grosso sera réservée aux seuls cyclistes avec élargissement de la piste cyclable bidirectionnelle et déplacement de l'arrêt de bus à l'Ouest du carrefour Salengro
+ - la partie Nord de la rue Marius Grosso sera réservée aux seuls cyclistes avec élargissement de la piste cyclable bidirectionnelle et déplacement de l'arrêt de bus à l'Ouest du carrefour Salengro **Reporté**
  - la traversée du Boulevard Urbain Est sera fortement améliorée en lien avec le projet de :transport-link{type=tram line=9} qui permettra un passage direct sans chicane et une traversée de voirie raccourcie
  - *entre le BUE et l'avenue Roosevelt, la voie verte étroite de 2m50 à 3m de large sera maintenue en l'état, créant une zone de conflit avec les piétons qui s'annonce de plus en plus problématique avec l'arrivée du grand projet immobilier voisin et le désir de correspondance avec le futur T9*
+
+::banner{type="postponed"}
+En dehors des aménagements liés au nouveau tram T9, les autres améliorations ponctuelles prévues sur la commune ont été reportée début 2025 à un mandat ultérieur du fait de contraintes budgétaires.
+::
 
 ***Décines-Charpieu***
  - le long du [projet immobilier D-Side](https://d-side-decines.com/), entre l'avenue Roosevelt et la rue Wilson, en plus de la création d'un nouvel arrêt de tramway, la section sera élargie pour séparer piétons et cyclistes
@@ -87,6 +95,10 @@ Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroi
  - entre l'arrêt de tram Grand Large et la route de Jonage, la voie sera élargie pour séparer piétons et cyclistes dans un secteur à fort potentiel de conflit avec la proximité du Groupama Stadium et de la LDLC Arena
  - *la dangereuse traversée sans visibilité de la route de Jonage ne sera malheureusement pas améliorée avec la traversée du tramway et de la route en même temps avec un feu vert très court.*
 
+::banner{type="postponed"}
+Les améliorations ponctuelles prévues sur la commune de Décines ont été reportée début 2025 à un mandat ultérieur du fait de contraintes budgétaires. Les conflits avec les piétons vont donc encore malheureusement durer de nombreuses années sur des sections de plus en plus fréquentées par les modes actifs.
+::
+
 ***Meyzieu***
  - *la traversée de la Rocade Est continuera de se faire sur une voie verte étroite de 2m de large sur 100m de long*
  - *entre l'avenue du Carreau et la gare de Meyzieu, la voie devait être élargie pour séparer piétons et cyclistes, mais face à l'opposition des propriétaires des parcelles concernées, la voie verte inconfortable actuelle sera maintenue au moins jusqu'au boulevard du 18 Juin 1940*
@@ -96,6 +108,10 @@ Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroi
  - *entre la rue Molière et la rue Jean Jaurès, la rue Arago restera une voie verte étroite de 2m80 de large qui continuera à provoquer de nombreux conflits avec les piétons, renforcés récemment par l'arrivée du nouveau lycée*
  - le long du nouveau lycée Beltrame, les piétons et les cyclistes seront séparés et le franchissement du carrefour Jean Jaurès sera amélioré
  - *entre le lycée Beltrame et Meyzieu ZI, la voie verte sur trottoir de 2m80 sera conservée en l'état*
+
+::banner{type="postponed"}
+Les améliorations ponctuelles prévues sur la commune de Meyzieu (hors groupe scolaire Curie et lycée Beltrame) ont été reportée début 2025 à un mandat ultérieur du fait de contraintes budgétaires. Les conflits avec les piétons vont donc encore malheureusement durer de nombreuses années sur des sections de plus en plus fréquentées par les modes actifs.
+::
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.\

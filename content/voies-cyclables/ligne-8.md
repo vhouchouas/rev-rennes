@@ -68,7 +68,9 @@ La Voie Lyonnaise 8 continue ensuite sur le boulevard du Valvert. Au Sud de l'av
 Sur la suite du boulevard du Valvert, le projet prévoit de conforter la piste cyclable bidirectionnelle actuelle côté Sud, en l'élargissant jusqu'à 4.00m de large, et en la séparant mieux de la voirie automobile avec un séparateur béton de grande taille.
 
 ::banner{type="wip"}
-Les travaux sur cette section, initialement prévus au second semestre 2024, ont été reporté entre mai 2025 et mars 2026. Ils débuteront sur la route de Paris, puis continueront à partir de l'été 2025 sur le boulevard du Valvert.
+Les travaux entre la route de Paris et l'avenue Roosevelt ont lieu de fin avril à mi-juillet 2025, puis de début septembre à mi-octobre 2025.
+Les travaux sur le boulevard du Valvert ont lieu de mi-juillet à mi-septembre 2025.
+Les travaux sur la route de Paris ont lieu de mi-octobre 2025 à mars 2026.
 ::
 
 #### Tassin - Valvert à Victor Hugo
@@ -77,6 +79,7 @@ Sur le chemin de la Vernique, le projet prévoit la création d'une piste cyclab
 Sur le chemin du Vallon, deux variantes ont été proposées :
  - la création d'une voie verte de 3.50 à 4.50m de large sur le trottoir Sud
  - la suppression du trottoir Nord le long du Leroy Merlin et la création d'une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.30m de large avec un point dur à 2.20m au niveau de la sortie du magasin de bricolage
+C'est finalement une solution hybride qui a été retenue, avec le maintien du trottoir Nord mais la création d'une piste bidirectionnelle au Sud par léger élargissement de la voirie sur les résidences.
 
 ::content-image
 ---
@@ -88,7 +91,7 @@ streetView: 45.7688341,4.7861129,3a,75y,64.59h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux auront lieu pendant l'hiver 2025-2026.
+Les travaux auront lieu de novembre 2025 à janvier 2026.
 ::
 
 #### *Concertation*

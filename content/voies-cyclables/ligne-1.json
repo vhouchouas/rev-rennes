@@ -720,7 +720,7 @@
       "properties": {
         "line": 1,
         "name": "Avenue Leclerc Sud",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-1#avenue-général-leclerc",
         "quality": "satisfactory"

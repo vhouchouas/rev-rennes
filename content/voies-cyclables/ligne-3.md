@@ -131,7 +131,7 @@ Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire
 ::
 
 ::banner{type="wip"}
-Les travaux **entre le pont Koenig et le Sud de la place du port Mouton** devraient avoir lieu entre juin 2025 et mars 2026.
+Les travaux **entre le pont Koenig et le Sud de la place du port Mouton** devraient avoir lieu entre juillet 2025 et mars 2026.
 ::
 
 ::content-image

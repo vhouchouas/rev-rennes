@@ -75,9 +75,13 @@ streetView: 45.7567455,4.8164702,3a,75y,326.99h,90t
 ::
 
 ### Traversée de Saint-Jean
-Dans le Vieux Lyon, la Voie Lyonnaise 12 empruntera la rue Tramassac puis la rue Jean Carries. Profitant de la fermeture de Chemin Neuf et de la suppression de la majorité du stationnement, ces deux rues pourront être aménagées en vélorue et fortement végétalisées avec un trafic automobile qui sera très faible.
+Dans le Vieux Lyon, la Voie Lyonnaise 12 empruntera la rue Tramassac puis la rue Jean Carries. Profitant de la fermeture de Chemin Neuf et de la suppression de la majorité du stationnement, ces deux rues pourront être aménagées en vélorue et végétalisées avec un trafic automobile qui sera très faible.
 
-En arrivant devant le :transport-link{type=métro line=D} Saint-Jean, l'itinéraire emprunte l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
+En arrivant devant le :transport-link{type=métro line=D} Saint-Jean, l'itinéraire empruntera l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
+
+::banner{type="modified"}
+Pour permettre la giration des gros véhicules depuis le quai vers l'avenue Adolphe Max, la piste cyclable bidirectionnelle n'était pas réalisable. Elle a donc été transformée en une large vélorue sur la branche Nord de l'avenue, grâce au déplacement du terminus du bus 27 sur la branche Sud.
+::
 
 ::banner{type="wip"}
 Les travaux sur l'avenue Adolphe Max auront lieu en juin et juillet 2025.
@@ -98,8 +102,8 @@ streetView: 45.7582316,4.8331345,3a,75y,261.07h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur la rue Chambonnet ont lieu de mi-janvier à avril 2025.
-Les travaux sur le pont Bonaparte auront lieu en avril et mai 2025.
+Les travaux sur la rue Chambonnet ont eu lieu de mi-janvier à mi-mai 2025.
+Les travaux sur le pont Bonaparte ont lieu de fin mai à début juillet 2025.
 ::
 
 ::banner{type="postponed"}
