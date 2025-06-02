@@ -84,19 +84,25 @@ credit: Métropole de Lyon
 #### Métro Cuire et Infirmerie Protestante
 Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protestante sera conservé, et les voiries d'accès seront labellisées en vélorue compte-tenu du faible trafic routier.
 
-La Voie Lyonnaise 7 passera ensuite place Jules Ferry, qui sera traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du :transport-link{type=métro line=C}.
+La Voie Lyonnaise 7 passera ensuite place Jules Ferry, qui aurait été traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du :transport-link{type=métro line=C}.
 
 ::banner{type="postponed"}
 La Métropole a finalement reporté début 2025 le réaménagement de ce tronçon pour des raisons budgétaires.
 ::
 
 #### Boulevard des Canuts
-Entre la rue de la gare de Cuire et la station BP, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m sera réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune, bien séparées des piétons.
+Entre la rue de la gare de Cuire et la station BP, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m devait être réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune, bien séparées des piétons.
 
-Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur trottoir déjà supprimée au Sud de la rue Hénon sera déplacée sur la voirie côté Est avec conservation du double-sens de circulation et d'une bande de stationnement. Le trottoir sera rendu entièrement aux piétons, et la nouvelle piste cyclable bidirectionnelle fera près de 4m de large.
+Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur trottoir déjà supprimée au Sud de la rue Hénon devait être déplacée sur la voirie côté Est avec conservation du double-sens de circulation et d'une bande de stationnement. Le trottoir aurait été rendu entièrement aux piétons, et la nouvelle piste cyclable bidirectionnelle aurait fait près de 4m de large.
 
 ::banner{type="postponed"}
 Lors du conseil métropolitain du 24/06/2024, la Métropole de Lyon a annoncé que le tronçon au Sud de la rue Hénon serait reporté à un mandat ultérieur, à la demande des élus de la mairie de Lyon 4e. Alors qu'aucune contrainte technique n'empêchait l'aménagement de cette portion, la décision politique a préféré mélanger les cyclistes avec les voitures sans aucun aménagement cyclable ni sécurité.
+
+Puis début 2025, c'est le tronçon entre la rue Hénon et la Montée de la Boucle qui a été reporté à son tour pour des raisons de contraintes budgétaires de la Métropole, et pour éviter de multiplier les chantiers en 2025. Cyclistes et piétons devront donc continuer à se partager un trottoir inadapté pendant encore de longues années.
+::
+
+::banner{type="modified"}
+Entre le Montée de la Boucle et la place Jules Ferry, le projet initial a aussi été reporté. Cependant, suite à la suppression de la piste cyclable sur trottoir en 2022 obligeant les cyclistes à circuler sur deux bandes cyclables bilatérales très étroites, La Ville à Vélo s'est mobilisée et a obtenu la création d'une piste cyclable bidirectionnelle de 2m50 côté Sud, interrompue à deux reprises pour conserver quelques places de stationnement. Cet aménagement, bien qu'insuffisant, permettra d'assurer une continuité cyclable temporaire. Les travaux sont prévus pendant l'été 2025.
 ::
 
 ::content-image
@@ -109,29 +115,33 @@ streetView: 45.7804136,4.8275125,3a,75y,37.09h,90t
 ::
 
 #### Croix-Rousse Centre
-Entre la rue Denfert-Rochereau et la rue Pelletier, le point dur du mur des Canuts pourra être franchi de 2 manières :
+Entre la rue Denfert-Rochereau et la rue Pelletier, le point dur du mur des Canuts aurait pu être franchi de 2 manières :
  - par un passage sous le porche du mur des Canuts, obligeant à une traversée du boulevard
  - par la création d'un alternat routier au niveau du mur des Canuts pour insérer la piste cyclable bidirectionnelle
 
-Entre la rue Pelletier et la place des Tapis, deux variantes sont proposées :
+Entre la rue Pelletier et la place des Tapis, deux variantes ont été proposées :
  - par le boulevard des Canuts, sur une piste bidirectionnelle de près de 3m de large côté Ouest à la place de la bande de stationnement
  - par la rue Pelletier puis la rue de Cuire transformée en vélorue via une action sur le plan de circulation pour diminuer le flux automobile.
 
-Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise cheminera dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
+Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise aurait cheminé dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
 
 ::banner{type="postponed"}
 La Métropole de Lyon a annoncé le 29/05/2024 que ce tronçon serait reporté à un mandat ultérieur, du fait d'une mésentente avec les élus de la mairie de Lyon 4e. La traversée de cette section contrainte nécessitait de modifier en profondeur le plan de circulation automobile et bus du quartier. C'est une mauvaise nouvelle pour tous les cyclistes de la Croix-Rousse qui devront continuer à se déplacer sans aménagements cyclables dans ce secteur dense pendant encore de nombreuses années.
 ::
 
 #### Montée de la Boucle
-Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérennisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
+Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérennisée à l'été 2022 sera globalement conservée. Son séparateur devait être amélioré avec une bordure émergente haute qui sécuriserait mieux les cyclistes. Enfin, la contre-allée en bas devait être réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement réorganisé le long de l'alignement d'arbre.
 
 ::banner{type="modified"}
 Contrairement à ce qui était annoncé lors de la concertation, la contre-allée en bas de la Montée de la Boucle sera finalement aménagée en vélorue de 4m de large pour conserver un maximum de places de stationnements à la demande de la mairie de Caluire et des commerçants.
 ::
 
 ::banner{type="postponed"}
-La Métropole a finalement reporté début 2025 l'aménagement définitif de ce tronçon pour des raisons budgétaires.
+La Métropole a finalement reporté début 2025 l'aménagement définitif de ce tronçon pour des raisons budgétaires, à l'exception de la contre-allée du bas, du carrefour Henri Dor et du carrefour avec le boulevard des Canuts.
+::
+
+::banner{type="wip"}
+Les travaux sur les 3 secteurs non reportés sont prévus entre juillet et septembre 2025.
 ::
 
 ::content-image

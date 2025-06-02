@@ -218,7 +218,7 @@ streetView: 45.7725923,4.8562026,3a,75y,270.71h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux devraient avoir lieu entre août et décembre 2025.
+Les travaux devraient avoir lieu entre fin juin et décembre 2025.
 ::
 
 #### Cours André Philip et rue Francis de Pressensé
@@ -230,7 +230,7 @@ Ce projet nécessite la suppression du stationnement du côté de la piste cycla
 
 ::banner{type="wip"}
 Les travaux entre le cours de la République et Flachet ont lieu entre janvier et septembre 2025 de l'Est vers l'Ouest.
-Les travaux entre le cours de la République et l'avenue Verguin auront lieu entre juin 2025 et mars 2026, en commençant par le carrefour Stalingrad/Verguin en juin, puis le rond-point des Charpennes en août.
+Les travaux entre le cours de la République et l'avenue Verguin auront lieu entre juillet 2025 et mars 2026, en commençant par le carrefour Stalingrad/Verguin, puis le rond-point des Charpennes en août.
 ::
 
 ::banner{type="info"}

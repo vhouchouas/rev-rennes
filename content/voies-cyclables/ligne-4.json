@@ -344,7 +344,8 @@
       "properties": {
         "line": 4,
         "name": "Champagne - Montlouis",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "28/05/2025",
         "type": "voie-verte",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
@@ -368,7 +369,8 @@
         "id": "varianteChampagne",
         "line": 4,
         "name": "Champagne - République",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "28/05/2025",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
