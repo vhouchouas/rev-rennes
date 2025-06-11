@@ -293,8 +293,8 @@
         "id": "AdolpheMax-commun",
         "line": 11,
         "name": "Avenue Adolphe Max",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "wip",
+        "type": "velorue",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
@@ -402,9 +402,9 @@
         "id": "GuillotièreWilson-commun",
         "line": 11,
         "name": "Pont Wilson - Pont Guillotière",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "voie-bus",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#pont-wilson"
       },
       "geometry": {

@@ -160,7 +160,7 @@ La concertation publique sur ce tronçon se tenait du 29/01 au 11/03/2024 dans l
 [Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
 
 ::banner{type="wip"}
-Les travaux devraient avoir lieu entre avril et octobre 2025.
+Les travaux devraient avoir lieu entre avril et octobre 2025, d'abord sur la rue de Bourgogne au printemps et au début de l'été, puis sur la rue de la Corderie sur la fin de l'été et l'automne.
 ::
 
 
@@ -170,7 +170,9 @@ Les travaux devraient avoir lieu entre avril et octobre 2025.
 
 Le **pont Clémenceau** avait été initialement réaménagé en 2013 avec deux pistes cyclables étroites unidirectionnelles sur trottoir. Celles-ci ne répondaient pas aux besoin des cyclistes car la traversée difficile de cette avenue à 5 voies très routières les obligeait à utiliser les pistes à contre-sens. En 2022, la situation a été sensiblement améliorée et deux larges pistes cyclables bidirectionnelles ont été créées de chaque côté du pont.
 
-Dans le **tunnel mode doux de la Croix-Rousse**, la Métropole prévoit de conserver la piste cyclable bidirectionnelle existante de 3m de large à court terme.
+L'aménagement de l'**avenue Birmingham** sera globalement conservé, mais la bordure entre piétons et cyclistes sera ponctuellement réhaussée et une nouvelle traversée piétonne sera créé à l'avant de l'arrêt de bus, au niveau de la sortie du passage souterrain.
+
+Dans le **tunnel mode doux de la Croix-Rousse**, la Métropole a conservé la piste cyclable bidirectionnelle existante de 3m de large à court terme.
 
 ::banner{type="info"}
 La Ville à Vélo demande au SYTRAL d'étudier la possibilité de dévier les bus diesel de la ligne C6 dans le tunnel routier pour :
@@ -178,12 +180,13 @@ La Ville à Vélo demande au SYTRAL d'étudier la possibilité de dévier les bu
  - arrêter d'exposer les piétons et cyclistes à la pollution aux particules fines des bus, dans un contexte de hausse de la fréquence du C6 aux heures de pointes dans ce tunnel qui porte aujourd’hui bien mal son nom.
 ::
 
-Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidirectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
+La sécurisation de la sortie du tunnel côté **place Chazette** sera améliorée avec la création d'un plateau ralentisseur pour les vélos et un renforcement de la traversée piétonne.
+
+Sur le **pont de Lattre de Tassigny**, le projet devait permettre l'élargissement de la piste bidirectionnelle actuelle côté Nord qui serait passée à 4m de large à la place d'une voie de circulation automobile.
 
 ::banner{type="postponed"}
 Le Conseil Métropolitain du 17/03/2025 a acté la dernière tranche budgétaire du mandat consacré aux Voies Lyonnaises, et ce pont ne fait pas partie de la liste des aménagements financés qui est détaillée dans la délibération. L'élargissement de la piste cyclable est donc considérée comme reportée à un mandat ultérieur et les cyclistes devront continuer à faire avec une piste étroite de 2m50 de large avec conflits aux extrémités.
 ::
-
 
 L'**avenue Duquesne** a bénéficié en 2020 de la création de voies bus ouvertes aux vélos dans chaque sens de circulation, restreignant la circulation automobile à 2x1 voies, contre 2x2 voies auparavant. Cet aménagement a été pérennisé à l'été 2021.
 
@@ -191,7 +194,7 @@ L'**avenue Duquesne** a bénéficié en 2020 de la création de voies bus ouvert
 Ce tronçon ne sera pas réaménagé sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest (LCO)" et prévu à un horizon incertain. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus et taxis pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre faute d'aménagement adapté au carrefour.
 ::
 
-Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large serait créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
+Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large devait être créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui aurait été repositionné en longitudinal le long de la voirie.
 
 ::banner{type="modified"}
 Contrairement à ce qui était proposé initialement, et suite aux remarques lors de la concertation, la Métropole a décidé lors de la [commission permanente du 08 juillet 2024](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrlzrDjrXmLxiZr7Y2VVWXnfBHPF8XlIiq8H6s%2BQkgCsyNfTSYath86%2F) de ne pas aménager cette piste cyclable derrière les platanes. Comme suggéré par notre association, il a été préféré élargir les deux couloirs de bus existants en laissant une seule voie de circulation générale, de la même manière que ce qui est proposé provisoirement dans la continuité Sud du boulevard des Belges en attendant LCO. Il conviendra cependant de passer le stationnement en long pour élargir le trottoir côté Parc en faveur des piétons.
@@ -218,7 +221,7 @@ streetView: 45.7725923,4.8562026,3a,75y,270.71h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux devraient avoir lieu entre fin juin et décembre 2025.
+Les travaux ont lieu entre juillet et décembre 2025.
 ::
 
 #### Cours André Philip et rue Francis de Pressensé

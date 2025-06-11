@@ -408,9 +408,9 @@
       "properties": {
         "line": 6,
         "name": "Rhône Rive Droite Nord",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "voie-bus",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -427,9 +427,9 @@
       "properties": {
         "line": 6,
         "name": "Passerelle du Collège - Pont Wilson",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "voie-bus",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -448,9 +448,9 @@
         "id": "GuillotièreWilson-commun",
         "line": 6,
         "name": "Pont Wilson - Pont Guillotière",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "voie-bus",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -469,9 +469,9 @@
         "id": "UniversitéGuillotière-commun",
         "line": 6,
         "name": "Pont Guillotière - Pont Université",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "voie-bus",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -489,9 +489,9 @@
       "properties": {
         "line": 6,
         "name": "Pont de l'Université - Condé",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "voie-bus",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -507,9 +507,9 @@
       "properties": {
         "line": 6,
         "name": "Condé - Pont Gallieni",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "voie-bus",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -525,9 +525,9 @@
       "properties": {
         "line": 6,
         "name": "Traversée échangeur M6-M7",
-        "status": "planned",
-        "type": "inconnu",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {

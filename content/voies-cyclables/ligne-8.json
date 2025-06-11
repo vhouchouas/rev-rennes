@@ -1057,8 +1057,8 @@
         "id": "AdolpheMax-commun",
         "line": 8,
         "name": "Avenue Adolphe Max",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "wip",
+        "type": "velorue",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
@@ -1166,9 +1166,9 @@
         "id": "UniversitéGuillotière-commun",
         "line": 8,
         "name": "Pont Guillotière - Pont Université",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "voie-bus",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-8#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {

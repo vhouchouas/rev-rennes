@@ -118,7 +118,11 @@ Le projet définitif a été présenté début juin 2023.\
 [Voir le dossier de presse détaillé](https://cyclopolis.lavilleavelo.org/vl6/VL6_RiveDroite_ProjetFinal.pdf)
 
 ::banner{type="wip"}
-Après des travaux préliminaires sur les réseaux souterrains entre septembre 2024 et l'été 2025, ainsi qu'une enquête publique au printemps 2025, les travaux d'aménagements devraient réellement démarrer en septembre 2025 et se poursuivre jusqu'en fin d'année 2026.
+Des travaux préliminaires sur les réseaux souterrains ont eu lieu entre septembre 2024 et l'été 2025
+::
+
+::banner{type="postponed"}
+La Métropole de Lyon et la Ville de Lyon ont annoncé début juin 2025 que le début des travaux étaient finalement reportés au prochain mandat du fait des nombreux autres travaux en cours dans le secteur. L'autoroute urbaine de la rive droite a donc encore de beaux jours devant elle, au grand dam des piétons et cyclistes qui la fréquentent au quotidien.
 ::
 
 ::content-image
