@@ -9,7 +9,7 @@
             Où en est le projet ?
           </h2>
           <p class="text-xl text-gray-500">
-            Après une phase d'étude et de concertation en 2022 et 2023, le projet entre en phase de réalisation.<br> Les travaux devraient se multiplier en 2024 et 2025.
+            Après une phase d'étude et de concertation en 2022 et 2023, le projet est maintenant en phase de réalisation.<br> Malgré de nombreux reports, les travaux se multiplient entre l'été 2024 et l'été 2026.
           </p>
         </div>
       </div>
