@@ -12,11 +12,8 @@
       <div class="flex-1 min-w-0">
         <NuxtLink :to="getVoieCyclablePath(voie.line)" class="focus:outline-none">
           <span class="absolute inset-0" aria-hidden="true" />
-          <p class="text-sm font-medium text-gray-900">
-            Ligne {{ voie.line }}
-          </p>
           <p class="text-sm text-gray-500 truncate">
-            {{ voie.from }} → {{ voie.to }}
+            REV {{ voie.to }}
           </p>
         </NuxtLink>
       </div>

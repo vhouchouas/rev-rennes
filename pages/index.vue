@@ -9,7 +9,7 @@
             Où en est le projet ?
           </h2>
           <p class="text-xl text-gray-500">
-            Après une phase d'étude et de concertation en 2022 et 2023, le projet est maintenant en phase de réalisation.<br> Malgré de nombreux reports, les travaux se multiplient entre l'été 2024 et l'été 2026.
+            Présenté en 2021, le Réseau Express Vélo vise à structurer des liaisons cyclables continues entre Rennes et les communes de la métropole. Après une phase de concertation et des premiers travaux lancés en 2022, plusieurs tronçons sont désormais en service. Les aménagements se poursuivent sur d’autres sections reliant Rennes et sa première couronne, tandis que la poursuite du maillage intra rocade est prévue pour s'étaler au delà de 2026.
           </p>
         </div>
       </div>
