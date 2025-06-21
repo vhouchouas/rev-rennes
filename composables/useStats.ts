@@ -134,13 +134,13 @@ export const useStats = () => {
         name: 'Réalisés',
         distance: doneDistance,
         percent: getPercent(doneDistance),
-        class: 'text-lvv-blue-600 font-semibold'
+        class: 'text-ra-green-600 font-semibold'
       },
       wip: {
         name: 'En travaux',
         distance: wipDistance,
         percent: getPercent(wipDistance),
-        class: 'text-lvv-blue-600 font-normal'
+        class: 'text-ra-green-600 font-normal'
       },
       planned: {
         name: 'Prévus',
@@ -152,7 +152,7 @@ export const useStats = () => {
         name: 'Reportés',
         distance: postponedDistance,
         percent: getPercent(postponedDistance),
-        class: 'text-lvv-pink font-semibold'
+        class: 'text-ra-orange font-semibold'
       }
     };
   }

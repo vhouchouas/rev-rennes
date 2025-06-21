@@ -1,25 +1,15 @@
-# Cyclopolis
+# Observatoire & Plaidoyer du Réseau Express Vélo Rennais
 
-## Qu'est-ce que Cyclopolis ?
-Il s'agit d'une plateforme web permettant la visualisation d'un projet de réseau cyclable structurant.
+## De quoi s'agit-il ?
+Il s'agit d'une plateforme web permettant la visualisation de l'état actuel du Réseau Express Vélo Rennais et de ses manques.
 
-Entièrement développée par des bénévoles de l'association lyonnaise "La Ville à Vélo", cette plateforme a pour objectif principal de suivre le développement du projet des "Voies Lyonnaises".
+Ce projet est un fork de Cyclopolis, projet développé par des bénévoles de l'association lyonnaise "La Ville à Vélo", plateforme qui a pour objectif principal de suivre le développement du projet des "Voies Lyonnaises".
 
 On y retrouve en particulier :
 - une carte intéractive permettant de visualiser les tracés des voies cyclables.
 - une page détaillée sur chacune des voies cyclables.
-- des analyses de traffic à partir des compteurs à vélo de la métropole lyonnaise.
 
-## Est-il possible de réutiliser Cyclopolis pour un autre projet ?
-
-Oui !
-
-Vous êtes une association, ou un particulier ? Il y a un projet de réseau cyclable structurant dans votre ville et vous souhaitez suivre son développement ? Vous pouvez tout à fait réutiliser Cyclopolis pour votre projet.
-
-Cyclopolis :
-- est open source, le code est entièrement disponible sur Github.
-- a une licence ouverte, vous avez donc le droit de réutiliser le code pour votre projet.
-- est gratuit a opérer (pas de base de données, pas de serveur dédié, pas de coût de maintenance).
+Plus d'informations sur Cyclopolis : https://github.com/lavilleavelo/cyclopolis
 
 ## Aide aux contributeurs/trices non développeurs/euses
 

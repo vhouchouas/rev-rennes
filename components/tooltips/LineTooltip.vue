@@ -63,7 +63,7 @@
         </div>
       </div>
     </div>
-    <div class="bg-lvv-blue-600 flex justify-center">
+    <div class="bg-ra-green-600 flex justify-center">
       <a class="p-1 text-white text-base italic hover:underline" :href="getSectionDetailsUrl(feature.properties)" target="_blank">
         voir le détail <Icon name="mdi:link-variant" class="h-4 w-4 text-white" />
       </a>
@@ -85,7 +85,7 @@ const { feature, lines } = defineProps<{
 }>();
 
 const title = computed(() => {
-  return lines.length > 1 ? getRevName() : getRevName('singular');
+  return lines.length > 1 ? getRevName() : Ligne;
 });
 
 function getSectionDetailsUrl(properties: LineStringFeature['properties']): string {
@@ -110,24 +110,24 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
     done: {
       label: 'terminé',
       date: properties.doneAt && getDoneAtText(properties.doneAt),
-      class: 'text-white bg-lvv-blue-600 rounded-xl px-2 w-fit'
+      class: 'text-white bg-ra-green-600 rounded-xl px-2 w-fit'
     },
     wip: {
       label: 'en travaux',
-      class: 'text-lvv-blue-600 rounded-xl px-2 border border-dashed border-lvv-blue-600'
+      class: 'text-ra-green-600 rounded-xl px-2 border border-dashed border-ra-green-600'
     },
     planned: {
       label: 'prévu',
-      class: 'text-lvv-blue-600 rounded-xl px-2 border border-lvv-blue-600'
+      class: 'text-ra-green-600 rounded-xl px-2 border border-ra-green-600'
     },
     tested: {
       label: 'en test',
-      class: 'text-lvv-blue-600 rounded-xl px-2 border border-dashed border-lvv-blue-600'
+      class: 'text-ra-green-600 rounded-xl px-2 border border-dashed border-ra-green-600'
     },
     postponed: {
       label: 'reporté',
       date: 'après 2026',
-      class: 'text-white bg-lvv-pink rounded-xl px-2'
+      class: 'text-white bg-ra-orange rounded-xl px-2'
     },
     variante: {
       label: 'variante',
@@ -136,7 +136,7 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
     'variante-postponed': {
       label: 'variante reportée',
       date: 'après 2026',
-      class: 'text-white bg-lvv-pink rounded-xl px-2'
+      class: 'text-white bg-ra-orange rounded-xl px-2'
     },
     unknown: {
       label: 'à définir',

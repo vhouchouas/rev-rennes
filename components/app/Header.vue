@@ -3,23 +3,22 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6">
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
-          <NuxtLink to="/" class="flex space-x-2">
-            <span class="sr-only">Cyclopolis</span>
+          <NuxtLink to="/" class="flex space-x-2 items-center">
+            <span class="sr-only">Avancement du REV de Rennes Métropole</span>
             <img
-              class="h-7 w-auto sm:h-8"
-              src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
-              :alt="`logo ${getAssoName()}`"
+                class="h-10 w-auto sm:h-12"
+                src="https://www.mce-info.org/wp-content/uploads/2024/02/25-Rayons-d-action.webp"
+                :alt="`logo ${getAssoName()}`"
             >
-            <img
-              class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
-              alt="logo cyclopolis"
-            >
+            <div class="text-container">
+              <div class="main-title">Suivi du Réseau Express Vélo</div>
+              <div class="sub-title">par {{getAssoName()}}</div>
+            </div>
           </NuxtLink>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
           <PopoverButton
-            class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-lvv-blue-600"
+            class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-ra-green-600"
           >
             <span class="sr-only">Ouvrir menu</span>
             <Icon name="mdi:menu" class="h-6 w-6" aria-hidden="true" />
@@ -27,7 +26,7 @@
         </div>
         <PopoverGroup as="nav" class="hidden md:flex space-x-10">
           <Popover v-slot="{ open }" class="relative">
-            <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
+            <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-ra-green-600 focus:outline-none focus:ring-2 focus:ring-ra-green-600 focus:ring-offset-2']">
               <span>Cartes détaillées</span>
               <Icon name="mdi:chevron-down" :class="[open ? 'text-gray-600' : 'text-gray-400', 'ml-2 h-5 w-5 group-hover:text-gray-500']" aria-hidden="true" />
             </PopoverButton>
@@ -44,21 +43,21 @@
                   <div class="p-4 flex flex-col gap-2">
                     <NuxtLink
                       to="/carte-interactive"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      class="text-base font-medium text-gray-500 hover:text-ra-green-600"
                       @click="close()"
                     >
                       Carte interactive
                     </NuxtLink>
                     <NuxtLink
                       to="/evolution"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      class="text-base font-medium text-gray-500 hover:text-ra-green-600"
                       @click="close()"
                     >
                       Évolution du réseau
                     </NuxtLink>
                     <NuxtLink
                       to="/plan-officiel"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      class="text-base font-medium text-gray-500 hover:text-ra-green-600"
                       @click="close()"
                     >
                       Plan officiel
@@ -66,7 +65,7 @@
                     <NuxtLink
                       to="https://barometre.parlons-velo.fr/2021/carte/#11.88/45.74926/4.84739"
                       target="_blank"
-                      class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-ra-green-600"
                       @click="close()"
                     >
                       <span>Baromètre FUB Lyon</span>
@@ -81,7 +80,7 @@
           </Popover>
 
           <Popover v-slot="{ open }" class="relative">
-            <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
+            <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-ra-green-600 focus:outline-none focus:ring-2 focus:ring-ra-green-600 focus:ring-offset-2']">
               <span>Lignes</span>
               <Icon name="mdi:chevron-down" :class="[open ? 'text-gray-600' : 'text-gray-400', 'ml-2 h-5 w-5 group-hover:text-gray-500']" aria-hidden="true" />
             </PopoverButton>
@@ -107,7 +106,7 @@
                       </div>
                     </NuxtLink>
                   </div>
-                  <div class="bg-lvv-blue-600 text-white text-center py-1">
+                  <div class="bg-ra-green-600 text-white text-center py-1">
                     <NuxtLink to="/tableau-de-bord" class="hover:underline" @click="close()">
                       Tableau de bord
                     </NuxtLink>
@@ -119,7 +118,7 @@
 
           <!-- Compteurs -->
           <Popover v-slot="{ open }" class="relative">
-            <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
+            <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-ra-green-600 focus:outline-none focus:ring-2 focus:ring-ra-green-600 focus:ring-offset-2']">
               <span>Compteurs</span>
               <Icon name="mdi:chevron-down" :class="[open ? 'text-gray-600' : 'text-gray-400', 'ml-2 h-5 w-5 group-hover:text-gray-500']" aria-hidden="true" />
             </PopoverButton>
@@ -136,21 +135,21 @@
                   <div class="p-4 flex flex-col gap-2">
                     <NuxtLink
                       to="/compteurs/velo"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      class="text-base font-medium text-gray-500 hover:text-ra-green-600"
                       @click="close()"
                     >
                       Compteurs vélo
                     </NuxtLink>
                     <NuxtLink
                       to="/compteurs/voiture"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      class="text-base font-medium text-gray-500 hover:text-ra-green-600"
                       @click="close()"
                     >
                       Compteurs voiture
                     </NuxtLink>
                     <NuxtLink
                       to="/compteurs/comparaison"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      class="text-base font-medium text-gray-500 hover:text-ra-green-600"
                       @click="close()"
                     >
                       Comparaison voiture/vélo
@@ -164,7 +163,7 @@
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
             to="/blog"
-            class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-lvv-blue-600 hover:shadow-lg transition duration-300 transform hover:scale-105"
+            class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-ra-green-600 hover:shadow-lg transition duration-300 transform hover:scale-105"
           >
             Blog
           </NuxtLink>
@@ -197,7 +196,7 @@
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
-                  class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-lvv-blue-600"
+                  class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-ra-green-600"
                 >
                   <span class="sr-only">Fermer menu</span>
                   <Icon name="mdi:close" class="h-6 w-6" aria-hidden="true" />
@@ -315,3 +314,24 @@ const { data: voies } = await useAsyncData(() => {
   return queryCollection('voiesCyclablesPage').order('line', 'ASC').all();
 });
 </script>
+
+
+<style>
+.text-container {
+  margin-left: 10px;
+}
+
+.main-title {
+  color: #333333;
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-family: 'Arial', sans-serif;
+}
+
+.sub-title {
+  color: #64af2e;
+  font-size: 0.9rem;
+  font-family: 'Arial', sans-serif;
+  margin-top: -5px;
+}
+</style>

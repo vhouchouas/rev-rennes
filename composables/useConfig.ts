@@ -1,8 +1,8 @@
 import config from '~/config.json';
 
 export const useConfig = () => {
-  function getRevName(gram: 'plural' | 'singular' = 'plural'): string {
-    return config.revName[gram];
+  function getRevName(): string {
+    return config.revName;
   }
 
   function getAssoName(): string {

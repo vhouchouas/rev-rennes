@@ -25,7 +25,7 @@
             Avancement par ligne
           </h2>
           <p class="text-xl text-gray-500">
-            Choisissez une {{ getRevName('singular') }} pour connaitre le détail du projet et voir son niveau d'avancement.
+            Choisissez une ligne pour connaitre le détail du projet et voir son niveau d'avancement.
           </p>
         </div>
         <HomeLinesSection class="mt-5" />
@@ -40,7 +40,7 @@
 <script setup lang="ts">
 import type { Collections } from '@nuxt/content';
 
-const { getRevName, displayQuality, displayQualityOnHomePage } = useConfig();
+const { displayQuality, displayQualityOnHomePage } = useConfig();
 
 const { data } = await useAsyncData(() => {
   return queryCollection('voiesCyclablesGeojson').all();

@@ -1,17 +1,14 @@
 {
-  "revName": {
-    "plural": "Voies Lyonnaises",
-    "singular": "Voie Lyonnaise"
-  },
-  "assoName": "La Ville à Vélo",
-  "assoLink": "https://lavilleavelo.org",
-  "slug": "voie-lyonnaise",
+  "revName": "REV de Rennes Métropole",
+  "assoName": "Rayons d'Action",
+  "assoLink": "https://rayonsdaction.org",
+  "slug": "rev-rennes",
   "center": [
-    4.8312188,
-    45.757198
+    48.1099998,
+    -1.6785189
   ],
   "zoom": 12,
-  "nbVoiesCyclables": 12,
+  "nbVoiesCyclables": 13,
   "colors": [
     {
       "line": 1,
@@ -60,6 +57,10 @@
     {
       "line": 12,
       "color": "#DBABB7"
+    },
+    {
+      "line": 13,
+      "color": "#70e3f6"
     }
   ],
   "transports": [

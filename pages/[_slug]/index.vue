@@ -6,7 +6,7 @@
     >
       <template #header>
         <h1 class="text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-          {{ getRevName('singular') }}
+          Ligne
           <div
             class="mt-2 h-12 w-12 rounded-full flex items-center justify-center text-white font-bold mx-auto"
             :style="`background-color: ${getLineColor(voie.line)}`"
@@ -45,10 +45,10 @@ const { data: voie } = await useAsyncData(path, () => {
     .first();
 });
 
-const description = `Tout savoir sur la ${getRevName('singular')} ${line}. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;
+const description = `Tout savoir sur la ligne ${line}. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;
 
 useHead({
-  title: `${getRevName('singular')} ${line}`,
+  title: `Ligne ${line}`,
   meta: [
     // description
     { key: 'description', name: 'description', content: description },

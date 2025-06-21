@@ -41,9 +41,9 @@ const features: Ref<Collections['voiesCyclablesGeojson']['features']> = computed
   return geojson.value.features;
 });
 
-const description = `Carte de la ${getRevName('singular')} ${line}. Découvrez les tronçons prévus, déjà réalisés, en travaux et ceux reportés après 2026.`;
+const description = `Carte de la ligne ${line}. Découvrez les tronçons prévus, déjà réalisés, en travaux et ceux reportés après 2026.`;
 useHead({
-  title: `Carte de la ${getRevName('singular')} ${line}`,
+  title: `Carte de la ligne ${line}`,
   meta: [
     // description
     { key: 'description', name: 'description', content: description },

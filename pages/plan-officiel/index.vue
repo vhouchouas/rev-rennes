@@ -1,9 +1,10 @@
+
 <template>
-  <div class="w-full">
+  <div style="display: flex; justify-content: center;">
     <img
-      src="https://cyclopolis.lavilleavelo.org/carte-voies-lyonnaises-2026.png"
-      class="object-contain w-full h-screen"
-      :alt="`plan officiel des ${getRevName()}`"
+        src="https://www.tourisme-rennes.com/voy_content/uploads/2025/02/Carte-reseau-express-velo.jpg"
+        :alt="`plan officiel du ${getRevName()}`"
+        style="width: 800px;"
     >
   </div>
 </template>
@@ -11,11 +12,10 @@
 <script setup lang="ts">
 const { getRevName } = useConfig();
 
-const description = `Découvrez le plan officiel des ${getRevName()}, le futur réseau vélo lyonnais de 260km.`;
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
-
+const description = `Découvrez le plan officiel du ${getRevName()}`;
+const COVER_IMAGE_URL = 'https://www.mce-info.org/wp-content/uploads/2024/02/25-Rayons-d-action.webp';
 useHead({
-  title: `Plan des ${getRevName()}`,
+  title: `Plan du ${getRevName()}`,
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },

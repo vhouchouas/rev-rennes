@@ -6,7 +6,7 @@
     <img
       v-if="options.logo"
       class="my-0 absolute bottom-0 right-0 z-10"
-      src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png"
+      src="https://www.mce-info.org/wp-content/uploads/2024/02/25-Rayons-d-action.webp"
       width="75"
       height="75"
       :alt="`logo ${config.assoName}`"
