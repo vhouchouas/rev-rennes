@@ -8,7 +8,7 @@ trafic: 19k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl8/route-de-paris.jpg
 ---
 
-## Les tronçons (d'Ouest en Est)
+## Les tronçons (d'ouest en est)
 
 ### La-Tour-de-Salvagny à Tassin-Valvert
 #### Traversée de la Tour de Salvagny

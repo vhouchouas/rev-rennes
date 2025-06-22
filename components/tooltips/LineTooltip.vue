@@ -85,7 +85,7 @@ const { feature, lines } = defineProps<{
 }>();
 
 const title = computed(() => {
-  return lines.length > 1 ? getRevName() : Ligne;
+  return getRevName();
 });
 
 function getSectionDetailsUrl(properties: LineStringFeature['properties']): string {

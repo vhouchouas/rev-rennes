@@ -9,7 +9,7 @@ avancement: 25%
 cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ---
 
-## Les tronçons (d'Ouest en Est)
+## Les tronçons (d'ouest en est)
 
 ### Valmy à Place de Trion
 
