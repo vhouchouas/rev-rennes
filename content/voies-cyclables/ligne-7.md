@@ -1,5 +1,5 @@
 ---
-name: REV Noyal-Châtillon-sur-Seiche
+name: REV Noyal
 line: 7
 from: Rennes
 to: Noyal-Châtillon-sur-Seiche

@@ -94,15 +94,22 @@
             >
               <PopoverPanel v-slot="{ close }" class="absolute left-1/2 z-10 mt-3 w-screen max-w-md -translate-x-1/2 transform px-2 sm:px-0">
                 <div class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5">
-                  <div class="relative grid grid-cols-2 sm:grid-cols-4 gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
-                    <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieCyclablePath(voie.line)" class="-m-3 flex items-start justify-center rounded-lg p-3 hover:bg-gray-50" @click="close()">
-                      <div class="flex-shrink-0">
+                  <div class="relative grid grid-cols-2 sm:grid-cols-3 gap-2 bg-white px-2 py-6 sm:gap-4 sm:p-4">
+                    <NuxtLink
+                        v-for="voie in voies"
+                        :key="voie.line"
+                        :to="getVoieCyclablePath(voie.line)"
+                        class="-m-2 flex items-start justify-center rounded-lg p-2 hover:bg-gray-50"
+                        @click="close()"
+                    >
+                      <div class="flex-shrink-0 tooltip-container">
                         <div
-                          class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
-                          :style="`background-color: ${getLineColor(voie.line)}`"
+                            class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
+                            :style="`background-color: ${getLineColor(voie.line)}`"
                         >
                           {{ voie.line }}
                         </div>
+                        <span class="tooltip-text">{{ voie.name }}</span>
                       </div>
                     </NuxtLink>
                   </div>
@@ -263,7 +270,7 @@ const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive', target: '_self' },
   { name: 'Plan officiel', path: '/plan-officiel', target: '_self' },
   { name: 'Évolution du réseau', path: '/evolution', target: '_self' },
-  { name: 'Baromètre FUB Lyon', path: 'https://barometre.parlons-velo.fr/2021/carte/#11.88/45.74926/4.84739', target: '_blank' }
+  { name: 'Baromètre FUB Rennes', path: 'https://barometre.parlons-velo.fr/2021/carte/#11.17/48.0994/-1.6533', target: '_blank' }
 ];
 
 const { data: voies } = await useAsyncData(() => {
@@ -289,5 +296,32 @@ const { data: voies } = await useAsyncData(() => {
   font-size: 0.9rem;
   font-family: 'Arial', sans-serif;
   margin-top: -5px;
+}
+
+.tooltip-container {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip-text {
+  visibility: hidden;
+  width: 120px;
+  background-color: rgba(85, 85, 85, 0.75);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: -110%; /* Position en dessous de l'élément */
+  left: 50%;
+  margin-left: -60px;
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+
+.tooltip-container:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
 }
 </style>

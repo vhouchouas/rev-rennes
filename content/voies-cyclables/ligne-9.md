@@ -1,5 +1,5 @@
 ---
-name: REV Cesson-Sévigné
+name: REV Cesson
 line: 9
 from: Rennes
 to: Cesson-Sévigné

@@ -443,7 +443,7 @@ export const useMap = () => {
     const sections = features.filter(feature => 'status' in feature.properties && feature.properties.status === 'postponed');
 
     if (sections.length === 0) {
-      for (let line = 1; line <= getNbVoiesCyclables(); line++) {
+      for (let line = 0; line <= getNbVoiesCyclables(); line++) {
         upsertMapSource(map, `postponed-sections-${getLineColor(line)}`, []);
       }
       return;

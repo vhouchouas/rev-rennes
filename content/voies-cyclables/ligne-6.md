@@ -1,5 +1,5 @@
 ---
-name: REV Chartres-de-Bretagne
+name: REV Chartres
 line: 6
 from: Rennes
 to: Chartres-de-Bretagne

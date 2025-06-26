@@ -3,7 +3,7 @@ import config from './config.json';
 const TITLE = `Avancement du ${config.revName} par ${config.assoName}`;
 const DESCRIPTION =
   `Plateforme citoyenne et associative, par ${config.assoName}. État d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé rennais`;
-const BASE_URL = 'https://cyclopolis.fr';
+const BASE_URL = 'https://cyclopolis.rayonsdaction.org';
 const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
 
 export default defineNuxtConfig({
