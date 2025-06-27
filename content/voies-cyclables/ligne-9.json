@@ -62,6 +62,7 @@
         "id": "Arthur Fontaine",
         "name": "Arthur Fontaine",
         "status": "done",
+        "doneAt":"01/01/2023",
         "type": "velorue",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-9#cimetière-de-lest"
@@ -82,6 +83,7 @@
         "id": "Auguste Pavi",
         "name": "Auguste Pavi",
         "status": "done",
+        "doneAt":"01/01/2023",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-9#cimetière-de-lest"
@@ -103,6 +105,7 @@
         "id": "Bray",
         "name": "Bray",
         "status": "done",
+        "doneAt":"01/01/2023",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "rev-rennes-9#écopôle-sud-est"
@@ -125,6 +128,7 @@
         "id": "Monniais",
         "name": "Monniais",
         "status": "done",
+        "doneAt":"06/06/2024",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "rev-rennes-9#parc-de-la-monniais-et-halte-sncf"
@@ -157,6 +161,7 @@
         "id": "monniais1",
         "name": "Monniais parc 1",
         "status": "done",
+        "doneAt":"06/06/2024",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-9#parc-de-la-monniais-et-halte-sncf"
@@ -178,6 +183,7 @@
         "id": "Monniais parc 2",
         "name": "Monniais parc 2",
         "status": "done",
+        "doneAt":"06/06/2024",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-9#parc-de-la-monniais-et-halte-sncf"
