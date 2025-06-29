@@ -11,6 +11,9 @@ On y retrouve en particulier :
 
 Plus d'informations sur Cyclopolis : https://github.com/lavilleavelo/cyclopolis
 
+Pour le tracés des REV de Rennes Métropole, cette carte propose le tracé exact à partir des données open data de RM : https://umap.openstreetmap.fr/fr/map/schema-directeur-velo-sdv-de-rennes-metropole_995995
+Les données sont extraites de https://data.rennesmetropole.fr/explore/dataset/sd_velo_iti_2018/information/
+
 ## Aide aux contributeurs/trices non développeurs/euses
 
 le `status` de chaque tronçon peut prendre les valeurs définies [ici](types/index.ts#L13)
