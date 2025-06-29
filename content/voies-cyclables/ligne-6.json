@@ -484,6 +484,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "danger3-chartres",
+        "type": "danger",
+        "name": "Portion sur BAU (bande d'arrêt d'urgence)",
+        "line": 6,
+        "danger": "Revêtement ancien, gravillonné et étroit pour se croiser"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.6999914792350674,
+          48.06077195220778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "danger2-chartres",
         "type": "danger",
         "name": "Retour sur vers le bord de la départementale",
