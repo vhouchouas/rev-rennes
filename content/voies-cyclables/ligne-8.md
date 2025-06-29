@@ -3,7 +3,7 @@ name: REV Chantepie
 line: 8
 from: Rennes
 to: Chantepie
-description: La Voie Lyonnaise 8 traversera la Métropole de Lyon d'Ouest en Est, de La-Tour-de-Salvagny à la Porte des Alpes à Saint-Priest. Elle traversera de nombreuses localités aujourd'hui hostiles au vélo, comme Charbonnières, Tassin, Champvert, Jean Macé, Blandan, Bachut, Mermoz et Bron Université. Ce projet ambitieux transformera les espaces publics traversés au bénéfice des modes actifs.
+description: Le REV Rennes-Chantepie propose un itinéraire sécurisé le long de la rue de Chateaugiron, y compris la traversée du passage à niveau.
 trafic: 19k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl8/route-de-paris.jpg
 ---
