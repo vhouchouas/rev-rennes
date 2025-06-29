@@ -484,7 +484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "danger2-cesson",
+        "id": "danger2-chartres",
         "type": "danger",
         "name": "Retour sur vers le bord de la départementale",
         "line": 6,
@@ -501,7 +501,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "danger1-cesson",
+        "id": "danger1-chartres",
         "type": "danger",
         "name": "Début du REV Chartres",
         "line": 6,
