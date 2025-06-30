@@ -5,7 +5,7 @@ from: Rennes
 to: Rennes
 description: La ligne 0 constitue l'anneau cyclable rennais qui relie l'ensemble des liaisons du réseau express vélo métropolitain. 
 trafic: N/A
-cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
+cover: /images/rev-rennes.png
 ---
 
 ## Les tronçons (du Nord au Sud)
