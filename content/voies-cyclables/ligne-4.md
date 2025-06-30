@@ -3,7 +3,7 @@ name: REV Bruz
 line: 4
 from: Rennes
 to: Bruz
-description: La Voie Lyonnaise 4 promet de pouvoir traverser la métropole lyonnaise du Nord-Ouest des Monts d'Or à Villeurbanne en passant par Limonest, Techlid, Champagne, Vaise et le 6ème arrondissement. Cette ligne prévoit d'aménager des secteurs aujourd'hui très peu pourvus en aménagements cyclables et peu sécurisés. Elle va transformer l'espace public des territoires traversés en faveur des modes actifs.
+description: Le REV entre Rennes et Bruz passe par Saint-Jacques-de-la-Lande, desservira le campus de Ker Lann avant d'arriver à Bruz.
 trafic: 18k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 ---

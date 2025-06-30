@@ -3,7 +3,7 @@ name: REV du Rheu
 line: 3
 from: Rennes
 to: Le Rheu
-description: La Voie Lyonnaise 3 longera la Saône depuis Quincieux au Nord. A hauteur de Neuville-sur-Saône, elle rejoindra une autre branche depuis Genay. Elle continue ensuite en rive droite de Saône le long des Monts d'Or puis de l'Île Barbe, dessert le quartier de Vaise puis le Vieux Lyon avant de continuer vers les quais de La Mulatière en face du quartier de Confluence. Elle chemine ensuite dans le quartier de la Saulaie à Oullins, puis dans le centre-ville de Pierre-Bénite. Enfin, elle rejoint les berges du Rhône en rive droite à travers les communes de Vernaison, Grigny et Givors en tronçon commun avec la ViaRhôna. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).
+description: Le REV entre Rennes et Le Rheu commence par une bidir au début de la rue de Lorient avant de longer la Vilaine via le chemin de halage en intra rocade puis la rue du Manoir de Servigné et ensuite une bidir le long de la route de Lorient (N24) avant de rejoindre le Pont d"Avoine et les Landes d'Apigné. Côté Rennes,
 trafic: 11k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---

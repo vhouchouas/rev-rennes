@@ -3,7 +3,7 @@ name: REV Acigné
 line: 10
 from: Rennes
 to: Acigné
-description: La Voie Lyonnaise 10 permettra de rejoindre Meyzieu depuis Tassin en passant par Vaise, Lyon 6, la Part-Dieu, Dauphiné-Lacassagne, Grandclément, La Soie, et Décines-Charpieu. Il s'agira donc d'un itinéraire cyclable qui permettra de traverser la métropole de Lyon dans un axe Est-Ouest sur plus de 20km.
+description: Le REV entre Rennes et Acigné suit le bd Saint Roch puis La Pommeraie avant de continuer sous la forme de deux pistes unidirectionnelles de part et d'autre de la D86 avec un anneau cyclable sécurisé porte de Tizé.
 trafic: 24k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl10/voie-lyonnaise-10.png
 ---

@@ -3,7 +3,7 @@ name: REV Noyal
 line: 7
 from: Rennes
 to: Noyal-Châtillon-sur-Seiche
-description: La Voie Lyonnaise 7 permettra de traverser la métropole de Lyon en suivant un axe nord-sud central. Elle traversera Rillieux-la-Pape depuis le nouveau quartier Osterode avant de rejoindre la voie verte des Dombes à travers Caluire-et-Cuire, en direction de la Croix-Rousse ou du parc de la Tête d'Or. Elle passera à travers Lyon sur la rue Garibaldi, puis la route de Vienne avant de rejoindre le centre-ville de Saint-Fons puis Feyzin. Ce projet très ambitieux devrait métamorphoser le paysage urbain tout en révolutionnant la mobilité de nombreux habitants.
+description: Le REV entre Rennes et Noyal-Châtillon-sur-Seiche suit la D82 avec une piste bidirectionnelle physiquement séparée. A l'entrée de Noyal, elle bifurque derrière le supermarché avant de rejoindre la rue de l'ancienne gare (des tramway d'I&V)
 trafic: 18k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 ---

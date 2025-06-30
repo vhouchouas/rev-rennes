@@ -3,7 +3,7 @@ name: REV Montgermont
 line: 1
 from: Rennes
 to: Montgermont
-description: La ligne 1 des Voies Lyonnaises permettra de relier Vaulx-en-Velin à Saint-Fons en passant par le campus de la Doua, les quais hauts de la rive gauche du Rhône et le quartier de Gerland. Cette ligne a la particularité d'accueillir le trafic vélo le plus élevé de la Métropole, au niveau du quai Augagneur.
+description: Le REV entre Rennes et Montgermont relie Grand Quartier à Montgermont avant de se connecter au REV départemental reliant Montgermont à La Chapelle-des-Fougeretz et La Mézière, le long de la route du meuble.
 trafic: 28k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 ---

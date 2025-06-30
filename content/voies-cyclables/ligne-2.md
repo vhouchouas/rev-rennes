@@ -3,7 +3,7 @@ name: REV Pacé
 line: 2
 from: Rennes
 to: Pacé
-description: La Voie Lyonnaise 2 permettra de relier Fontaines-sur-Saône à Saint-Priest en traversant Lyon sur un axe nord-sud. Après avoir longé la Saône jusqu'à l'Île Barbe, elle traversera le plateau Nord en desservant le centre de Caluire, puis redescendra vers Lyon via le pont Poincaré. Elle transformera ensuite plusieurs autoroutes urbaines majeures sur le boulevard Stalingrad, le boulevard Vivier-Merle et le boulevard des Tchécoslovaques. Après le carrefour de Jet d'Eau, elle empruntera l'avenue des Etats-Unis puis l'avenue Viviani en direction du quartier de Parilly. Elle terminera son parcours le long de la route de Lyon, aux portes du centre-ville de Saint-Priest.
+description: Le REV entre Rennes et Pacé permet de relier ces deux villes via un tunnel sous la rocade, deux portions en voie verte et une vélorue entre les deux avant de passer par un tunnel à l'arrivée.
 trafic: 21k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 ---
