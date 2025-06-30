@@ -522,7 +522,7 @@
         "type": "danger",
         "name": "Début du REV Chartres",
         "line": 6,
-        "danger": "Traversée étroite"
+        "danger": "Traversée étroite. Le tunnel est fréquemment inondé."
       },
       "geometry": {
         "coordinates": [
