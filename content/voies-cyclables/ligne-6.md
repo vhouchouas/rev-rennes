@@ -14,7 +14,9 @@ Cette ligne du réseau démarre en accédant à un petit tunnel qui permet de tr
 
 
 ### Voie séparée bidirectionnelle le long de la D837
-Sur la fin de la ligne avant Chartres de Bretagne, on roule à proximité immédiate de la départementale D837, mais sur une piste toujours large et avec a minima un séparateur physique en béton conséquent. Sur ce tronçon, il reste un petit segment où le séparateur semble encore temporaire, certains travaux viennent occasionnellement pérenniser petit à petit ce dernier bout.
+Sur la fin de la ligne avant Chartres de Bretagne, on roule à proximité immédiate de la départementale D837, mais sur une piste toujours large et avec a minima un séparateur physique en béton conséquent.
+Le tronçon entre la Chaîne et l'arrêt de bus de La Janais est du "temporaire pérennisé" : suite à un conflit foncier, RM n'a pu acquérir le foncier nécessaire et l'amorce de la piste à La Châine a été convertie en rampe vers la bande d'arrêt d'urgence, où la bande cyclable a été sécurisée grâce à des barrières en béton.
+Ce segment est donc sécurisé, mais moins large que les autres tronçons (pas confortable pour se croiser) et le revêtement est ancien et recouvert de gravillons).
 
 ## Calendrier prévisionnel
 Ligne entièrement reliée, quelques travaux d'ajustements au niveau du site de Stellantis sont potentiellement encore prévus (le tronçon concerné fait moins de 400 mètres)
