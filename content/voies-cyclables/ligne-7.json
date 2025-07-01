@@ -11,7 +11,7 @@
         "status": "done",
         "type": "bandes-cyclables",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#Rue Pierre Le Moine"
+        "link": "/rev-rennes-7#rue-pierre-le-moine"
       },
       "geometry": {
         "type": "LineString",
