@@ -12,7 +12,7 @@
         "doneAt": "28/05/2025",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
+        "link": "/rev-rennes-4#avenue-de-montlouis-à-rue-juttet"
       },
       "geometry": {
         "type": "LineString",

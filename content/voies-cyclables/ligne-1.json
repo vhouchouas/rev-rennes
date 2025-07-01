@@ -10,7 +10,7 @@
         "name": "Derrière le CC Grand Quartier",
         "status": "done",
         "type": "bandes-cyclables",
-        "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre",
+        "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -40,7 +40,7 @@
         "name": "Sous la rocade",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre",
+        "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -64,7 +64,7 @@
         "name": "Bd Robiquette en extra rocade",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre",
+        "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -104,7 +104,7 @@
         "name": "arrivée sur Montgermont",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre",
+        "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
         "quality": "satisfactory"
       },
       "geometry": {

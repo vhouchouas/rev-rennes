@@ -10,7 +10,7 @@
         "doneAt": "15/01/1998",
         "type": "voie-verte",
         "quality": "unsatisfactory",
-        "link": "/voie-lyonnaise-11#avenue-du-dauphiné-est"
+        "link": "/rev-rennes-11#avenue-du-dauphiné-est"
       },
       "geometry": {
         "type": "LineString",

@@ -10,7 +10,7 @@
         "doneAt": "10/04/2024",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/voie-lyonnaise-5#bron-decathlon-à-chassieu-golf"
+        "link": "/rev-rennes-5#bron-decathlon-à-chassieu-golf"
       },
       "geometry": {
         "type": "LineString",
