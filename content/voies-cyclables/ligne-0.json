@@ -248,6 +248,52 @@
         ]
       }
     },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "duguay-trouin",
+        "line": 0,
+        "name": "Quais Duguay Trouin",
+        "status": "planned",
+        "type": "bandes-cyclables",
+        "link": "/rev-0#quais-duguay-trouin",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.680228888067061,48.11017728243697],
+          [-1.681114480482063,48.11017537087952],
+          [-1.682394657729474,48.110169535149346],
+          [-1.683136812517992,48.11016614515085],
+          [-1.684598233443371,48.110164190429465]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "duguay-trouin",
+        "line": 0,
+        "name": "Quais Lamartine",
+        "status": "planned",
+        "type": "bandes-cyclables",
+        "link": "/rev-0#quais-lamartine",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.677817017056971,48.110187976843264],
+          [-1.679215070379571,48.110180198417936],
+          [-1.680201854557511,48.11017734029025],
+          [-1.680228888067061,48.11017728243697]
+        ]
+      }
+    },
+
     {
       "type": "Feature",
       "properties": {

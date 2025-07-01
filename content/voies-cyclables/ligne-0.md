@@ -8,7 +8,7 @@ trafic: N/A
 cover: /images/rev-rennes.png
 ---
 
-## Les tronçons (du Nord au Sud)
+## Les tronçons de l'axe Nord-Sud (du Nord au Sud)
 
 ### Canal Saint-Martin
 Il s'agit du chemin de halage, doublé par endroit de la route qui desservait les anciennes maison. Celle-ci a été reprise sur une largeur plus étroite en 2025.
@@ -16,10 +16,6 @@ Certaines passerelles sont accessibles à vélo, d'autres non (escaliers).
 
 ### Boulevard de Chézy
 Il s'agit de l'un des premiers tronçons réalisés.
-
-### Quais Aristide Briand
-
-Il s'agit de simples bandes cyclables de part et d'autre de la Vilaine, sans aucune sécurisation.
 
 ### Place de Bretagne
 
@@ -40,3 +36,13 @@ Principalement constitué de bandes cyclables, un segment a cependant été séc
 Bandes cyclables (discontinues par endroit au sud) ou couloir de bus avec cependant un segment sécurisé avec pistes cyclables.
 
 ### Boulevard Pompidou
+
+## L'axe Est-Ouest
+
+### Quais Aristide Briand
+
+Il s'agit de simples bandes cyclables de part et d'autre de la Vilaine, sans aucune sécurisation.
+
+### Quais Lamartine
+
+### Quais Duguay Trouin
