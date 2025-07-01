@@ -45,4 +45,9 @@ Il s'agit de simples bandes cyclables de part et d'autre de la Vilaine, sans auc
 
 ### Quais Lamartine
 
+Il s'agit d'une vélorue avec un trafic théoriquement limité. Cependant de nombreux automobilistes continuent à passer ici en franchissant le sens interdit au lieu de prendre le bd de la Liberté.
+Cela devrait s'améliorer avec la déconstruction du parking République
+
 ### Quais Duguay Trouin
+
+Il s'agit d'une voie générale dans le sens Est-Ouest avec un DSC dans l'autre sens, partiellement protégé par des balisettes.
