@@ -7,11 +7,11 @@
       "properties": {
         "id": "bidir-lemoine",
         "line": 7,
-        "name": "Bidir entre Le Moine et Pays-Bas",
+        "name": "Rue Pierre Le Moine",
         "status": "done",
         "type": "bandes-cyclables",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#Rue Pierre Le Moine"
       },
       "geometry": {
         "type": "LineString",
@@ -36,7 +36,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#boulevard-des-pays-bas"
       },
       "geometry": {
         "type": "LineString",
@@ -63,7 +63,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#boulevard-des-pays-bas"
       },
       "geometry": {
         "type": "LineString",
@@ -87,7 +87,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#boulevard-des-pays-bas"
       },
       "geometry": {
         "type": "LineString",
@@ -114,7 +114,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#carrefour-entre-les-bd-du-portugal-et-des-pays-bas"
       },
       "geometry": {
         "type": "LineString",
@@ -138,7 +138,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#carrefour-entre-les-bd-du-portugal-et-des-pays-bas"
       },
       "geometry": {
         "type": "LineString",
