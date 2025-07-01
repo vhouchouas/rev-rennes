@@ -35,7 +35,7 @@
         "name": "début de la rue de Lorient depuis la rue Louis Guilloux",
         "status": "done",
         "type": "bidirectionnelle",
-        "quality": "unsatisfactory",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -109,7 +109,7 @@
         "name": "Roazhon Park",
         "status": "done",
         "type": "bidirectionnelle",
-        "quality": "unsatisfactory",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
