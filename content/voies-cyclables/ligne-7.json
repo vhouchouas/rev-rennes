@@ -158,7 +158,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#bidir-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -178,7 +178,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#bidir-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -200,7 +200,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#bidir-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -226,7 +226,7 @@
         "status": "done",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#bidir-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -271,7 +271,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#bidir-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -298,7 +298,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#bidir-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -362,7 +362,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#voie-de-la-dombe"
+        "link": "/rev-rennes-7#bidir-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
