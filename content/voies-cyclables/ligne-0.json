@@ -247,6 +247,28 @@
           [-1.692742910843407, 48.090312254771476]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Aristide Briand",
+        "line": 0,
+        "name": "Quais Aristide Briand",
+        "status": "planned",
+        "type": "bandes-cyclables",
+        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.674123611390181,48.11020270855568],
+          [-1.674192916416585, 48.110201673170884],
+          [1.676472065226773, 48.11019070860299],
+          [1.676474208954477, 48.11019069800381],
+          [1.677817017056971, 48.110187976843264]
+        ]
+      }
     }
   ]
 }
