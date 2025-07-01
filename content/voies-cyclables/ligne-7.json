@@ -194,6 +194,32 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "bidir-noyal-rocade",
+        "line": 7,
+        "name": "Au dessus de la rocade",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.660986239863512,48.082615328429576],
+          [-1.661051291997268,48.0813761830003],
+          [-1.66105735671024,48.08126066785538],
+          [-1.661064476389211,48.081125035015546],
+          [-1.661075322766849,48.080475081578584],
+          [-1.661080421535518,48.080169572952514],
+          [-1.661090191836713,48.079584150699304],
+          [-1.661158742556773,48.07799022590873]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
         "id": "bidir-le-Hil",
         "line": 7,
         "name": "Bidir longeant la ZI du Hil",
