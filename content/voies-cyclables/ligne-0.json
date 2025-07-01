@@ -9,7 +9,7 @@
         "name": "Canal Saint-Martin",
         "status": "done",
         "type": "velorue",
-        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "link": "/rev-0#canal-saint-martin",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -41,7 +41,7 @@
         "name": "Boulevard de Chézy",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "link": "/rev-0#boulevard-de-chézy",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -76,7 +76,7 @@
         "name": "Place de Bretagne",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "link": "/rev-0#place-de-bretagne",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -103,7 +103,7 @@
         "name": "Boulevard de la Tour d'Auvergne 1",
         "status": "done",
         "type": "bandes-cyclables",
-        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "link": "/rev-0#boulevard-de-la-tour-dauvergne",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -123,7 +123,7 @@
         "name": "Boulevard de la Tour d'Auvergne 2",
         "status": "done",
         "type": "bilaterale",
-        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "link": "/rev-0#boulevard-de-la-tour-dauvergne",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -143,7 +143,7 @@
         "name": "Boulevard de la Tour d'Auvergne 3",
         "status": "planned",
         "type": "voie-bus",
-        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "link": "/rev-0#boulevard-de-la-tour-dauvergne",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -166,7 +166,7 @@
         "name": "Boulevard Pompidou 1",
         "status": "planned",
         "type": "bilaterale",
-        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "link": "/rev-0#boulevard-pompidou",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -187,7 +187,7 @@
         "name": "Boulevard Pompidou 2",
         "status": "planned",
         "type": "voie-bus",
-        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "link": "/rev-0#boulevard-pompidou",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -233,7 +233,7 @@
         "name": "Rue de Nantes 2",
         "status": "planned",
         "type": "bandes-cyclables",
-        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "link": "/rev-0#rue-de-nantes",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -256,7 +256,7 @@
         "name": "Quais Aristide Briand",
         "status": "planned",
         "type": "bandes-cyclables",
-        "link": "/rev-0#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet",
+        "link": "/rev-0#quais-aristide-briand",
         "quality": "unsatisfactory"
       },
       "geometry": {
