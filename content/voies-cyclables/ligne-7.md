@@ -26,6 +26,13 @@ De nombreux automobilistes passe cependant outre, problème exacerbé quand il y
 Une bidir en rive Ouest a remplacé les anciennes bandes cyclables.
 La piste est cependant régulièrement empruntée par des particuliers et des taxis, notamment en face du Quadri et juste au sud du giratoire du Triangle
 
+### Passage piéton Italie-Pays-Bas
+
+En septembre 2023, le responsable du chantier a déclaré que comme le nouvel immeuble au nord du giratoire était enfin livré, la traversée cyclable serait traitée d'ici fin 2023, l'ilôt détruit pour y déplacer le passage piéton (décalé de 3m vers l'ouest).
+Il n'en a rien été. Les piétons et cyclistes continuent à se partager le passage piéton entre les deux tronçons de REV.
+Seul la bande podotactile a été déplacée en rive nord, envoyant les mal voyants hors du passage piéton directement sur l'îlot.
+Celà génère des conflits piétons/cycles alors que ce point aurait du être traité depuis 2 ans. D'après une élue, ca a du être oublié par la plateforme voirie…
+
 ### Carrefour entre les bd du Portugal et des Pays-Bas
 
 Il y a une traversée en rive sud vers le vélo-tour à l'Est (le vélo-tour à l'Ouest se prenant derrière la caserne des pompiers).

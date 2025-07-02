@@ -81,6 +81,24 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "danger1-PB",
+        "name": "Passage piéton Italie/PB",
+        "line": 7,
+        "danger": "Passage piéton partagé et bande podotactile mal placée"
+        "link": "/rev-rennes-7#passage-piéton-italie-pays-bas"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.6612448550363013,
+          48.08645250880778
+        ],
+        "type": "Point"
+      }
+    }
+
+    {
+      "type": "Feature",
+      "properties": {
         "id": "bidir-PB-sud",
         "line": 7,
         "name": "Bidir entre le RP du Triangle et le bd du Portugal",
