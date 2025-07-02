@@ -484,7 +484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "danger3-chartres",
+        "id": "danger-chartres-BAU",
         "type": "danger",
         "name": "Portion sur BAU (bande d'arrêt d'urgence)",
         "line": 6,
@@ -501,7 +501,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "danger2-chartres",
+        "id": "danger-chartres-la-chaine",
         "type": "danger",
         "name": "Retour sur vers le bord de la départementale",
         "line": 6,
@@ -518,7 +518,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "danger1-chartres",
+        "id": "danger-chartres-tunnel",
         "type": "danger",
         "name": "Début du REV Chartres",
         "line": 6,
