@@ -24,6 +24,22 @@ Côté sud, il s'agit d'un ancien chemin agricole qui a été déplacé lors de 
 Le trafic y est limité (un seul riverain habite le long de cette route) et cette route relie le buvoduc de Bréquigny au Vallon.
 La vélorue fait un léger décroché pour faire le tour du parking routier avant de franchir une traversée prioritaire pour rejoindre la piste séparée du Vallon
 
+### Stationnement sauvage au Vallon
+
+Tous les jours, des automobilistes viennent se garer illégallement entre 12h et 14h sur les espaces verts et le trottoir en face du resto/bar du Vallon, et ce en roulant sur la piste cyclable pour y aller et en repartir
+Rennes Métropole avait mis des roches pour empêcher cela lorsque la piste avait été créé mais elles ont vites disparues. Le VP et les services de RM ont confirmé lors d'une réunion au printemps 2024 que c'était des particuliers qui avaient illégallement enlevés les roches mais que RM ne comptait pas en remettre car cela leur revient cher.
+De plus RM n'a pas la compétence police à Noyal, uniquement la compétence voirie.
+La PM de Noyal et la gendarmerie ont la compétence mais ne se déplacent pas malgré les promesses.
+Le problème est visible sur google street : https://maps.app.goo.gl/1u3WPUEhd7QBJqsW7
+::content-image
+---
+imageUrl: https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:33g7o255442vrvnocratbxhx/bafkreihefvdc2urs7f4sur3dt6mvj4ricq43p5ods7u7abacinttt5vpgu@jpeg
+caption: Aperçu de la Voie Lyonnaise 8 - Route de Paris (Tassin)
+credit: Roazhon Buan Métropole de Lyon
+streetView: 45.7676717,4.7609684,3a,75y,111.3h,90t
+---
+::
+
 
 ### Voie séparée vélo
 

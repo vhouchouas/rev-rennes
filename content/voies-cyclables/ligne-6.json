@@ -422,6 +422,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "danger-chartres-vallon",
+        "type": "danger",
+        "name": "Stationnement illégal sauvage",
+        "line": 6,
+        "danger": "Stationnement sauvage entre 12h et 14h en face du resto/bar du Vallon"
+        "link": "/rev-rennes-6#stationnement-sauvage-au-vallon"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.6966673370704655,
+          48.06943404911658
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "line": 6,
         "id": "Voie séparée vélo",
         "name": "Voie séparée vélo",
