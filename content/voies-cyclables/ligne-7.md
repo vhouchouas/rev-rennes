@@ -11,7 +11,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 ## Résumé
 
 Il est globalement satisfaisant sur le bd des Pays-Bas à Rennes et en inter-urbain.
-Cependant les priorités ne sont pas cohérentes en inter-urbain : la piste a la même priorité que la voie générale sur les axes les plus importants, qui ont un stop pour accéder à la départementale. Mais quelques accès secondaires ont la priorité sur la piste (mais pas sur la départementale) alors qu'il s'agit d'impasse et même d'un simple accès à un garage à un endroit
+Cependant les priorités ne sont pas cohérentes en inter-urbain : la piste a la même priorité que la voie générale dans les carrefours avec les axes les plus importants, qui ont un stop pour accéder à la départementale. Mais quelques accès secondaires ont la priorité sur la piste (mais pas sur la départementale) alors qu'il s'agit d'impasse et même d'un simple accès à un garage à un endroit
 
 ## Les tronçons (du Nord au Sud)
 
@@ -39,4 +39,4 @@ Globalement qualitatif :
 * un petit resserrement lors du franchissement du ruisseau de l'Orson à l'entrée de Noyal-Châtillon
 * le REV ne va pas tout droit vers le centre-ville de Noyal mais dévie vers la rue de l'ancienne gare
 
-Plus ennuyeux, les priorités ne sont pas cohérentes en inter-urbain : la piste a la même priorité que la voie générale sur les axes les plus importants, qui ont un stop pour accéder à la départementale. Mais quelques accès secondaires ont la priorité sur la piste (mais pas sur la départementale) alors qu'il s'agit d'impasse et même d'un simple accès à un garage à un endroit
+Plus ennuyeux, les priorités ne sont pas cohérentes en inter-urbain : la piste a la même priorité que la voie générale dans les carrefours avec les axes les plus importants, qui ont un stop pour accéder à la départementale. Mais quelques accès secondaires ont la priorité sur la piste (mais pas sur la départementale) alors qu'il s'agit d'impasse et même d'un simple accès à un garage à un endroit
