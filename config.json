@@ -8,7 +8,7 @@
     48.1099998
   ],
   "zoom": 12,
-  "nbVoiesCyclables": 15,
+  "nbVoiesCyclables": 16,
   "colors": [
     { "line": 0,  "color": "#4e8bc1" },
     { "line": 1,  "color": "#AC4D35" },
@@ -24,7 +24,7 @@
     { "line": 11, "color": "#E0C74E" },
     { "line": 12, "color": "#75BCAE" },
     { "line": 13, "color": "#7E6D98" },
-    { "line": 14, "color": "#D05C79" }
+    { "line": 15, "color": "#5C79D0" }
   ],
   "transports": [
     {
