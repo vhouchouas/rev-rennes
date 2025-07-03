@@ -6,7 +6,7 @@
       "properties": {
         "line": 8,
         "name": "Rue de Chateaugiron (Landry)",
-        "status": "",
+        "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -43,8 +43,37 @@
       "type": "Feature",
       "properties": {
         "line": 8,
+        "name": "Rue de Chateaugiron (halte La Poterie)",
+        "status": "wip",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.637696873016238,48.09521228221119],
+          [-1.635592274686625,48.09450272133493],
+          [-1.634344358005641,48.09408197351029],
+          [-1.631674526580052,48.093187239570945],
+          [-1.63133792497926,48.093074428216795],
+          [-1.629979313885059,48.09261907792108],
+          [-1.629643934656013,48.092453692601964],
+          [-1.628667980787164,48.09211207464952],
+          [-1.628086464000635,48.09190536344633],
+          [-1.627530474529792,48.091713594535264],
+          [-1.627377825620229,48.09166094347545],
+          [-1.626814878592672,48.09146677081314]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
         "name": "Rue de Chateaugiron (devant D4)",
-        "status": "",
+        "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -76,7 +105,7 @@
       "properties": {
         "line": 8,
         "name": "Rue André Bonin (embranchement depuis rue Chateaugiron)",
-        "status": "",
+        "status": "wip",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -101,7 +130,7 @@
       "properties": {
         "line": 8,
         "name": "Giratoire rue André Bonnin",
-        "status": "postponed",
+        "status": "wip",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -156,9 +185,9 @@
       "properties": {
         "line": 8,
         "name": "Rue André Bonin (devant la boulangerie et les sushis)",
-        "status": "",
+        "status": "done",
         "type": "bidirectionnelle",
-        "quality": "unsatisfactory",
+        "quality": "satisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
       },
       "geometry": {
@@ -183,7 +212,7 @@
       "properties": {
         "line": 8,
         "name": "Chemin des Poilus",
-        "status": "",
+        "status": "done",
         "type": "velorue",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -208,7 +237,7 @@
       "properties": {
         "line": 8,
         "name": "Rue du verger (ouest)",
-        "status": "",
+        "status": "done",
         "type": "velorue",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -244,8 +273,8 @@
       "type": "Feature",
       "properties": {
         "line": 8,
-        "name": "Rue du verger (uest)",
-        "status": "",
+        "name": "Rue du verger (est)",
+        "status": "done",
         "type": "velorue",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
