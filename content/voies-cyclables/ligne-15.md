@@ -1,6 +1,6 @@
 ---
 name: REV Vern-sur-Seiche
-line: 14
+line: 15
 from: Rennes
 to: Vezin le Coquet
 description: Le REV entre Rennes et Vezin le Coquet longe la départementale en desservant le Val d'Orson. Il est prolongé par une liaison secondaire vers Saint Armel et Bourgbarré.
