@@ -266,23 +266,6 @@
           [-1.611789297483904,48.08238629136371]
         ]
       }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 8,
-        "name": "Cours du Professeur Jean Bernard",
-        "status": "postponed",
-        "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
-        "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-        ]
-      }
     }
   ]
 }
