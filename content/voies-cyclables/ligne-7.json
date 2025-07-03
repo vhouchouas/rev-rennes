@@ -84,7 +84,7 @@
         "type": "danger1-PB",
         "name": "Passage piéton Italie/PB",
         "line": 7,
-        "danger": "Passage piéton partagé et bande podotactile mal placée"
+        "danger": "Passage piéton partagé et bande podotactile mal placée",
         "link": "/rev-rennes-7#passage-piéton-italie-pays-bas"
       },
       "geometry": {
@@ -94,7 +94,7 @@
         ],
         "type": "Point"
       }
-    }
+    },
 
     {
       "type": "Feature",

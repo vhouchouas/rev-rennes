@@ -426,7 +426,7 @@
         "type": "danger",
         "name": "Stationnement illégal sauvage",
         "line": 6,
-        "danger": "Stationnement sauvage entre 12h et 14h en face du resto/bar du Vallon"
+        "danger": "Stationnement sauvage entre 12h et 14h en face du resto/bar du Vallon",
         "link": "/rev-rennes-6#stationnement-sauvage-au-vallon"
       },
       "geometry": {
