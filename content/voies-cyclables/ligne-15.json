@@ -157,7 +157,7 @@
       "properties": {
         "line": 15,
         "name": "Rue du Bois de Soeuvres (nord)",
-        "status": "postponed",
+        "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -182,7 +182,7 @@
       "properties": {
         "line": 15,
         "name": "Rue du Bois de Soeuvres (sud)",
-        "status": "postponed",
+        "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -207,7 +207,7 @@
       "properties": {
         "line": 15,
         "name": "De la Hallerais au giratoire du Val d'Orson",
-        "status": "postponed",
+        "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -253,7 +253,7 @@
       "properties": {
         "line": 15,
         "name": "Giratoire du Val d'Orson",
-        "status": "postponed",
+        "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -289,7 +289,7 @@
       "properties": {
         "line": 15,
         "name": "Sud giratoire du Val d'Orson",
-        "status": "postponed",
+        "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
