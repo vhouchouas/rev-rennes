@@ -2,8 +2,8 @@
 name: REV Vern-sur-Seiche
 line: 15
 from: Rennes
-to: Vezin le Coquet
-description: Le REV entre Rennes et Vezin le Coquet longe la départementale en desservant le Val d'Orson. Il est prolongé par une liaison secondaire vers Saint Armel et Bourgbarré.
+to: Vern-sur-Seiche
+description: Le REV entre Rennes et Vern longe la départementale en desservant le Val d'Orson. Il est prolongé par une liaison secondaire vers Saint Armel et Bourgbarré.
 trafic: 24k vélos/jour
 avancement: 25%
 cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
