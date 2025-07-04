@@ -3,7 +3,7 @@ name: REV de Cesson Nord
 line: 4
 from: Rennes
 to: Bruz
-description: Le REV entre Rennes et Bruz passe par Saint-Jacques-de-la-Lande, desservira le campus de Ker Lann avant d'arriver à Bruz.
+description: Le REV entre Rennes et Cesson par le nord longue la Vilaine.
 trafic: 18k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 ---
