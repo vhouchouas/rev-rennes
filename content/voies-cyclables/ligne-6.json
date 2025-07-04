@@ -9,7 +9,7 @@
         "name": "le long de la piscine de Bréquigny",
         "status": "done",
         "type": "bilaterale",
-        "quality": "unsatisfactory",
+        "quality": "satisfactory",
         "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
       },
       "geometry": {
@@ -25,6 +25,32 @@
         ]
       }
     },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "name": "Rue Georges Graff (devant parc & lycée Bréquigny)",
+        "status": "done",
+        "type": "aucun",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.691359255198491,48.08218524650219],
+          [-1.69136156225987,48.082185589634335],
+          [-1.691488520850317,48.08233215004096],
+          [-1.692150090939462,48.083127113541266],
+          [-1.692299436535277,48.08319742800508],
+          [-1.691968974443581,48.085007372968164],
+          [-1.691863156563532,48.08558690902884],
+          [-1.691862942181485,48.085588128196534]
+        ]
+      }
+    },
+
 
     {
       "type": "Feature",
