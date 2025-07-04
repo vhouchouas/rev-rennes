@@ -34,9 +34,9 @@ Le problème est visible sur google street : https://maps.app.goo.gl/1u3WPUEhd7Q
 ::content-image
 ---
 imageUrl: https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:33g7o255442vrvnocratbxhx/bafkreihefvdc2urs7f4sur3dt6mvj4ricq43p5ods7u7abacinttt5vpgu@jpeg
-caption: Aperçu de la Voie Lyonnaise 8 - Route de Paris (Tassin)
-credit: Roazhon Buan Métropole de Lyon
-streetView: 45.7676717,4.7609684,3a,75y,111.3h,90t
+caption: Stationnement sauvage sur la piste devant le bar du Vallon
+credit: Roazhon Buan
+streetView: 48.0693563,-1.696642,3a,75y,91.52h,74.42t
 ---
 ::
 
