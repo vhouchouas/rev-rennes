@@ -104,6 +104,25 @@
       "type": "Feature",
       "properties": {
         "line": 4,
+        "name": "TEMPLATE",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.641193319235949,48.11280684322242],
+          [-1.641403412274587,48.11279339111952]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
         "name": "rue de Rennes Est La Touraudais",
         "status": "postponed",
         "type": "bandes-cyclables",
