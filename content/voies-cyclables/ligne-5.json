@@ -6,6 +6,29 @@
       "type": "Feature",
       "properties": {
         "line": 5,
+        "name": "pont au dessus voie ferrée, entre Mermoz et Jean Dupont",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.696743140742815,48.09266165932251],
+          [-1.697225975107257,48.0934837306655],
+          [-1.69756844038064,48.093996420470404],
+          [-1.698025246217678,48.09453253281883],
+          [-1.698025246217678,48.09453253281883]
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 5,
         "name": "Rue de Nantes au Nord de la rocade",
         "status": "done",
         "type": "bilaterale",
