@@ -1,6 +1,95 @@
 {
   "type": "FeatureCollection",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Avenue du général Leclerc",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.639694388275099,48.11402112082075],
+          [-1.636849651495041,48.11405924732115],
+          [-1.635034370328273,48.11409032895728],
+          [-1.634915970528566,48.114074016930886],
+          [-1.634698434073467,48.11407702549121],
+          [-1.634215668825723,48.11408307303949],
+          [-1.634081716546232,48.11406150763692]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Embranchement entre Préales & Général Leclerc",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.641244035688539,48.11266730787205],
+          [-1.641217533314588,48.11273595622692],
+          [-1.641193319235949,48.11280684322242],
+          [-1.641144321175771,48.11296638633721],
+          [-1.640799926970103,48.11387116963367],
+          [-1.640738512415915,48.11391962238028],
+          [-1.639691188793926,48.11393884374635],
+          [-1.639694388275099,48.11402112082075]
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Rue Rosalind Franklin sud, depuis av Leclerc",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.639921828135181,48.11446648330149],
+          [-1.639694388355878,48.11402112171854]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Beaulieu (rue Rosalind Franklin)",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.64194799369133,48.117975845751516],
+          [-1.641990812203165,48.117964827893914],
+          [-1.641711201944083,48.11749207757148],
+          [-1.639921828135181,48.11446648330149]
+        ]
+      }
+    },
 
     {
       "type": "Feature",
