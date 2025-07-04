@@ -55,7 +55,7 @@
         "line": 15,
         "name": "Nord du viaduc du métro : parc + rue Emile Liffré",
         "status": "postponed",
-        "type": "voie bus",
+        "type": "voie-bus",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
       },
