@@ -273,7 +273,7 @@
       "properties": {
         "line": 2,
         "name": "Entre les giratoires",
-        "status": "postponed",
+        "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
@@ -308,7 +308,7 @@
       "properties": {
         "line": 2,
         "name": "Avenue des Touches",
-        "status": "postponed",
+        "status": "done",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
