@@ -32,7 +32,7 @@
       "properties": {
         "line": 6,
         "name": "Rue Georges Graff (devant parc & lycée Bréquigny)",
-        "status": "done",
+        "status": "postponed",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
@@ -59,7 +59,7 @@
         "line": 6,
         "name": "rue d'Angleterre et son bypass par le parc",
         "status": "done",
-        "type": "bandes-cyclables",
+        "type": "voie-verte",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
       },
@@ -405,7 +405,7 @@
         "name": "Vélorue sud-ouest Rennes",
         "status": "done",
         "doneAt": "01/01/2010",
-        "type": "aucun",
+        "type": "velorue",
         "quality": "satisfactory",
         "link": "/rev-rennes-6#vélorue-voie-agricole"
       },
