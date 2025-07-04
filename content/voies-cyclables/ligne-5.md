@@ -1,5 +1,5 @@
 ---
-name: REV Saint-Jacques
+name: REV de Saint-Jacques-de-la-Lande et Bruz
 line: 5
 from: Rennes
 to: Saint-Jacques-de-la-Lande

@@ -1,5 +1,5 @@
 ---
-name: REV Bruz
+name: REV de Cesson Nord
 line: 4
 from: Rennes
 to: Bruz
