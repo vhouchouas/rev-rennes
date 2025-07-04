@@ -8,6 +8,7 @@
         "line": 6,
         "name": "le long de la piscine de Bréquigny",
         "status": "done",
+        "doneAt":"2023",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
@@ -95,7 +96,7 @@
         "id": "Voie cyclable le long de la départementale",
         "name": "Voie cyclable le long de la départementale",
         "status": "done",
-        "doneAt": "06/06/2024",
+        "doneAt": "01/01/2023",
         "type": "aucun",
         "quality": "satisfactory",
         "link": "/rev-rennes-6#piste-bidirectionnelle-le-long-de-la-d837"
@@ -403,7 +404,7 @@
         "id": "Vélorue sud-ouest Rennes",
         "name": "Vélorue sud-ouest Rennes",
         "status": "done",
-        "doneAt": "06/06/2024",
+        "doneAt": "01/01/2010",
         "type": "aucun",
         "quality": "satisfactory",
         "link": "/rev-rennes-6#vélorue-voie-agricole"
@@ -531,7 +532,7 @@
         "id": "Voie séparée vélo",
         "name": "Voie séparée vélo",
         "status": "done",
-        "doneAt": "06/06/2024",
+        "doneAt": "01/01/2023",
         "type": "aucun",
         "quality": "satisfactory",
         "link": "/rev-rennes-6#voie-séparée-vélo"
@@ -592,6 +593,7 @@
         "id": "danger-chartres-BAU",
         "type": "danger",
         "name": "Portion sur BAU (bande d'arrêt d'urgence)",
+        "doneAt":"01/05/2025",
         "line": 6,
         "danger": "Revêtement ancien, gravillonné et étroit pour se croiser"
       },
