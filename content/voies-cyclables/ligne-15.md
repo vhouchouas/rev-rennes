@@ -18,8 +18,6 @@ En attendant, seule une voie fut construite afin de de desservir le garage ateli
 L'emplacement de la seconde voie fut attribué aux piétons et aux cycles.
 Finalement le projet d'une ou deux stations supplémentaires à Chantepie ne fut jamais concrétisé et fut attribuée au REV
 
-*via Gorge de Loup*
-
 
 ### La Petite Bretonnière
 
