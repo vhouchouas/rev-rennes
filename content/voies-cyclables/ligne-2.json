@@ -90,6 +90,7 @@
         "line": 2,
         "name": "tunnel sous la rocade et parc de Villejean",
         "status": "done",
+        "doneAt": "01/01/2000",
         "type": "voie-verte",
         "quality": "satisfactory",
         "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
@@ -158,6 +159,7 @@
         "line": 2,
         "name": "voie verte et vélorue qui longe la N12",
         "status": "done",
+        "doneAt": "01/06/2023",
         "type": "velorue",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
@@ -230,6 +232,7 @@
         "line": 2,
         "name": "franchissement N12 + vélorue le long de la N12",
         "status": "done",
+        "doneAt": "01/06/2023",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
@@ -274,6 +277,7 @@
         "line": 2,
         "name": "Entre les giratoires",
         "status": "done",
+        "doneAt": "01/06/2023",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"

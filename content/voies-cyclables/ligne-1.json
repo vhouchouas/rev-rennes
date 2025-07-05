@@ -88,6 +88,7 @@
         "line": 1,
         "name": "Sous la rocade",
         "status": "done",
+        "doneAt": "01/11/2022",
         "type": "bidirectionnelle",
         "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
         "quality": "satisfactory"
@@ -112,6 +113,7 @@
         "line": 1,
         "name": "Bd Robiquette en extra rocade",
         "status": "done",
+        "doneAt": "01/11/2022",
         "type": "bidirectionnelle",
         "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
         "quality": "satisfactory"
@@ -152,6 +154,7 @@
         "line": 1,
         "name": "arrivée sur Montgermont",
         "status": "done",
+        "doneAt": "01/11/2022",
         "type": "bidirectionnelle",
         "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
         "quality": "satisfactory"
