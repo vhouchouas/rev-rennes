@@ -11,6 +11,12 @@ cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 
 ## Les tronçons (du Nord au Sud)
 
+### Nord du viaduc du métro
+
+Au Nord du viaduc du métron le REV redescends en longant des stades (le vélo-tour de Rennes continue vers l'est en longant des parcs).
+Puis il est censé à terme emprunter la rue rue Emile Liffré (une voie bus étroite où deux bus ne peuvent se croiser).
+Plus au nord, il empruntera les rue Michel Gérard puis Abbé Henri Grégoire qui ne comprennent actuellement aucun aménagement cyclable avant de rejoindre la rue de Vern et ses bandes cyclables (ou voie bus par endroit)
+
 ### Viaduc du métro
 
 Le viaduc du métro avait réservé la place pour doubler la ligne du métro dans le cadre d'une future hypothétique station à Chantepie.

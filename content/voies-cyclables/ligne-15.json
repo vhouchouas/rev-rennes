@@ -9,7 +9,7 @@
         "status": "postponed",
         "type": "aucun",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-15#FIXME"
+        "link": "/rev-rennes-15#nord-du-viaduc-du-métro"
       },
       "geometry": {
         "type": "LineString",
@@ -32,7 +32,7 @@
         "status": "postponed",
         "type": "aucun",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-15#FIXME"
+        "link": "/rev-rennes-15#nord-du-viaduc-du-métro"
       },
       "geometry": {
         "type": "LineString",
@@ -57,7 +57,7 @@
         "status": "postponed",
         "type": "voie-bus",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-15#FIXME"
+        "link": "/rev-rennes-15#nord-du-viaduc-du-métro"
       },
       "geometry": {
         "type": "LineString",
