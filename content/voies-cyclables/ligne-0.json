@@ -40,6 +40,7 @@
         "line": 0,
         "name": "Boulevard de Chézy",
         "status": "done",
+        "doneAt": "01/01/2018",
         "type": "bidirectionnelle",
         "link": "/rev-rennes-0#boulevard-de-chézy",
         "quality": "satisfactory"
