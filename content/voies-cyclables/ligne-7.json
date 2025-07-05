@@ -81,7 +81,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "danger1-PB",
+        "id": "danger1-PB",
+        "type": "danger",
         "name": "Passage piéton Italie/PB",
         "line": 7,
         "danger": "Passage piéton partagé et bande podotactile mal placée",
