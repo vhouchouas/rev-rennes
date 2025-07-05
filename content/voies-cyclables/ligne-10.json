@@ -290,8 +290,8 @@
         "line": 10,
         "name": "Giratoire Alliés / St Roch",
         "status": "done",
-        "type": "bilaterale",
-        "quality": "satisfactory",
+        "type": "voie-bus",
+        "quality": "unsatisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
       },
       "geometry": {
