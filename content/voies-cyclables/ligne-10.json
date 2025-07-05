@@ -348,6 +348,7 @@
         "id": "déviation-parc-fin-st-roch",
         "line": 10,
         "name": "Déviation à la fin du bd de St Roch",
+        "doneAt": "01/05/2025",
         "status": "done",
         "type": "velorue",
         "quality": "satisfactory",
@@ -377,6 +378,7 @@
         "line": 10,
         "name": "contournement à la fin du bd de St Roch",
         "status": "done",
+        "doneAt": "01/05/2025",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
@@ -401,6 +403,7 @@
         "line": 10,
         "name": "1er portion unidir après St Roch le long D86",
         "status": "done",
+        "doneAt": "01/07/2025",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
@@ -429,6 +432,7 @@
         "line": 10,
         "name": "D86 au niveau du Tertre",
         "status": "done",
+        "doneAt": "01/07/2025",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
@@ -484,6 +488,7 @@
         "line": 10,
         "name": "L'Ouest de la porte de Tizé",
         "status": "done",
+        "doneAt": "01/07/2025",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
@@ -505,6 +510,7 @@
         "line": 10,
         "name": "Giratoire porte de Tizé",
         "status": "done",
+        "doneAt": "01/01/2025",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
@@ -593,6 +599,7 @@
         "id": "tize-est-1",
         "line": 10,
         "name": "Est de la porte de Tizé",
+        "doneAt": "01/01/2025",
         "status": "done",
         "type": "bilaterale",
         "quality": "satisfactory",
@@ -625,6 +632,7 @@
         "line": 10,
         "name": "1er RP à l'E de porte de Tizé",
         "status": "done",
+        "doneAt": "01/01/2025",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
@@ -687,6 +695,7 @@
         "line": 10,
         "name": "après le 1er RP après la porte de Tizé",
         "status": "done",
+        "doneAt": "01/01/2025",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
@@ -709,6 +718,7 @@
         "line": 10,
         "name": "D29 à l'O de la ZI Le Boulais",
         "status": "done",
+        "doneAt": "01/01/2025",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
@@ -736,6 +746,7 @@
         "line": 10,
         "name": "D29 au niveau de la ZI Le Boulais",
         "status": "done",
+        "doneAt": "01/01/2025",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
@@ -759,6 +770,7 @@
         "line": 10,
         "name": "D29 à l'ouest de la rue de la marquerais",
         "status": "done",
+        "doneAt": "01/01/2025",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
