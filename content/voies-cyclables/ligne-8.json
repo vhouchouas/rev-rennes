@@ -67,7 +67,7 @@
       "properties": {
         "line": 8,
         "name": "Rue André Bonin (embranchement depuis rue Chateaugiron)",
-        "status": "wip",
+        "status": "postponed",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
@@ -92,8 +92,8 @@
       "properties": {
         "line": 8,
         "name": "Giratoire rue André Bonnin",
-        "status": "wip",
-        "type": "bandes-cyclables",
+        "status": "postponed",
+        "type": "aucune",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
       },
