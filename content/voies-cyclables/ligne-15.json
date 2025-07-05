@@ -89,7 +89,7 @@
         "doneAt": "01/01/2000",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-15#FIXME"
+        "link": "/rev-rennes-15#viaduc-du-métro"
       },
       "geometry": {
         "type": "LineString",
