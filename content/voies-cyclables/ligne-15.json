@@ -127,7 +127,7 @@
         "doneAt": "01/01/2000",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-15#FIXME"
+        "link": "/rev-rennes-15#début-de-la-boucle-descendant-du-viaduc-au-blosne"
       },
       "geometry": {
         "type": "LineString",
@@ -220,7 +220,7 @@
         "doneAt": "01/06/2021",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-15#FIXME"
+        "link": "/rev-rennes-15#rue-du-bois-de-soeuvres"
       },
       "geometry": {
         "type": "LineString",
@@ -246,7 +246,7 @@
         "doneAt": "01/06/2021",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-15#FIXME"
+        "link": "/rev-rennes-15#rue-du-bois-de-soeuvres"
       },
       "geometry": {
         "type": "LineString",
@@ -319,7 +319,7 @@
         "status": "done",
         "type": "bilaterale",
         "quality": "satisfactory",
-        "link": "/rev-rennes-15#FIXME"
+        "link": "/rev-rennes-15#giratoire-du-val-d-orson"
       },
       "geometry": {
         "type": "LineString",
