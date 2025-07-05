@@ -9,7 +9,7 @@
         "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
+        "link": "/rev-rennes-8#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -38,7 +38,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
+        "link": "/rev-rennes-8#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -70,7 +70,7 @@
         "status": "postponed",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
+        "link": "/rev-rennes-8#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -95,7 +95,7 @@
         "status": "postponed",
         "type": "aucun",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
+        "link": "/rev-rennes-8#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -150,7 +150,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
+        "link": "/rev-rennes-8#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -177,7 +177,7 @@
         "status": "done",
         "type": "velorue",
         "quality": "voie-verte",
-        "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
+        "link": "/rev-rennes-8#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -202,7 +202,7 @@
         "status": "done",
         "type": "velorue",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
+        "link": "/rev-rennes-8#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -239,7 +239,7 @@
         "status": "done",
         "type": "velorue",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
+        "link": "/rev-rennes-8#FIXME"
       },
       "geometry": {
         "type": "LineString",

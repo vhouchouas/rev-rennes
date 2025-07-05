@@ -10,7 +10,7 @@
         "status": "postponed",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -57,7 +57,7 @@
         "status": "done",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -93,7 +93,7 @@
         "doneAt": "01/06/2023",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -162,7 +162,7 @@
         "doneAt": "01/06/2023",
         "type": "velorue",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -235,7 +235,7 @@
         "doneAt": "01/06/2023",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -280,7 +280,7 @@
         "doneAt": "01/06/2023",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -315,7 +315,7 @@
         "status": "done",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -376,7 +376,7 @@
         "status": "done",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
         "type": "LineString",

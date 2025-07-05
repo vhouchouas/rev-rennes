@@ -10,7 +10,7 @@
         "status": "postponed",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-1#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -59,7 +59,7 @@
         "name": "Derrière le CC Grand Quartier",
         "status": "done",
         "type": "bandes-cyclables",
-        "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
+        "link": "/rev-rennes-1#FIXME",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -90,7 +90,7 @@
         "status": "done",
         "doneAt": "01/11/2022",
         "type": "bidirectionnelle",
-        "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
+        "link": "/rev-rennes-1#FIXME",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -115,7 +115,7 @@
         "status": "done",
         "doneAt": "01/11/2022",
         "type": "bidirectionnelle",
-        "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
+        "link": "/rev-rennes-1#FIXME",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -156,7 +156,7 @@
         "status": "done",
         "doneAt": "01/11/2022",
         "type": "bidirectionnelle",
-        "link": "/rev-rennes-1#halle-tony-garnier-à-st-fons-centre",
+        "link": "/rev-rennes-1#FIXME",
         "quality": "satisfactory"
       },
       "geometry": {

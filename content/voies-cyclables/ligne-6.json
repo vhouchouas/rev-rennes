@@ -11,7 +11,7 @@
         "doneAt":"2023",
         "type": "bilaterale",
         "quality": "satisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-6#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -35,7 +35,7 @@
         "status": "postponed",
         "type": "aucun",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-6#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -61,7 +61,7 @@
         "status": "done",
         "type": "voie-verte",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/rev-rennes-6#FIXME"
       },
       "geometry": {
         "type": "LineString",
