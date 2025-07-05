@@ -456,6 +456,7 @@
         "line": 10,
         "name": "L'Ouest de la porte de Tizé",
         "status": "done",
+        "doneAt": "01/07/2025",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#le-long-du-tramway-t3"
