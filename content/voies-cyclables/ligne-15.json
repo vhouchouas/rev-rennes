@@ -317,7 +317,7 @@
         "name": "Giratoire du Val d'Orson",
         "doneAt": "01/10/2022",
         "status": "done",
-        "type": "bidirectionnelle",
+        "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-15#FIXME"
       },
