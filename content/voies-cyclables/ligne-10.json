@@ -286,6 +286,22 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "danger-Av-Belle-Fontaine",
+        "type": "danger",
+        "name": "Voie bus/vélo",
+        "line": 10,
+          "danger": "La cohabitation avec les bus se passe mal: rasages, queues de poisson",
+        "link": "https://youtu.be/3TYyrPS0rk0?t=40"
+      },
+      "geometry": {
+        "coordinates": [-1.620160374549882,48.127054256443444],
+        "type": "Point"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
         "id": "rp-allies",
         "line": 10,
         "name": "Giratoire Alliés / St Roch",
