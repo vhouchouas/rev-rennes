@@ -176,7 +176,7 @@
         "name": "Chemin des Poilus",
         "status": "done",
         "type": "velorue",
-        "quality": "unsatisfactory",
+        "quality": "voie-verte",
         "link": "/rev-rennes-8#cours-du-professeur-jean-bernard"
       },
       "geometry": {
