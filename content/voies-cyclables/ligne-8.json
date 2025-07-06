@@ -175,8 +175,8 @@
         "line": 8,
         "name": "Chemin des Poilus",
         "status": "done",
-        "type": "velorue",
-        "quality": "voie-verte",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/rev-rennes-8#FIXME"
       },
       "geometry": {
