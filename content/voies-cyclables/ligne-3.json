@@ -373,8 +373,8 @@
         "line": 3,
         "name": "De Montigné à la route de Lorient",
         "status": "done",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "type": "aucun",
+        "quality": "unsatisfactory",
         "link": "/rev-rennes-3#FIXME"
       },
       "geometry": {
