@@ -70,7 +70,7 @@
         "status": "postponed",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-8#FIXME"
+        "link": "/rev-rennes-8#rue-andré-bonin"
       },
       "geometry": {
         "type": "LineString",
@@ -95,7 +95,7 @@
         "status": "postponed",
         "type": "aucun",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-8#FIXME"
+        "link": "/rev-rennes-8#rue-andré-bonin"
       },
       "geometry": {
         "type": "LineString",
@@ -150,7 +150,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-8#FIXME"
+        "link": "/rev-rennes-8#rue-andré-bonin"
       },
       "geometry": {
         "type": "LineString",
@@ -177,7 +177,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-8#FIXME"
+        "link": "/rev-rennes-8#chemin-des-poilus"
       },
       "geometry": {
         "type": "LineString",
@@ -202,7 +202,7 @@
         "status": "done",
         "type": "velorue",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-8#FIXME"
+        "link": "/rev-rennes-8#rue-du-verger"
       },
       "geometry": {
         "type": "LineString",
@@ -239,7 +239,7 @@
         "status": "done",
         "type": "velorue",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-8#FIXME"
+        "link": "/rev-rennes-8#rue-du-verger"
       },
       "geometry": {
         "type": "LineString",
