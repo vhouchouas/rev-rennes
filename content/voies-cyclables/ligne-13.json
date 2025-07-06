@@ -1318,7 +1318,6 @@
       }
     },
 
-
     {
       "type": "Feature",
       "properties": {
@@ -1364,6 +1363,24 @@
       }
     },
 
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 13,
+        "name": "passerelle ZAC Plaisance",
+        "status": "done",
+        "type": "voie-verte",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-13#FIXME"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.675862866913451,48.125897488600685],
+          [-1.675679060004894,48.12623573042961]
+        ]
+      }
+    },
 
     {
       "type": "Feature",
