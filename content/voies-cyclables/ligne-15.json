@@ -161,7 +161,7 @@
         "doneAt": "01/01/2000",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-15#FIXME"
+        "link": "/rev-rennes-15#vélorue-de-fait-contournant-le-garage-atelier-du-métro"
       },
       "geometry": {
         "type": "LineString",
