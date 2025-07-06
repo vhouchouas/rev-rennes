@@ -6,23 +6,6 @@
       "type": "Feature",
       "properties": {
         "line": 12,
-        "name": "TEMPLATE",
-        "status": "wip",
-        "type": "aucun",
-        "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#FIXME"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-        ]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 12,
         "name": "Bel Air",
         "status": "wip",
         "type": "bidirectionnelle",
@@ -162,6 +145,26 @@
           [-1.657430225995721,48.14208562947228],
           [-1.657370026794222,48.14226057321218],
           [-1.657125347689032,48.14297161656852]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "name": "Accès la coulée verte",
+        "status": "wip",
+        "type": "aucun",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-12#FIXME"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [-1.658614458999254,48.14135819413952],
+            [-1.658231713291149,48.141477771317724],
+            [-1.657619699903741,48.141438972145664]
         ]
       }
     },
