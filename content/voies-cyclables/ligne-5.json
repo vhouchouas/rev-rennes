@@ -7,8 +7,8 @@
       "properties": {
         "line": 5,
         "name": "rue Jean Pont",
-        "status": "done",
-        "type": "bandes-cyclables",
+        "status": "postponed",
+        "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-5#FIXME"
       },
