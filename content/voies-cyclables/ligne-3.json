@@ -371,7 +371,7 @@
       "properties": {
         "id": "bidir-montigné",
         "line": 3,
-        "name": "De Montigé à la route de Lorient",
+        "name": "De Montigné à la route de Lorient",
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
@@ -398,7 +398,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "traverséé-route-de-lorient+Montigné",
+        "id": "traversée-route-de-lorient+Montigné",
         "line": 3,
         "name": "Traversée de la route de Lorient & rue de Montigné",
         "status": "done",
