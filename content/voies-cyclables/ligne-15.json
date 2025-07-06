@@ -28,31 +28,6 @@
       "type": "Feature",
       "properties": {
         "line": 15,
-        "name": "rue Michel Gérard",
-        "status": "postponed",
-        "type": "aucun",
-        "quality": "unsatisfactory",
-        "link": "/rev-rennes-15#nord-du-viaduc-du-métro"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [-1.661263513542368,48.09142571631244],
-          [-1.661143098698662,48.09143960939339],
-          [-1.660959803291195,48.09143073683452],
-          [-1.659509883596215,48.09137334590109],
-          [-1.659418236142483,48.09136890835741],
-          [-1.659306476015512,48.09137751531981],
-          [-1.65908102619697,48.0914070363851],
-          [-1.658693015036836,48.091395062565674]
-        ]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 15,
         "name": "Nord du viaduc du métro : parc + rue Emile Liffré",
         "status": "postponed",
         "type": "voie-bus",
