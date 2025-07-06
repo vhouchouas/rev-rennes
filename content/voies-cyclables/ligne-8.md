@@ -46,3 +46,5 @@ Sur la partie Ouest :
 * vers Chantepie, il s'agit d'une traversée cyclable en 2 temps puis d'une simple bande cyclable.
 
 Le tronçon Est est constitué d'une piste bidirectionnelle en rive nord.
+
+A terme cette rue sera retravaillée dans le cadre du trambus.
