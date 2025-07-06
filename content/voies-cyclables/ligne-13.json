@@ -1369,7 +1369,7 @@
       "type": "Feature",
       "properties": {
         "line": 13,
-        "name": "chemin de hallage Est",
+        "name": "chemin de halage Est",
         "status": "done",
         "type": "voie-verte",
         "quality": "unsatisfactory",
