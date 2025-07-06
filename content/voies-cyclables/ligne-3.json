@@ -404,7 +404,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-3#Traversée-de-la-route-de-Lorient-et-rue-de-Montigné"
+        "link": "/rev-rennes-3#traversée-de-la-route-de-Lorient-et-rue-de-Montigné"
       },
       "geometry": {
         "type": "LineString",
