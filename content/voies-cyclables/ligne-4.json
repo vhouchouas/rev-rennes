@@ -123,6 +123,30 @@
       "type": "Feature",
       "properties": {
         "line": 4,
+        "name": "Avenue du général Leclerc",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-10#FIXME"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.639694388275099,48.11402112082075],
+          [-1.636849651495041,48.11405924732115],
+          [-1.635034370328273,48.11409032895728],
+          [-1.634915970528566,48.114074016930886],
+          [-1.634698434073467,48.11407702549121],
+          [-1.634215668825723,48.11408307303949],
+          [-1.634081716546232,48.11406150763692]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
         "name": "rue de Rennes Est La Touraudais",
         "status": "postponed",
         "type": "bandes-cyclables",
