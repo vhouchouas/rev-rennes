@@ -123,6 +123,31 @@
       "type": "Feature",
       "properties": {
         "line": 4,
+        "name": "Embranchement entre Préales & Général Leclerc",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-10#FIXME"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.641244035688539,48.11266730787205],
+          [-1.641217533314588,48.11273595622692],
+          [-1.641193319235949,48.11280684322242],
+          [-1.641144321175771,48.11296638633721],
+          [-1.640799926970103,48.11387116963367],
+          [-1.640738512415915,48.11391962238028],
+          [-1.639691188793926,48.11393884374635],
+          [-1.639694388275099,48.11402112082075]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
         "name": "Avenue du général Leclerc",
         "status": "postponed",
         "type": "bandes-cyclables",
