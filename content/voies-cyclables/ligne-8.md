@@ -31,7 +31,7 @@ Le chemin des Poilus est un ancienn chemin étroit.
 Il a été dédoublé par une piste bidirectionnelle sauf sur les 20m derniers mètres qui sont mutualisé pour l'insertion sur la rue Loroux.
 Sur la partie haute, tandis que le chemin des Poilus passe derrière une barrière anti-bruit, le REV passe entre ce mur et le giratoire avant de bifurquer en descendant.
 
-### Rue du verger
+### Rue du Verger
 
 Elle était autrefois équipée de bandes cyclables très étroites.
 Celles-ci ont été effacées et des logos vélos et doubles chevront ont été tracées au milieu des voies afin d'encourager les cyclistes à prendre leur place pour ne pas se faire raser.
