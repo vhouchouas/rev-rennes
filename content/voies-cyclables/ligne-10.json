@@ -210,8 +210,8 @@
         "line": 10,
         "name": "av belles fontaines (juste avant bd des Alliés)",
         "status": "done",
-        "type": "bilaterale",
-        "quality": "satisfactory",
+        "type": "bidirectionnelle",
+        "quality": "unsatisfactory",
         "link": "/rev-rennes-10#FIXME"
       },
       "geometry": {
@@ -290,7 +290,7 @@
         "line": 10,
         "name": "Bd St Roch",
         "status": "done",
-        "type": "bidirectionnelle",
+        "type": "voie-verte",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#FIXME"
       },
@@ -317,7 +317,7 @@
         "name": "Déviation à la fin du bd de St Roch",
         "doneAt": "01/05/2025",
         "status": "done",
-        "type": "velorue",
+        "type": "voie-verte",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#FIXME"
       },
@@ -331,6 +331,26 @@
           [-1.604481002314594,48.130109185629344],
           [-1.604315727865042,48.13037402642247],
           [-1.604271735894887,48.13058658330365],
+          [-1.604318086849071,48.130822404501544]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vélorue-pommeraie",
+        "line": 10,
+        "name": "Vélorue de la Pommeraie",
+        "doneAt": "01/05/2025",
+        "status": "done",
+        "type": "velorue",
+        "quality": "satisfactory",
+        "link": "/rev-rennes-10#FIXME"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [-1.604318086849071,48.130822404501544],
           [-1.599215827827723,48.13153636090594],
           [-1.598566372813555,48.13164190995878]
