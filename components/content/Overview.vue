@@ -22,6 +22,7 @@
 
 <script setup lang="ts">
 import type { Collections } from '@nuxt/content';
+import {DisplayedLayer} from "~/maplibre/LayerControl";
 
 
 const { path } = useRoute();
@@ -33,6 +34,7 @@ const { voie } = defineProps<{ voie: Collections['voiesCyclablesPage']}>();
 
 const mapOptions = {
   fullscreen: true,
+  defaultLayer: DisplayedLayer.Progress,
   onFullscreenControlClick: () => {
     const route = useRoute();
     return navigateTo({ path: `${route.params._slug}/carte` });

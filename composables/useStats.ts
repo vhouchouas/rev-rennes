@@ -40,7 +40,9 @@ export const useStats = () => {
    */
   function getDistance({ features }: { features: Collections['voiesCyclablesGeojson']['features'] }): number {
     return features.reduce((acc: number, feature: Collections['voiesCyclablesGeojson']['features'][0]) => {
-      return acc + getLineStringDistance(feature);
+      if (feature.status != 'expected') {
+        return acc + getLineStringDistance(feature);
+      }
     }, 0);
   }
 

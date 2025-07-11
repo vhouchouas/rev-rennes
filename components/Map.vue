@@ -15,6 +15,7 @@
 </template>
 
 <script setup lang="ts">
+import { watch, ref, onMounted, computed } from 'vue';
 import type { Collections } from '@nuxt/content';
 import { Map, AttributionControl, GeolocateControl, NavigationControl, type StyleSpecification, type LngLatLike } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
@@ -23,14 +24,13 @@ import LegendControl from '@/maplibre/LegendControl';
 import FilterControl from '@/maplibre/FilterControl';
 import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
-
+import LayerControl, { DisplayedLayer } from '@/maplibre/LayerControl';
+import { displayedLayer, setDisplayedLayer } from '~/composables/useMap';
 import { isLineStringFeature, type CompteurFeature, type LaneStatus, type LaneType } from '~/types';
 import config from '~/config.json';
 
-// const config = useRuntimeConfig();
-// const maptilerKey = config.public.maptilerKey;
-
 const defaultOptions = {
+  defaultLayer: DisplayedLayer.Progress,
   logo: true,
   legend: true,
   filter: true,
@@ -42,12 +42,11 @@ const defaultOptions = {
 };
 
 const props = defineProps<{
-  features: Collections['voiesCyclablesGeojson']['features'] | CompteurFeature[]
+  features: Collections['voiesCyclablesGeojson']['features'] | CompteurFeature[];
   options?: Partial<typeof defaultOptions>;
 }>();
 
 const options = { ...defaultOptions, ...props.options };
-
 const legendModalComponent = ref<{ openModal: () => void } | null>(null);
 const filterModalComponent = ref<{ openModal: () => void } | null>(null);
 
@@ -55,85 +54,112 @@ const {
   loadImages,
   plotFeatures,
   fitBounds,
-  handleMapClick
+  handleMapClick,
+  plotExpectedSections
 } = useMap();
 
-const statuses = ref(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip', 'tested']);
-const types = ref(['bidirectionnelle', 'bilaterale', 'voie-bus', 'voie-bus-elargie', 'velorue', 'voie-verte', 'bandes-cyclables', 'zone-de-rencontre', 'aucun', 'inconnu']);
+const statuses = ref<LaneStatus[]>(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip', 'tested', 'expected']);
+const types = ref<LaneType[]>(['bidirectionnelle', 'bilaterale', 'voie-bus', 'voie-bus-elargie', 'velorue', 'voie-verte', 'bandes-cyclables', 'zone-de-rencontre', 'aucun', 'inconnu']);
 
 const features = computed(() => {
   return (props.features ?? []).filter(feature => {
     if (isLineStringFeature(feature)) {
       return statuses.value.includes(feature.properties.status) &&
-        types.value.includes(feature.properties.type);
+          types.value.includes(feature.properties.type);
     }
     return true;
   });
 });
+
+const layerControl = new LayerControl(
+    options.defaultLayer,
+    options.displayLayerType,
+    () => {
+      plotFeatures({ map, features: features.value });
+    },
+    (s: string) => {
+      let dt = convertIntoDisplayedLayerEnum(s);
+      setDisplayedLayer(dt);
+    }
+);
 
 function refreshFilters({ visibleStatuses, visibleTypes }: { visibleStatuses: LaneStatus[]; visibleTypes: LaneType[] }) {
   statuses.value = visibleStatuses;
   types.value = visibleTypes;
 }
 
+function convertIntoDisplayedLayerEnum(s: string) {
+  if (s === "progress") {
+    return DisplayedLayer.Progress;
+  } else if (s === "expected") {
+    return DisplayedLayer.Expected;
+  }
+  console.assert(s + " couldn't be converted into a DisplayedLayer enum");
+  return DisplayedLayer.Progress;
+}
+
 onMounted(() => {
   const map = new Map({
     container: 'map',
     style: style as StyleSpecification,
-    // style: `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`,
     center: config.center as LngLatLike,
     zoom: config.zoom,
     attributionControl: false
   });
+
+  map.addControl(layerControl, 'top-left');
   map.addControl(new NavigationControl({ showCompass: false }), 'top-left');
   map.addControl(new AttributionControl({ compact: false }), 'bottom-left');
+
   if (options.fullscreen) {
     const fullscreenControl = new FullscreenControl({
       onClick: () => options.onFullscreenControlClick()
     });
     map.addControl(fullscreenControl, 'top-right');
   }
+
   if (options.geolocation) {
     map.addControl(
-      new GeolocateControl({
-        positionOptions: { enableHighAccuracy: true },
-        // When active the map will receive updates to the device's location as it changes.
-        trackUserLocation: true
-      }),
-      'top-right'
+        new GeolocateControl({
+          positionOptions: { enableHighAccuracy: true },
+          trackUserLocation: true
+        }),
+        'top-right'
     );
   }
+
   if (options.shrink) {
     const shrinkControl = new ShrinkControl({
       onClick: () => options.onShrinkControlClick()
     });
     map.addControl(shrinkControl, 'top-right');
   }
+
   if (options.legend) {
     const legendControl = new LegendControl({
       onClick: () => {
         if (legendModalComponent.value) {
-          (legendModalComponent.value).openModal();
+          legendModalComponent.value.openModal();
         }
       }
     });
     map.addControl(legendControl, 'top-right');
   }
+
   if (options.filter) {
     const filterControl = new FilterControl({
       onClick: () => {
         if (filterModalComponent.value) {
-          (filterModalComponent.value).openModal();
+          filterModalComponent.value.openModal();
         }
       }
     });
     map.addControl(filterControl, 'top-right');
   }
 
-  map.on('load', async() => {
+  map.on('load', async () => {
     await loadImages({ map });
     plotFeatures({ map, features: features.value });
-
     const tailwindMdBreakpoint = 768;
     if (window.innerWidth > tailwindMdBreakpoint) {
       fitBounds({ map, features: features.value });
@@ -150,6 +176,10 @@ onMounted(() => {
 
   map.on('click', clickEvent => {
     handleMapClick({ map, features: features.value, clickEvent });
+  });
+
+  watch(displayedLayer, (newLayer) => {
+    plotExpectedSections({ map, features: features.value, layer: newLayer });
   });
 });
 </script>
@@ -207,5 +237,19 @@ onMounted(() => {
 
 .maplibregl-popup-anchor-right .maplibregl-popup-tip {
   border-left-color: transparent;
+}
+
+.layercontrol-title {
+  font-size: large;
+  font-weight: 700;
+}
+
+.layercontrol {
+  z-index: 1000;
+  background: #fff;
+  padding: 10px;
+  border-radius: 7px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 </style>

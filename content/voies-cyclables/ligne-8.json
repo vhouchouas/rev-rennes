@@ -257,6 +257,27 @@
           [-1.611789297483904,48.08238629136371]
         ]
       }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "name": "Expected",
+        "status": "expected",
+        "type": "bidirectionnelle",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-8#expected"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.6032224693544306, 48.10884543712208],
+          [-1.6170856962168803, 48.08800835457248]
+        ]
+      }
     }
   ]
 }
