@@ -143,7 +143,7 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
       class: 'text-gray-900 bg-gray-200 rounded-xl px-2'
     },
     expected: {
-      label: 'attendu par les usagers',
+      label: 'attendu par Rayons d\'Action',
       class: 'text-gray-900 bg-gray-200 rounded-xl px-2'
     }
   };

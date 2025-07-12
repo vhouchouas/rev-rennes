@@ -712,7 +712,7 @@ export const useMap = () => {
         },
         paint: {
           'line-width': 7,
-          'line-color': 'green',
+          'line-color': '#222',
           'line-opacity': 1,
         }
       });
@@ -728,6 +728,7 @@ export const useMap = () => {
           'line-width': 6,
           'line-color': '#FFD700',
           'line-opacity': 0.9,
+          'line-dasharray': [1, 2],
           'line-blur': 1
         }
       });
@@ -748,6 +749,7 @@ export const useMap = () => {
 
     } else if (map.getLayer('expected-sections') && layer === DisplayedLayer.Progress) {
       map.removeLayer('expected-sections')
+      map.removeLayer('expected-sections-outline')
     }
   }
 
