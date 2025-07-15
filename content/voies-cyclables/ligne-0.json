@@ -675,7 +675,7 @@
       "properties": {
         "line": 0,
         "name": "Bd Henri Fréville (devant RM)",
-        "status": "postponed",
+        "status": "done",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
@@ -699,7 +699,7 @@
       "properties": {
         "line": 0,
         "name": "Rue de l'Alma entre bd Baumont & Clémenceau",
-        "status": "postponed",
+        "status": "done",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
