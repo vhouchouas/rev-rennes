@@ -1414,7 +1414,7 @@
         "name": "Liaison Montgermont",
         "status": "expected",
         "type": "bidirectionnelle",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       },
       "geometry": {
         "type": "LineString",
