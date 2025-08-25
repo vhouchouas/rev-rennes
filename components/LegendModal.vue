@@ -65,6 +65,21 @@
             <div>
               reporté après 2026
             </div>
+
+            <div class="my-auto rounded-md border border-gray-500 w-16">
+              <div class="relative h-1">
+                <!-- Outline foncé -->
+                <div class="absolute inset-0 bg-gray-800 rounded"></div>
+                <!-- Ligne jaune pointillée -->
+                <div class="absolute inset-0">
+                  <div class="h-full w-full dashed-line-expected bg-gray-800"></div>
+                </div>
+              </div>
+            </div>
+
+            <div>
+             attendu par Rayons d'Action : réseau complet, sans coupure majeure
+            </div>
           </div>
         </div>
       </DialogPanel>
@@ -96,6 +111,17 @@ defineExpose({
   background-repeat: repeat-x;
   background-size: 12px 0.25rem;
 }
+
+.dashed-line-expected {
+  background-image: repeating-linear-gradient(
+      to right,
+      #FFD700,
+      #FFD700 4px,
+      transparent 4px,
+      transparent 8px
+  );
+}
+
 
 .animated-dashes {
   animation: dash-animation 0.5s linear infinite;

@@ -141,6 +141,10 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
     unknown: {
       label: 'à définir',
       class: 'text-gray-900 bg-gray-200 rounded-xl px-2'
+    },
+    expected: {
+      label: '⚠️ manquant',
+      class: 'text-ra-yellow bg-black border-2 border-ra-yellow border-dashed rounded-xl px-2'
     }
   };
   return statusMapping[properties.status];

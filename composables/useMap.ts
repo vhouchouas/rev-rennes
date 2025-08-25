@@ -16,6 +16,17 @@ const { getNbVoiesCyclables } = useConfig();
 // features plotted last are on top
 const sortOrder = [1, 3, 2, 4, 5, 6, 7, 12, 8, 9, 10, 11].reverse();
 
+enum DisplayedLayer {
+  Progress = 0,
+  Expected = 1
+}
+
+export const displayedLayer = ref(DisplayedLayer.Progress);
+
+export const setDisplayedLayer = (value: DisplayedLayer) => {
+  displayedLayer.value = value;
+};
+
 function sortByLine(featureA: Extract<Collections['voiesCyclablesGeojson']['features'][0], { geometry: { type: "LineString" } }>, featureB: Extract<Collections['voiesCyclablesGeojson']['features'][0], { geometry: { type: "LineString" } }>) {
   const lineA = featureA.properties.line;
   const lineB = featureB.properties.line;
@@ -133,7 +144,15 @@ export const useMap = () => {
   }
 
   function plotUnderlinedSections({ map, features }: { map: Map; features: Collections['voiesCyclablesGeojson']['features'] }) {
-    const sections = features.map((feature, index) => ({ id: index, ...feature }));
+    // Get all sections except "excepted"
+    const sections = features
+        .filter(feature => {
+          return !('status' in feature.properties) || feature.properties.status !== 'expected';
+        })
+        .map((feature, index) => ({
+          id: index,
+          ...feature
+        }));
 
     if (sections.length === 0 && !map.getLayer('highlight')) {
       return;
@@ -671,6 +690,69 @@ export const useMap = () => {
     plotPerspective({ map, features: perspectiveFeatures });
   }
 
+  function plotExpectedSections({ map, features, layer }: { map: Map; features: ColoredLineStringFeature[]; layer: DisplayedLayer }) {
+    const sections = features.filter(feature => {
+      return 'status' in feature.properties && (feature.properties.status === 'expected');
+    });
+
+    if (sections.length === 0 && !map.getLayer('expected-sections')) {
+      return;
+    }
+    upsertMapSource(map, 'expected-sections', sections);
+
+    // Ajout de la couche pour les sections attendues
+    if (!map.getLayer('expected-sections') && layer === DisplayedLayer.Expected) {
+      map.addLayer({
+        id: 'expected-sections-outline',
+        type: 'line',
+        source: 'expected-sections',
+        layout: {
+          'line-cap': 'round',
+          'line-join': 'round'
+        },
+        paint: {
+          'line-width': 7,
+          'line-color': '#222',
+          'line-opacity': 1,
+        }
+      });
+      map.addLayer({
+        id: 'expected-sections',
+        type: 'line',
+        source: 'expected-sections',
+        layout: {
+          'line-cap': 'round',
+          'line-join': 'round'
+        },
+        paint: {
+          'line-width': 6,
+          'line-color': '#FFD700',
+          'line-opacity': 0.9,
+          'line-dasharray': [1, 2],
+          'line-blur': 1
+        }
+      });
+      map.on('mouseenter', 'expected-sections', function () {
+        map.getCanvas().style.cursor = 'pointer';
+      });
+      map.on('mouseleave', 'expected-sections', function () {
+        map.getCanvas().style.cursor = '';
+      });
+      map.on('mouseenter', 'expected-sections', function () {
+        map.setPaintProperty('expected-sections', 'line-width', 6);
+        map.setPaintProperty('expected-sections', 'line-color', '#EFD311');
+      });
+      map.on('mouseleave', 'expected-sections', function () {
+        map.setPaintProperty('expected-sections', 'line-width', 6);
+        map.setPaintProperty('expected-sections', 'line-color', '#FFD700');
+      });
+
+    } else if (map.getLayer('expected-sections') && layer === DisplayedLayer.Progress) {
+      map.removeLayer('expected-sections')
+      map.removeLayer('expected-sections-outline')
+    }
+  }
+
   function handleMapClick({ map, features, clickEvent }: { map: Map; features: Array<Collections['voiesCyclablesGeojson']['features'][0] | CompteurFeature>; clickEvent: maplibregl.MapMouseEvent }) {
     const layers = [
       {
@@ -787,6 +869,7 @@ export const useMap = () => {
     plotFeatures,
     getCompteursFeatures,
     fitBounds,
-    handleMapClick
+    handleMapClick,
+    plotExpectedSections
   };
 };

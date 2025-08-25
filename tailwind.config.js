@@ -11,7 +11,8 @@ module.exports = {
         'ra-green-200': '#b7daae',
         'ra-green-100': '#cce5ce',
         'ra-orange': '#cb3814',
-        'ra-blue': '#152B68'
+        'ra-blue': '#152B68',
+        'ra-yellow': '#FFD700'
       },
       typography: {
         DEFAULT: {
