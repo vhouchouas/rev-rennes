@@ -482,6 +482,21 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "danger-traversee-roger-dodon",
+        "type": "danger",
+        "name": "Traversée Roger Dodin",
+        "line": 5,
+        "danger": "Sécurité de Traversée insuffisante entre l'est et l'ouest du boulevard Roger Dodin (absence potentielle de covisibilité)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.71259836, 48.07804]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
         "line": 5,
         "name": "Place Jules Valles",
         "status": "wip",

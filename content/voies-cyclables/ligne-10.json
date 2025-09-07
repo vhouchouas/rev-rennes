@@ -209,7 +209,7 @@
         "id": "belles-fontaines",
         "line": 10,
         "name": "av belles fontaines (juste avant bd des Alliés)",
-        "status": "done",
+        "status": "postponed",
         "type": "bidirectionnelle",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-10#FIXME"
@@ -241,11 +241,11 @@
         "type": "danger",
         "name": "Voie bus/vélo",
         "line": 10,
-          "danger": "La cohabitation avec les bus se passe mal: rasages, queues de poisson",
+          "danger": "Traversée du boulevard dangereuse et difficultés de cohabitation avec les bus",
         "link": "https://youtu.be/3TYyrPS0rk0?t=40"
       },
       "geometry": {
-        "coordinates": [-1.620160374549882,48.127054256443444],
+        "coordinates": [-1.6209193425177943, 48.12745592958909],
         "type": "Point"
       }
     },

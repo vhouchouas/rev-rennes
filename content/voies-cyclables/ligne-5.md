@@ -4,18 +4,18 @@ line: 5
 from: Rennes
 to: Bruz
 description: Le REV relie Rennes à Bruz en passant par Saint-Jacques-de-la-Lande
-trafic: 15k vélos/jour
+trafic: xxx vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ---
 
 ## Les tronçons (du Nord au Sud)
 
 ℹ️️ Tronçon Pilate / Jean Pont / Jeanne Bohec ℹ️️
-Ce tronçon a fait l'objet de débat avec Rennes Métropole car il ne correspond pas à la préconisation de RA comme tracé optimisé pour relié St-Jacques à Rennes. Il avait été préconisé d'aménager le boulevard Mermoz car plus direct. Un ouvrage d'art était nécessaire afin d'enjamber la voie ferrée sur le boulevard, cet investissement n'a ni été retenu, ni étudié sur sa faisabilité et son coût éventuel.
+Ce tronçon a fait l'objet de débat avec Rennes Métropole car il ne correspond pas à la préconisation de RA comme tracé optimisé pour relier St-Jacques à Rennes. Il avait été préconisé d'aménager le boulevard Mermoz car plus direct. Un ouvrage d'art était nécessaire afin d'enjamber la voie ferrée sur le boulevard, cet investissement n'a ni été retenu, ni étudié sur sa faisabilité et son coût éventuel.
 
 ### Rue de la Pilate
 
-La piste n'est pas en site propre, la rue a été aménagée en vélorue avec CSC (Contre sens cyclable) en 2025. Cet axe est utilisé comme voie de shunt à la rue de Nantes, les limitations sont peu respectées, peu d'effort ont été déployés pour réduire la vitesse des véhicules. Enfin dans le sens Bruz -> Rennes pour rejoindre la rue de Nantes vers le Nord : problématique du carrefour, car il faut traverser trois voies afin de rejoindre le sens Sud -> Nord.
+La piste n'est pas en site propre, la rue a été aménagée en vélorue avec CSC (Contre sens cyclable) en 2025. Cet axe est utilisé comme voie de shunt à la rue de Nantes, les limitations sont peu respectées, peu d'efforts ont été déployés pour réduire la vitesse des véhicules. Enfin dans le sens Bruz -> Rennes pour rejoindre la rue de Nantes vers le Nord : problématique du carrefour, car il faut traverser trois voies afin de rejoindre le sens Sud -> Nord.
 
 ![](/images/ligne-5/REV-Rennes-ligne-5-1-pilate.jpg)
 
@@ -34,7 +34,7 @@ Sur la partie Nord des conflits potentiels sont à prévoir avec les cyclistes q
 
 ![](/images/ligne-5/REV-Rennes-ligne-5-3-jeanne-bohec-2.jpg)
 
-La voie d'insertion de la piste sur le boulevard Mermoz dans le sens St-Jacques -> Rennes a été réalisé en "guillotine" directement dans le flux motorisé. Les cyclos préfereront prendre la traversée cyclable en contre sens.
+La voie d'insertion de la piste sur le boulevard Mermoz dans le sens St-Jacques -> Rennes a été réalisé en "guillotine" directement dans le flux motorisé. Les cyclistes préfereront prendre la traversée cyclable en contre sens.
 ![](/images/ligne-5/REV-Rennes-ligne-5-3-jeanne-bohec-3.jpg)
 
 ### Boulevard Jean Mermoz
@@ -47,7 +47,7 @@ Sur la partie qui jouxte la bouche de métro, gestion problématique de la cohab
 
 ![](/images/ligne-5/REV-Rennes-ligne-5-4-mermoz-2.jpg)
 
-Notamment dû à l'emprise au sol des arbres et du cheminement vers le parc relais qui est dans l'axe des plantations. Les piétons vont au plus directe et marchent sur la piste cyclable.
+Notamment dû à l'emprise au sol des arbres et du cheminement vers le parc relais qui est dans l'axe des plantations. Les piétons vont au plus direct et marchent sur la piste cyclable.
 
 ![](/images/ligne-5/REV-Rennes-ligne-5-4-mermoz-3.jpg)
 
@@ -62,7 +62,7 @@ Cette piste est bidirectionnelle et s’appuie en partie sur une piste existante
 
 ![](/images/ligne-5/REV-Rennes-ligne-5-6-morinais-1.jpg)
 
-La traversée du boulevard a été relativement bien traitée avec la réalisation d'un dos d'ane et d'un marquage au sol. Les cyclos n'ont pas la priorité mais dans la pratique les voitures ralentissent et laissent passer les vélos.
+La traversée du boulevard est traitée avec un ralentisseur et un marquage au sol. Les cyclistes n'ont pas la priorité à l'intersection alors que cette traversée est contiguë à un passage piéton. Dans la pratique les automobilistes ralentissent et laissent passer les cyclistes. Un problème de sécurité réside dans le fait que deux voies de circulation entrantes sont à traverser avec une absence de covisibilité potentielle en cas de présence de bus ou de poids lourd sur la première des deux voies. 
 
 ![](/images/ligne-5/REV-Rennes-ligne-5-6-morinais-2.jpg)
 
@@ -76,7 +76,7 @@ Piste bidirectionnelle réalisée en 2025. Elle longe le cimetière. La largeur 
 
 ![](/images/ligne-5/REV-Rennes-ligne-5-7-martiniere-1.jpg)
 
-Au bout de la rue le carrefour avec la rue du Partis des Couasnes a fait l'objet de travaux avec la réalisation d'un ralentisseur et d'un revêtement pépite afin de marquer la priorité cyclo.
+Au bout de la rue le carrefour avec la rue du Patis des Couasnes a fait l'objet de travaux avec la réalisation d'un ralentisseur et d'un revêtement pépite afin de marquer la priorité cyclo.
 
 ![](/images/ligne-5/REV-Rennes-ligne-5-7-martiniere-2.jpg)
 
@@ -87,7 +87,7 @@ Piste bidirectionnelle bordée de plantation qui amène au chemin des Landriaux.
 
 ### Chemin des Landriaux
 
-Voie verte bordée d'arbre. Chemin bucolique et agréable a emprunter. Le revêtement commence toute fois à fortement se dégrader sur certaines portions et les bordures enherbées réduise fortement la piste sur certains secteurs.
+Voie verte bordée d'arbre. Chemin bucolique et agréable à emprunter. Le revêtement commence toute fois à fortement se dégrader sur certaines portions et les bordures enherbées réduisent fortement la piste sur certains secteurs.
 
 ![](/images/ligne-5/REV-Rennes-ligne-5-9-landriaux.jpg)
 
