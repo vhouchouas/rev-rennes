@@ -2,7 +2,7 @@ import type { Collections } from '@nuxt/content';
 import type { GeoJSONSource, Map} from 'maplibre-gl';
 import { LngLatBounds, Popup } from 'maplibre-gl';
 import { createApp, defineComponent, h, Suspense } from 'vue';
-import { isCompteurFeature, isDangerFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type CompteurFeature } from '~/types';
+import { isCompteurFeature, isDangerFeature, isLineStringFeature, isPerspectiveFeature, type CompteurFeature } from '~/types';
 
 // Tooltips
 import PerspectiveTooltip from '~/components/tooltips/PerspectiveTooltip.vue';
@@ -653,7 +653,7 @@ export const useMap = () => {
       .flatMap(feature => feature.geometry.coordinates);
     if (allLineStringsCoordinates.length === 0) return;
 
-    const allPointsCoordinates: [number, number][] = features.filter(isPointFeature).map(feature => feature.geometry.coordinates);
+    const allPointsCoordinates: [number, number][] = features.filter(isLineStringFeature).map(feature => feature.geometry.coordinates[0]);
     if (allPointsCoordinates.length === 0) return;
 
     if (features.length === 1 && allPointsCoordinates.length === 1) {
