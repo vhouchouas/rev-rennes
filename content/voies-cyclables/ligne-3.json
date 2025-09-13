@@ -217,7 +217,7 @@
         "line": 3,
         "name": "Sous la rocade",
         "status": "done",
-        "type": "bidirectionnelle",
+        "type": "voie-verte",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-3#FIXME"
       },

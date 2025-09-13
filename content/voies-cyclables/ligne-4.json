@@ -7,9 +7,8 @@
       "properties": {
         "line": 4,
         "name": "Giratoire Francois Chateau (Plaine de Baud)",
-        "status": "done",
+        "status": "postponed",
         "type": "bilaterale",
-        "quality": "satisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {
@@ -59,9 +58,8 @@
       "properties": {
         "line": 4,
         "name": "François Château",
-        "status": "planned",
+        "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#avenue-de-montlouis-à-rue-juttet"
       },
       "geometry": {
@@ -84,7 +82,6 @@
         "name": "Francois Chateau entre SDIS et Préales",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {
@@ -107,7 +104,6 @@
         "name": "Fin Francois Chateau (avant embranchement Acigné)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {
@@ -126,7 +122,6 @@
         "name": "Embranchement entre Préales & Général Leclerc",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-10#FIXME"
       },
       "geometry": {
@@ -151,7 +146,6 @@
         "name": "Avenue du général Leclerc",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-10#FIXME"
       },
       "geometry": {
@@ -175,7 +169,6 @@
         "name": "rue de Rennes Est La Touraudais",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {
@@ -201,7 +194,6 @@
         "name": "rue de Rennes entre bd alliés & La Hublais",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {
@@ -225,7 +217,6 @@
         "name": "rue de Rennes (avant dernier segment Est)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {
@@ -254,7 +245,6 @@
         "name": "rue de Rennes (est), juste avant rue de Paris",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {
@@ -278,7 +268,6 @@
         "name": "Ouest du giratoire du Taillis",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {
@@ -299,7 +288,6 @@
         "name": "rue de Paris (île)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {
@@ -320,7 +308,6 @@
         "name": "rue de Paris ouest",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {
@@ -339,7 +326,6 @@
         "name": "rue de Paris entre 2 giratoires",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-4#FIXME"
       },
       "geometry": {

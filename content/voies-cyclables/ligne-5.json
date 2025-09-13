@@ -52,7 +52,6 @@
         "name": "Rue Jean Pont",
         "status": "wip",
         "type": "velorue",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-5#rue-jean-pont"
       },
       "geometry": {
@@ -501,7 +500,6 @@
         "name": "Place Jules Valles",
         "status": "wip",
         "type": "bidirectionnelle",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-5#place-jules-valles"
       },
       "geometry": {
@@ -619,7 +617,6 @@
         "name": "Le Reynel",
         "status": "wip",
         "type": "bidirectionnelle",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-5#le-reynel"
       },
       "geometry": {
@@ -648,7 +645,6 @@
         "name": "Accès Ker Lann",
         "status": "wip",
         "type": "bidirectionnelle",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-5#accès-ker-lann"
       },
       "geometry": {
@@ -681,7 +677,6 @@
         "name": "Traversée avenue Ker Lann au Nord du campus",
         "status": "wip",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-5#traversée-avenue-ker-lann-au-nord-du-campus"
       },
       "geometry": {
@@ -738,7 +733,6 @@
         "name": "Campus de Ker Lann",
         "status": "wip",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-5#campus-de-ker-lann"
       },
       "geometry": {
@@ -765,7 +759,6 @@
         "name": "Nord rue Pierre Charreau",
         "status": "wip",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-5#nord-rue-pierre-charreau"
       },
       "geometry": {
