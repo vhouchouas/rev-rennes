@@ -19,7 +19,7 @@
             <LineLink :line="String(getLine(voie))" />
           </h2>
           <div class="text-center text-xl text-gray-900">
-            Distance totale: <span class="font-bold" :style="`color: ${getLineColor(getLine(voie))}`">
+            Distance totale prévue : <span class="font-bold" :style="`color: ${getLineColor(getLine(voie))}`">
               {{ displayDistanceInKm(getTotalDistance([voie]), 1) }}
             </span>
           </div>

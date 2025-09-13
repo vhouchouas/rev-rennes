@@ -13,12 +13,8 @@ Où est la Voie Lyonnaise 13 et les autres tronçons annoncés pour 2030 ?*
 
 On vous explique tout !
 
-## Que signifient les types de chaque tronçon et les statistiques "Typologie 2026"
-Il s'agit de chacun des aménagements cyclables que rencontreront les cyclistes sur chacune des lignes à la fin du mandat en 2026. Mis bout-à-bout, et rapportés à la distance totale des différents itinéraires, on peut ensuite obtenir des statistiques détaillées.
-
-L'ensemble du linéaire des Voies Lyonnaises est utilisé, y compris les tronçons reportés après 2026. Dans ce cas, l'aménagement indiqué est celui présent actuellement, car il ne sera malheureusement pas amélioré avant la fin du mandat en cours.
-
-Quand un tronçon est prévu mais qu'il n'y a toujours eu aucune communication publique à son sujet, il est considéré comme "Inconnu" même s'il peut déjà comporter des aménagements cyclables aujourd'hui. A ce stade, nous ne sommes pas en mesure de dire si ce tronçon sera reporté après 2026 ou s'il sera réaménagé et sécurisé d'ici la fin du mandat. La typologie sera évidemment mise à jour dès que nous aurons obtenu une information.
+## Que signifient les types de chaque tronçon et les statistiques "Typologie des aménagements réalisés"
+Il s'agit de chacun des aménagements cyclables que rencontrent les cyclistes sur chacun des tronçons de lignes finalisés. Mis bout-à-bout, et rapportés à la distance totale des différents itinéraires réalisés, on peut ensuite obtenir des statistiques détaillées.
 
 Lorsqu'un tronçon présente une différence d'aménagement cyclable entre les deux sens de circulation, nous retenons un seul des deux aménagements, en préférant retenir celui qui est majoritaire ou celui qui est le plus représentatif du ressenti global. Ce choix permet de simplifier les différents affichages et statistiques du site.
 

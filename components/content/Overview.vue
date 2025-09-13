@@ -2,7 +2,7 @@
   <div>
     <div v-if="geojson">
       <div class="text-center text-xl text-gray-900">
-        Distance totale: <span class="font-bold" :style="`color: ${color}`">{{ displayDistanceInKm(distance, 1) }}</span>
+        Distance totale prévue : <span class="font-bold" :style="`color: ${color}`">{{ displayDistanceInKm(distance, 1) }}</span>
       </div>
       <div v-if="voie.trafic" class="text-center text-sm text-gray-900">
         Fréquentation max 2030: <span class="font-bold" :style="`color: ${color}`">{{ voie.trafic }}</span>

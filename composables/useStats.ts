@@ -48,6 +48,16 @@ export const useStats = () => {
     }, 0);
   }
 
+  function getDoneDistance({ features }: { features: Collections['voiesCyclablesGeojson']['features'] }): number {
+    return features.reduce((acc: number, feature: Collections['voiesCyclablesGeojson']['features'][0]) => {
+      if (feature.properties.status === 'done') {
+        return acc + getLineStringDistance(feature);
+      } else {
+        return acc;
+      }
+    }, 0);
+  }
+
   function getLineStringDistance(feature: Collections['voiesCyclablesGeojson']['features'][0]) {
     if (feature.geometry.type !== 'LineString') {
       throw new Error('[getLineStringDistance] Feature must be a LineString');
@@ -169,11 +179,13 @@ export const useStats = () => {
     const unsatisfactoryDistance = getDistance({ features: unsatisfactoryFeatures });
     const postponedFeatures = features.filter(feature => feature.properties.status === 'postponed');
     const postponedDistance = getDistance({ features: postponedFeatures });
+    const doneFeatures = features.filter(feature => feature.properties.status === 'done');
+    const doneDistance = getDistance({ features: doneFeatures });
 
     return {
       distance: unsatisfactoryDistance,
       postponed: unsatisfactoryDistance === postponedDistance,
-      percent: Math.round((unsatisfactoryDistance / totalDistance) * 100),
+      percent: Math.round((unsatisfactoryDistance / doneDistance) * 100),
       dangerCount: dangers.length
     };
   }
@@ -198,7 +210,7 @@ export const useStats = () => {
 
   function getStatsByTypology(voies: Collections['voiesCyclablesGeojson'][]) {
     const lineStringFeatures = getAllUniqLineStrings(voies);
-    const totalDistance = getDistance({ features: lineStringFeatures });
+    const totalDistance = getDoneDistance({ features: lineStringFeatures });
 
     function getPercent(distance: number) {
       return Math.round((distance / totalDistance) * 100);
@@ -208,7 +220,7 @@ export const useStats = () => {
 
     return Object.entries(featuresByType)
       .map(([type, features]) => {
-        const distance = getDistance({ features });
+        const distance = getDoneDistance({ features });
         const percent = getPercent(distance);
         return {
           name: typologyNames[type as LaneType],

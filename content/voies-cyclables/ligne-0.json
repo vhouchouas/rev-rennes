@@ -170,8 +170,7 @@
         "name": "Boulevard de la Tour d'Auvergne 3",
         "status": "planned",
         "type": "voie-bus",
-        "link": "/rev-rennes-0#boulevard-de-la-tour-dauvergne",
-        "quality": "unsatisfactory"
+        "link": "/rev-rennes-0#boulevard-de-la-tour-dauvergne"
       },
       "geometry": {
         "type": "LineString",
@@ -193,8 +192,7 @@
         "name": "Boulevard Pompidou 1",
         "status": "planned",
         "type": "bilaterale",
-        "link": "/rev-rennes-0#boulevard-pompidou",
-        "quality": "unsatisfactory"
+        "link": "/rev-rennes-0#boulevard-pompidou"
       },
       "geometry": {
         "type": "LineString",
@@ -214,8 +212,7 @@
         "name": "Boulevard Pompidou 2",
         "status": "planned",
         "type": "voie-bus",
-        "link": "/rev-rennes-0#boulevard-pompidou",
-        "quality": "unsatisfactory"
+        "link": "/rev-rennes-0#boulevard-pompidou"
       },
       "geometry": {
         "type": "LineString",
@@ -236,8 +233,7 @@
         "name": "Rue de Nantes 1",
         "status": "planned",
         "type": "bandes-cyclables",
-        "link": "/rev-rennes-0#FIXME",
-        "quality": "unsatisfactory"
+        "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
         "type": "LineString",
@@ -260,8 +256,7 @@
         "name": "Rue de Nantes 2",
         "status": "planned",
         "type": "bandes-cyclables",
-        "link": "/rev-rennes-0#rue-de-nantes",
-        "quality": "unsatisfactory"
+        "link": "/rev-rennes-0#rue-de-nantes"
       },
       "geometry": {
         "type": "LineString",
@@ -283,7 +278,6 @@
         "name": "rue de Nantes (entre Pilate & La Madeleine)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -316,8 +310,7 @@
         "name": "Quais Duguay Trouin",
         "status": "planned",
         "type": "velorue",
-        "link": "/rev-rennes-0#quais-duguay-trouin",
-        "quality": "satisfactory"
+        "link": "/rev-rennes-0#quais-duguay-trouin"
       },
       "geometry": {
         "type": "LineString",
@@ -340,8 +333,7 @@
         "name": "Quais Lamartine",
         "status": "planned",
         "type": "velorue",
-        "link": "/rev-rennes-0#quais-lamartine",
-        "quality": "satisfactory"
+        "link": "/rev-rennes-0#quais-lamartine"
       },
       "geometry": {
         "type": "LineString",
@@ -429,7 +421,6 @@
         "name": "Avenue Sergent Maginot + François Chateau",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "satisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -472,7 +463,6 @@
         "name": "Sergeant Maginot + début François Chateau",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -608,7 +598,6 @@
         "name": "Bd Albert 1er (Ouest piscine Bréquigny)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -631,7 +620,6 @@
         "name": "Bd Albert 1er (devant piscine Bréquigny)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -666,7 +654,6 @@
         "name": "Giratoire de la piscine de Bréquigny",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -731,7 +718,7 @@
         "line": 0,
         "name": "Rue de l'Alma entre bd Baumont & Clémenceau",
         "status": "done",
-        "type": "bandes-cyclables",
+        "type": "bilaterale",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
@@ -769,7 +756,6 @@
         "name": "Rue d'Isly",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -798,7 +784,6 @@
         "name": "Rue Maréchal Joffre",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -820,7 +805,6 @@
         "name": "Bd de l'Yser",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -859,7 +843,6 @@
         "name": "Bd Oscar Leroux (entre Fréville et Le Moine)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -906,7 +889,6 @@
         "name": "Giratoire Leroux",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -952,7 +934,6 @@
         "name": "rue Oscar Leroux (Est) entre les 2 giratoires",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-15#nord-du-viaduc-du-métro"
       },
       "geometry": {
@@ -1029,7 +1010,6 @@
         "name": "Bd Grimault (écolle Guillevic)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -1062,7 +1042,6 @@
         "name": "Bd Grimault (Est)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -1137,7 +1116,6 @@
         "name": "Bd Hutin-Desgrées",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -1169,7 +1147,6 @@
         "name": "Giratoire Ronceray (bd Hutin-Desgrées)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -1215,7 +1192,6 @@
         "name": "Bd Huttin-Desgrées (jusqu'à rue Chateaugiron)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -1285,7 +1261,6 @@
         "name": "Bd Villebois-Mareuil (sud)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -1316,7 +1291,6 @@
         "name": "Cimetière de l'Est (Villebois-Mareuil)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -1362,7 +1336,6 @@
         "name": "Bd Villebois-Mareuil (nord)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -1421,7 +1394,6 @@
         "name": "Boucle manquante rev Rennes",
         "status": "expected",
         "type": "inconnu",
-        "quality": "satisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {

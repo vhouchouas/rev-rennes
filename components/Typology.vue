@@ -1,7 +1,7 @@
 <template>
   <div class="relative my-8 p-2 pt-6 border-ra-green-600 border-2 rounded-xl">
     <div class="absolute -top-4 left-0 right-0 w-fit rounded-md px-2 py-1 mx-auto text-center text-lg text-gray-900 text-white bg-ra-green-600">
-      Typologie 2026
+      Typologie des aménagements réalisés
     </div>
     <div class="grid grid-cols-[1fr_2px_1fr] gap-x-4 text-ra-green-600">
       <template v-for="stat in stats" :key="stat.name">
