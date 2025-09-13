@@ -315,9 +315,9 @@
         "line": 0,
         "name": "Quais Duguay Trouin",
         "status": "planned",
-        "type": "bandes-cyclables",
+        "type": "velorue",
         "link": "/rev-rennes-0#quais-duguay-trouin",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       },
       "geometry": {
         "type": "LineString",
@@ -326,7 +326,8 @@
           [-1.681114480482063,48.11017537087952],
           [-1.682394657729474,48.110169535149346],
           [-1.683136812517992,48.11016614515085],
-          [-1.684598233443371,48.110164190429465]
+          [-1.684360000000000,48.110164190429465],
+          [-1.684391794145398,48.11015056866509]
         ]
       }
     },
@@ -338,9 +339,9 @@
         "line": 0,
         "name": "Quais Lamartine",
         "status": "planned",
-        "type": "bandes-cyclables",
+        "type": "velorue",
         "link": "/rev-rennes-0#quais-lamartine",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       },
       "geometry": {
         "type": "LineString",
@@ -358,9 +359,9 @@
       "properties": {
         "line": 0,
         "name": "Quai Chateaubriand",
-        "status": "postponed",
-        "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
+        "status": "planned",
+        "type": "velorue",
+        "quality": "satisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -380,7 +381,7 @@
       "properties": {
         "line": 0,
         "name": "Quais Dujardin",
-        "status": "postponed",
+        "status": "done",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
@@ -401,32 +402,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Aristide Briand",
-        "line": 0,
-        "name": "Quais Aristide Briand",
-        "status": "planned",
-        "type": "bilaterale",
-        "link": "/rev-rennes-0#quais-aristide-briand",
-        "quality": "unsatisfactory"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [-1.674123611390181,48.11020270855568],
-          [-1.674192916416585, 48.110201673170884],
-          [-1.676472065226773, 48.11019070860299],
-          [-1.676474208954477, 48.11019069800381],
-          [-1.677817017056971, 48.110187976843264]
-        ]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
         "line": 0,
         "name": "quais Aristide Briand (centre)",
-        "status": "postponed",
+        "status": "done",
         "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
@@ -451,7 +429,7 @@
         "name": "Avenue Sergent Maginot + François Chateau",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
+        "quality": "satisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
@@ -532,18 +510,45 @@
       "type": "Feature",
       "properties": {
         "line": 0,
-        "name": "traversée Sergent Maginot vers Laennec",
-        "status": "postponed",
-        "type": "aucun",
+        "name": "traversée Aristide Briand - Sergent Maginot",
+        "status": "done",
+        "type": "bandes-cyclables",
         "quality": "unsatisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-1.665654759498456,48.1102613932886],
-          [-1.66565014415279,48.11007154120112],
-          [-1.665645627380179,48.109885693050146]
+          [
+            -1.6695717972428952,
+            48.11022958147805
+          ],
+          [
+            -1.669556019141595,
+            48.10985295792429
+          ]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 0,
+        "name": "Sergent Maginot",
+        "status": "done",
+        "type": "bandes-cyclables",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-0#FIXME"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6695538067139921,
+            48.109850943893434
+          ],
+          [-1.665648186868743,48.10984645227859]
         ]
       }
     },
@@ -970,9 +975,9 @@
       "properties": {
         "line": 0,
         "name": "Giratoire Grimault / Leroux",
-        "status": "wip",
+        "status": "done",
         "type": "bilaterale",
-        "quality": "unsatisfactory",
+        "quality": "satisfactory",
         "link": "/rev-rennes-0#FIXME"
       },
       "geometry": {
