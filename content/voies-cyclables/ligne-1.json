@@ -9,7 +9,6 @@
         "name": "Rue de St Malo depuis l'Ille et bd Robiquette",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-1#FIXME"
       },
       "geometry": {
@@ -305,8 +304,7 @@
         "line": 1,
         "name": "Liaison Pacé",
         "status": "expected",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory"
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",

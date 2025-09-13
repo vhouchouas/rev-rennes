@@ -9,7 +9,6 @@
         "name": "rue de Brest entre les Lices et Villeajan + remontée jusqu'à la dalle Kennedy",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
@@ -54,9 +53,8 @@
       "properties": {
         "line": 2,
         "name": "de Kennedy à tunnel",
-        "status": "done",
+        "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
@@ -161,7 +159,7 @@
         "status": "done",
         "doneAt": "01/06/2023",
         "type": "velorue",
-        "quality": "unsatisfactory",
+        "quality": "satisfactory",
         "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
@@ -233,8 +231,8 @@
         "name": "franchissement N12 + vélorue le long de la N12",
         "status": "done",
         "doneAt": "01/06/2023",
-        "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
+        "type": "velorue",
+        "quality": "satisfactory",
         "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
@@ -314,7 +312,7 @@
         "name": "Avenue des Touches",
         "status": "done",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
+        "quality": "satisfactory",
         "link": "/rev-rennes-2#FIXME"
       },
       "geometry": {
