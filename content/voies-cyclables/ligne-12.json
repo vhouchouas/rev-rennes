@@ -8,8 +8,7 @@
         "line": 12,
         "name": "Bel Air",
         "status": "wip",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "type": "bilaterale",
         "link": "/rev-rennes-12#FIXME"
       },
       "geometry": {
@@ -37,8 +36,7 @@
         "line": 12,
         "name": "PN au Nord de Maison Blanche",
         "status": "wip",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "type": "bilaterale",
         "link": "/rev-rennes-12#FIXME"
       },
       "geometry": {
@@ -156,7 +154,6 @@
         "name": "Accès la coulée verte",
         "status": "wip",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-12#FIXME"
       },
       "geometry": {
@@ -209,7 +206,6 @@
         "name": "coulée verte (derrière l'hopital de la Tauvrais)",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-12#FIXME"
       },
       "geometry": {
@@ -238,7 +234,6 @@
         "name": "coulée verte (arrivée sur Prairies St Martin)",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-12#FIXME"
       },
       "geometry": {
@@ -326,8 +321,7 @@
         "line": 12,
         "name": "Liaison Saint-Grégoire",
         "status": "expected",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory"
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",

@@ -8,7 +8,6 @@
         "name": "Rue Abbé Henri Grégoire",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-15#nord-du-viaduc-du-métro"
       },
       "geometry": {
@@ -31,7 +30,6 @@
         "name": "Nord du viaduc du métro : parc + rue Emile Liffré",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-15#nord-du-viaduc-du-métro"
       },
       "geometry": {
@@ -404,7 +402,6 @@
         "doneAt": "01/10/2022",
         "status": "expected",
         "type": "aucun",
-        "quality": "satisfactory",
         "link": "/rev-rennes-15#FIXME"
       },
       "geometry": {

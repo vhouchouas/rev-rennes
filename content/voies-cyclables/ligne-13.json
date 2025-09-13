@@ -9,7 +9,6 @@
         "name": "Centre-ville de St Grégoire (rue Général de Gaulle)",
         "status": "wip",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -48,7 +47,6 @@
         "name": "Giratoire général de Gaulle",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -354,7 +352,6 @@
         "name": "Giratoire de Rennes",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -372,7 +369,6 @@
         "name": "Franchissement rocade jusqu'à bd Boutière",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -402,7 +398,6 @@
         "name": "1er giratoire au Sud de la rocade",
         "status": "postponed",
         "type": "bilaterale",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -674,7 +669,6 @@
         "name": "Entre les 2 giratoires avant rocade",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -693,7 +687,6 @@
         "name": "Giratoire Sud du double RP en sud rocade",
         "status": "postponed",
         "type": "bilaterale",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -1093,7 +1086,6 @@
         "name": "Entre le RP Beauregard et les 2 RP en sud rocade",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -1117,7 +1109,6 @@
         "name": "Giratoire Beauregard (Est)",
         "status": "postponed",
         "type": "bilaterale",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -1158,7 +1149,6 @@
         "name": "Giratoire Beauregard (Ouest)",
         "status": "postponed",
         "type": "bilaterale",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -1198,7 +1188,6 @@
         "name": "Au dessus de la ligne St Malo",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -1223,7 +1212,6 @@
         "name": "Nord giratoire La Chaussée",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -1243,7 +1231,6 @@
         "name": "Giratoire Gros Malhon / La Chaussée",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -1278,7 +1265,6 @@
         "name": "Gros Malhon en face de Belasie",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -1301,7 +1287,6 @@
         "name": "Liaison Gros Malhon / halage",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-13#FIXME"
       },
       "geometry": {
@@ -1388,8 +1373,7 @@
         "line": 13,
         "name": "Liaison Montgermont",
         "status": "expected",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory"
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
