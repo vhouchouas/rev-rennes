@@ -499,7 +499,6 @@
         "status": "expected",
         "doneAt":"01/01/2023",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
         "link": "/rev-rennes-7#bidir-rennes-noyal"
       },
       "geometry": {

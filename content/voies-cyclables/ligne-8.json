@@ -8,7 +8,6 @@
         "name": "Rue de Chateaugiron (halte La Poterie)",
         "status": "wip",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
         "link": "/rev-rennes-8#rue-de-chateaugiron"
       },
       "geometry": {
@@ -69,7 +68,6 @@
         "name": "Rue André Bonin (embranchement depuis rue Chateaugiron)",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-8#rue-andré-bonin"
       },
       "geometry": {
@@ -94,7 +92,6 @@
         "name": "Giratoire rue André Bonnin",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-8#rue-andré-bonin"
       },
       "geometry": {

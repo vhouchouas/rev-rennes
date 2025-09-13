@@ -8,8 +8,7 @@
         "line": 10,
         "name": "Rue Rosalind Franklin sud, depuis av Leclerc",
         "status": "postponed",
-        "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
+        "type": "aucun",
         "link": "/rev-rennes-10#FIXME"
       },
       "geometry": {
@@ -48,9 +47,8 @@
         "id": "campus-beaulieu",
         "line": 10,
         "name": "Campus Beaulieu",
-        "status": "done",
-        "type": "voie-verte",
-        "quality": "satisfactory",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/rev-rennes-10#FIXME"
       },
       "geometry": {
@@ -78,9 +76,8 @@
         "id": "beaulieu",
         "line": 10,
         "name": "Station Beaulieu",
-        "status": "done",
+        "status": "postponed",
         "type": "bilaterale",
-        "quality": "satisfactory",
         "link": "/rev-rennes-10#FIXME"
       },
       "geometry": {
@@ -100,9 +97,8 @@
         "id": "debut-cosmes",
         "line": 10,
         "name": "Début butte de Coesmes",
-        "status": "done",
+        "status": "postponed",
         "type": "bilaterale",
-        "quality": "satisfactory",
         "link": "/rev-rennes-10#FIXME"
       },
       "geometry": {
@@ -125,7 +121,7 @@
         "id": "rp-cosmes-2",
         "line": 10,
         "name": "Giratoire Coesmes",
-        "status": "done",
+        "status": "postponed",
         "type": "bilaterale",
         "quality": "satisfactory",
         "link": "/rev-rennes-10#FIXME"
@@ -147,9 +143,8 @@
         "id": "rp-cosmes",
         "line": 10,
         "name": "Giratoire butte de Coesmes / Antoine Becquerel",
-        "status": "done",
+        "status": "postponed",
         "type": "bilaterale",
-        "quality": "satisfactory",
         "link": "/rev-rennes-10#FIXME"
       },
       "geometry": {
@@ -178,10 +173,9 @@
       "properties": {
         "id": "cosmes-atalante",
         "line": 10,
-        "name": "Butte de Coesmes à l'O de la station Atalante",
-        "status": "done",
+        "name": "Butte de Coesmes à la station Atalante",
+        "status": "postponed",
         "type": "bilaterale",
-        "quality": "satisfactory",
         "link": "/rev-rennes-10#FIXME"
       },
       "geometry": {
@@ -211,7 +205,6 @@
         "name": "av belles fontaines (juste avant bd des Alliés)",
         "status": "postponed",
         "type": "bidirectionnelle",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-10#FIXME"
       },
       "geometry": {

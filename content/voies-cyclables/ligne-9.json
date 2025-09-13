@@ -210,8 +210,7 @@
         "id": "expected-cesson",
         "name": "Halte SNCF - Placis vert",
         "status": "expected",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory"
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
