@@ -34,7 +34,6 @@
         "name": "Rue Georges Graff (devant parc & lycée Bréquigny)",
         "status": "postponed",
         "type": "aucun",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-6#FIXME"
       },
       "geometry": {
@@ -58,9 +57,8 @@
       "properties": {
         "line": 6,
         "name": "rue d'Angleterre et son bypass par le parc",
-        "status": "done",
+        "status": "postponed",
         "type": "voie-verte",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-6#FIXME"
       },
       "geometry": {
@@ -397,6 +395,71 @@
         "type": "LineString"
       }
     },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "id": "Passage sous la rocade",
+        "name": "Passage sous la rocade",
+        "status": "done",
+        "type": "voie-verte",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-6#fixme"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -1.689095582787246,
+            48.07903974887077
+          ],
+          [
+            -1.6891811868149773,
+            48.07943263471611
+          ],
+          [
+            -1.689281678499981,
+            48.07966886210261
+          ],
+          [
+            -1.6893933359273205,
+            48.07973848680953
+          ],
+          [
+            -1.6895905973824483,
+            48.07979319187032
+          ],
+          [
+            -1.6896873671525725,
+            48.079924981096184
+          ],
+          [
+            -1.6898287998934336,
+            48.07997471279165
+          ],
+          [
+            -1.690279151517899,
+            48.079964766456555
+          ],
+          [
+            -1.690398252772809,
+            48.079947360365225
+          ],
+          [
+            -1.690428028087382,
+            48.07998465912519
+          ],
+          [
+            -1.6902047132326175,
+            48.08043721525803
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+
+
     {
       "type": "Feature",
       "properties": {
@@ -490,18 +553,6 @@
           [
             -1.6891154000640651,
             48.07904205149584
-          ],
-          [
-            -1.6891654473115625,
-            48.079386716612824
-          ],
-          [
-            -1.689348005256316,
-            48.07971957767496
-          ],
-          [
-            -1.6895917536563854,
-            48.07978623202062
           ]
         ],
         "type": "LineString"
@@ -645,8 +696,7 @@
         "line": 6,
         "name": "Liaison Ker Lann",
         "status": "expected",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory"
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
