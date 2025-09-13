@@ -9,7 +9,6 @@
         "name": "bd alliés entre Bellefontaine & Cesson/Viasilva",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-11#FIXME"
       },
       "geometry": {
@@ -46,7 +45,6 @@
         "name": "De Cesson-Viasilva à La Baillée",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-11#FIXME"
       },
       "geometry": {
@@ -79,7 +77,6 @@
         "name": "Ouest de La Baillée",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
         "link": "/rev-rennes-11#FIXME"
       },
       "geometry": {
@@ -97,8 +94,7 @@
         "line": 11,
         "name": "chemin agricole La Baillée",
         "status": "postponed",
-        "type": "voie-verte",
-        "quality": "unsatisfactory",
+        "type": "velorue",
         "link": "/rev-rennes-11#FIXME"
       },
       "geometry": {
@@ -126,7 +122,7 @@
         "line": 11,
         "name": "La Gravelle Ouest Rocade",
         "status": "done",
-        "type": "voie-verte",
+        "type": "velorue",
         "quality": "satisfactory",
         "link": "/rev-rennes-11#FIXME"
       },
@@ -174,7 +170,7 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "name": "passerelle au dessus de la rocade (et jonction avec le chemin vers Cesson",
+        "name": "passerelle au dessus de la rocade (et jonction avec le chemin vers Cesson)",
         "status": "done",
         "type": "voie-verte",
         "quality": "satisfactory",
@@ -183,16 +179,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-1.587167433801455,48.149945965810694],
-          [-1.587177507573281,48.149903673888865],
-          [-1.587173907194612,48.149863228105595],
-          [-1.587159738081662,48.149820883537615],
-          [-1.587560227508726,48.14955287773523],
-          [-1.587641585706693,48.14949843289696],
-          [-1.587775924327371,48.14940853320718],
-          [-1.587942986222455,48.149316146551286],
-          [-1.588144245050598,48.149191673695604],
-          [-1.588223327699455,48.14912547542334],
+          [-1.5880059399713957,48.149246171852525],
           [-1.588252866533148,48.14910451878259],
           [-1.588325290433048,48.149088033955074],
           [-1.588457865942254,48.14902093872049],
@@ -232,35 +219,93 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "name": "Entrée dans TF Est rocade",
-        "status": "postponed",
-        "type": "bandes-cyclables",
-        "quality": "unsatisfactory",
+        "name": "Vélorue thorigne",
+        "status": "done",
+        "type": "velorue",
+        "quality": "satisfactory",
         "link": "/rev-rennes-11#FIXME"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-1.581127649536421,48.153229965415726],
-          [-1.581338535313902,48.15312769261117],
-          [-1.581695005030808,48.152942863681716],
-          [-1.581783756553951,48.15289684629756],
-          [-1.582416352953744,48.15253025458987],
-          [-1.582423247831916,48.15252552549808],
-          [-1.583666167525536,48.15183760987349],
-          [-1.58380873379359,48.15173460516267],
-          [-1.58386316402515,48.15164904945712],
-          [-1.583984027424373,48.15166969196613],
-          [-1.584159248683695,48.151700714548284],
-          [-1.584359575877661,48.151740237789646],
-          [-1.584531221998204,48.15178515963431],
-          [-1.584719024823605,48.15170617065516],
-          [-1.584833323009287,48.15163272638224],
-          [-1.585369667632148,48.151192702438046],
-          [-1.585609596022262,48.151019266808575],
-          [-1.586009333708859,48.15073758656085],
-          [-1.586852022372797,48.1501615696965],
-          [-1.587167433801455,48.149945965810694]
+          [
+            -1.5880059399713957,
+            48.149246171852525
+          ],
+          [
+            -1.5858493160104388,
+            48.150707171201475
+          ],
+          [
+            -1.5845686131658283,
+            48.15171656463741
+          ]
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 11,
+        "name": "Liaison Thorigné Fouillard mairie",
+        "status": "done",
+        "type": "bilaterale",
+        "quality": "satisfactory",
+        "link": "/rev-rennes-11#FIXME"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.5845675541040123,
+            48.151716125711374
+          ],
+          [
+            -1.5840897789497888,
+            48.151601020444645
+          ],
+          [
+            -1.584023421289146,
+            48.15154789484927
+          ],
+          [
+            -1.5837248118175182,
+            48.15153461344235
+          ],
+          [
+            -1.5835456461349224,
+            48.15154346771379
+          ],
+          [
+            -1.5834792884742797,
+            48.151676281609525
+          ],
+          [
+            -1.583565553432436,
+            48.15173826130979
+          ],
+          [
+            -1.583565553432436,
+            48.1518445120507
+          ],
+          [
+            -1.5825635527619397,
+            48.15239347070627
+          ],
+          [
+            -1.5815814593889002,
+            48.15294242348912
+          ],
+          [
+            -1.581508465962031,
+            48.15301768268728
+          ],
+          [
+            -1.5811368630645575,
+            48.15322575166044
+          ]
         ]
       }
     },
@@ -272,8 +317,7 @@
         "line": 11,
         "name": "Liaison Betton",
         "status": "expected",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory"
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
