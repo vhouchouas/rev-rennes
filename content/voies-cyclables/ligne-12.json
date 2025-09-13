@@ -8,7 +8,7 @@
         "line": 12,
         "name": "Bel Air",
         "status": "wip",
-        "type": "bilaterale",
+        "type": "bidirectionnelle",
         "link": "/rev-rennes-12#FIXME"
       },
       "geometry": {
@@ -36,7 +36,7 @@
         "line": 12,
         "name": "PN au Nord de Maison Blanche",
         "status": "wip",
-        "type": "bilaterale",
+        "type": "bidirectionnelle",
         "link": "/rev-rennes-12#FIXME"
       },
       "geometry": {
