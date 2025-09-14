@@ -1,5 +1,6 @@
 ---
 name: REV Betton
+shortName: Betton
 line: 12
 from: Rennes
 to: Betton

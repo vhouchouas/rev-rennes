@@ -1,5 +1,6 @@
 ---
 name: REV Chantepie
+shortName: Chantepie
 line: 8
 from: Rennes
 to: Chantepie

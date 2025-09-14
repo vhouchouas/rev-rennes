@@ -1,5 +1,6 @@
 ---
 name: REV Vezin
+shortName: Vezin
 line: 14
 from: Rennes
 to: Vezin le Coquet

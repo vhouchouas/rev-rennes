@@ -1,5 +1,6 @@
 ---
 name: REV Vern-sur-Seiche
+shortName: Vern
 line: 15
 from: Rennes
 to: Vern-sur-Seiche

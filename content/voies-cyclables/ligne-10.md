@@ -1,5 +1,6 @@
 ---
 name: REV Acigné
+shortName: Acigné
 line: 10
 from: Rennes
 to: Acigné

@@ -1,5 +1,6 @@
 ---
 name: REV Saint-Grégoire
+shortName: Saint-Grégoire
 line: 13
 from: Rennes
 to: Saint-Grégoire

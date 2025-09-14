@@ -1,5 +1,6 @@
 ---
 name: REV Pacé
+shortName: Pacé
 line: 2
 from: Rennes
 to: Pacé

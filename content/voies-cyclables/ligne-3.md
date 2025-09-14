@@ -1,5 +1,6 @@
 ---
 name: REV du Rheu
+shortName: Le Rheu
 line: 3
 from: Rennes
 to: Le Rheu

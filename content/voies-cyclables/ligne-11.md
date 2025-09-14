@@ -1,5 +1,6 @@
 ---
 name: REV Thorigné-Fouillard
+shortName: Thorigné
 line: 11
 from: Rennes
 to: Thorigné-Fouillard

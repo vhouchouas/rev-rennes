@@ -1,5 +1,6 @@
 ---
 name: REV Rennes
+shortName: Rennes
 line: 0
 from: Rennes
 to: Rennes

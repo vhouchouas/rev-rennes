@@ -24,6 +24,7 @@ export default defineContentConfig({
       type: 'page',
       schema: z.object({
         name: z.string(),
+        shortName: z.string(),
         line: z.number(),
         from: z.string(),
         to: z.string(),

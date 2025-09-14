@@ -1,5 +1,6 @@
 ---
 name: REV de Saint-Jacques-de-la-Lande et Bruz
+shortName: Bruz
 line: 5
 from: Rennes
 to: Bruz

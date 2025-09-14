@@ -1,5 +1,6 @@
 ---
 name: REV Montgermont
+shortName: Montgermont
 line: 1
 from: Rennes
 to: Montgermont

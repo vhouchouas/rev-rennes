@@ -1,5 +1,6 @@
 ---
-name: REV Noyal
+name: REV de Noyal-Châtillon
+shortName: Noyal
 line: 7
 from: Rennes
 to: Noyal-Châtillon-sur-Seiche

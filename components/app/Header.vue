@@ -102,7 +102,7 @@
                         class="-m-2 flex items-start justify-center rounded-lg p-2 hover:bg-gray-50"
                         @click="close()"
                     >
-                      <div class="flex-shrink-0 tooltip-container">
+                      <div class="relative flex-shrink-0 tooltip-container">
                         <div
                             class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
                             :style="`background-color: ${getLineColor(voie.line)}`"
@@ -111,6 +111,9 @@
                         </div>
                         <span class="tooltip-text">{{ voie.name }}</span>
                       </div>
+                      <span class="mt-3 ml-2 text-xs text-gray-500 font-medium truncate w-full">
+                          {{ voie.shortName }}
+                      </span>
                     </NuxtLink>
                   </div>
                   <div class="bg-ra-green-600 text-white text-center py-1">

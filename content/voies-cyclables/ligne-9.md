@@ -1,5 +1,6 @@
 ---
 name: REV Cesson Sud (ZA du SE)
+shortName: Cesson Sud
 line: 9
 from: Rennes
 to: Cesson-Sévigné
