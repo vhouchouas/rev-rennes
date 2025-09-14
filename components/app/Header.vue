@@ -99,22 +99,21 @@
                         v-for="voie in voies"
                         :key="voie.line"
                         :to="getVoieCyclablePath(voie.line)"
-                        class="-m-2 flex items-start justify-center rounded-lg p-2 hover:bg-gray-50"
+                        class="flex flex-col items-center w-15 p-1 rounded-lg hover:bg-gray-50"
                         @click="close()"
                     >
-                      <div class="relative flex-shrink-0 tooltip-container">
-                        <div
-                            class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
-                            :style="`background-color: ${getLineColor(voie.line)}`"
-                        >
-                          {{ voie.line }}
-                        </div>
-                        <span class="tooltip-text">{{ voie.name }}</span>
+                      <div
+                          class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
+                          :style="`background-color: ${getLineColor(voie.line)}`"
+                      >
+                        {{ voie.line }}
                       </div>
-                      <span class="mt-3 ml-2 text-xs text-gray-500 font-medium truncate w-full">
-                          {{ voie.shortName }}
+
+                      <span class="mt-1 text-xs text-center text-gray-500 font-medium truncate w-full">
+                        {{ voie.shortName }}
                       </span>
                     </NuxtLink>
+
                   </div>
                   <div class="bg-ra-green-600 text-white text-center py-1">
                     <NuxtLink to="/tableau-de-bord" class="hover:underline" @click="close()">
@@ -157,9 +156,6 @@
         >
           <div class="pt-5 pb-6 px-5">
             <div class="flex items-center justify-between">
-              <NuxtLink to="/" @click="close()">
-                <img class="h-8 w-auto" src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png" :alt="`logo ${getAssoName()}`">
-              </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
                   class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-ra-green-600"
