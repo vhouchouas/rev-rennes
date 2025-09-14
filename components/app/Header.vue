@@ -94,22 +94,22 @@
             >
               <PopoverPanel v-slot="{ close }" class="absolute left-1/2 z-10 mt-3 w-screen max-w-md -translate-x-1/2 transform px-2 sm:px-0">
                 <div class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5">
-                  <div class="relative grid grid-cols-2 sm:grid-cols-3 gap-2 bg-white px-2 py-6 sm:gap-4 sm:p-4">
+                  <div class="relative grid grid-cols-3 sm:grid-cols-4 gap-2 bg-white px-2 py-6 sm:gap-4 sm:p-4">
                     <NuxtLink
                         v-for="voie in voies"
                         :key="voie.line"
                         :to="getVoieCyclablePath(voie.line)"
-                        class="flex flex-col items-center w-15 p-1 rounded-lg hover:bg-gray-50"
+                        class="flex flex-col items-center min-w-[1.5rem] max-w-[2.5rem] p-1 rounded-lg hover:bg-gray-50"
                         @click="close()"
                     >
                       <div
-                          class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
+                          class="h-8 w-8 rounded-full flex items-center justify-center text-white font-bold"
                           :style="`background-color: ${getLineColor(voie.line)}`"
                       >
                         {{ voie.line }}
                       </div>
 
-                      <span class="mt-1 text-xs text-center text-gray-500 font-medium truncate w-full">
+                      <span class="mt-1 text-xs text-center text-gray-500 font-medium leading-tight sm:truncate">
                         {{ voie.shortName }}
                       </span>
                     </NuxtLink>
