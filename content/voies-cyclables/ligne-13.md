@@ -4,10 +4,49 @@ shortName: Saint-Grégoire
 line: 13
 from: Rennes
 to: Saint-Grégoire
-description: Le REV entre Rennes et Saint-Grégoire le chemin de halage de l'Ille puis l'avenue Gros Malhon et la rue du général de Gaulle dans St Grégoire.
-trafic: 24k vélos/jour
-avancement: 25%
+description: Le REV entre Rennes et Saint-Grégoire, empruntant le chemin de halage de l'Ille, l'avenue Gros Malhon et la rue du Général de Gaulle à Saint-Grégoire, est en grande partie reporté. Sa réalisation est liée aux travaux de la ligne de trambus T3 (horizon 2030).
+trafic: XX vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ---
 
-## Les tronçons (d'ouest en est)
+## Les tronçons (de Rennes vers Saint-Grégoire)
+
+### Halage Ouest jusqu'au niveau de la bellangerais
+
+Halage refait avec un revêtement roulant, présence de piétons sur le trajet mais la largeur du chemin de halage est suffisamment confortable pour ne pas avoir trop de conflit piétons / vélo.
+
+Le revêtement en dur s'arrête après le pont du boulevard d'Armorique. On passe alors sur une portion en stabilisé (refaite récemment).
+
+### Liaison halage - Avenue de Gros Malhon
+
+Liaison à réaliser (abscence de marquage et de signalisation). Il est actuellement possible de faire le trajet envisagé, mais on doit prendre un chemin en terre, qui donne sur un parking d'entreprise. La sortie du parking est possible, mais se fait en contournant une barrière.
+
+On arrive ensuite sur une voie secondaire, desservant des bureaux (Allée Marie Berhaut). On continue cette portion par une voie sans aménagement cyclable (Rue Bahon Rault) avec des risques d'emportiérage (stationnements sur le côté de la chaussée). Le plateau devant le lycée Pierre Mendez France a été refait récemment, mais ne matérialise pas les trajectoires cyclables.
+
+On continue ensuite par la rue de la chaussée (pas d'aménagements cyclables) pour arriver au niveau de l'avenue du Gros Malhon juste avant le pont sur la voie de chemin de fer.
+
+### Pont sur la voie de chemin de fer Rennes St Malo et rond point de la Plesse
+
+Aménagement cyclable sur le trottoir (partagé avec les piétons, largeur limitée entrainant des conflits vélos / piétons).
+
+Tronçon qui devrait être traité dans le cadre du projet Trambus T3.
+
+L'aménagement continue après le pont, avec la présence d'une signalétique "carré vert" devant le Leclerc drive avant de disparaitre au niveau du rond point de la Plesse. Il y a ici un problème de marquage / continuité cyclable dans le sens Rennes / St Grégoire (absence de marquages au sol au niveau du rond point de la Plesse, les cyclistes n'ont plus de trajectoire matérialisée).
+
+Le sens Saint Grégoire / Rennes est mieux traité, le marquage indiquant bien comment traverser la rue du Chesnay Beauregard, et fait la continuité jusqu'au pont SNCF. On note cependant un conflit avec l'arrêt de bus "La Plesse" du C1, avec souvent des usagers du bus qui passent derrière l'abribus, sur la trajectoire des vélos.
+
+### Rond point de la Plesse jusqu'à la station service
+
+Deux pistes cyclables unidirectionnelles rue du Général de Gaulle. Pistes séparées de la chaussée utilisables. On note juste un conflit derrière l'arrêt La plesse du C1 (direction St Grégoire), car la piste est juste derrière l'arrêt de bus.
+
+Nécessité de donner la priorité aux cyclistes au niveau de la sortie nord du leclerc. Actuellement, les cycles ont un cédez le passage alors que les automobilistes doivent ensuite s'arrêter (rond point). Même chose après la station service avant de traverser la rocade.
+
+### Traversée de la rocade
+
+Pont à largeur limitée. Cheminement piétons/vélos à réaliser sur un seul côté et en réduisant légèrement la largeur de la voirie. 
+
+### Rue du général de Gaulle jusqu'à la forge
+
+Pistes cyclables unidirectionnelles sur trottoir.
+
+On note des intersections problématiques, avec une règle de priorité confuse (sens nord-sud).

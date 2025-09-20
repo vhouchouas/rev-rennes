@@ -9,7 +9,7 @@ trafic: xxx vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ---
 
-## Les tronçons (du Nord au Sud)
+## Les tronçons (de Rennes vers Bruz)
 
 ℹ️️ Tronçon Pilate / Jean Pont / Jeanne Bohec ℹ️️
 Ce tronçon a fait l'objet de débat avec Rennes Métropole car il ne correspond pas à la préconisation de RA comme tracé optimisé pour relier St-Jacques à Rennes. Il avait été préconisé d'aménager le boulevard Mermoz car plus direct. Un ouvrage d'art était nécessaire afin d'enjamber la voie ferrée sur le boulevard, cet investissement n'a ni été retenu, ni étudié sur sa faisabilité et son coût éventuel.
