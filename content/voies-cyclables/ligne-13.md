@@ -49,4 +49,4 @@ Pont à largeur limitée. Cheminement piétons/vélos à réaliser sur un seul c
 
 Pistes cyclables unidirectionnelles sur trottoir.
 
-On note des intersections problématiques, avec une règle de priorité confuse (sens nord-sud).
+On note des intersections problématiques, avec une règle de priorité confuse (sens sud-nord).

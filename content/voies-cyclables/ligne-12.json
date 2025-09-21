@@ -7,14 +7,14 @@
       "properties": {
         "line": 12,
         "name": "Bel Air",
-        "status": "wip",
+        "status": "done",
         "type": "bidirectionnelle",
-        "link": "/rev-rennes-12#FIXME"
+        "link": "/rev-rennes-12#bel-air",
+        "quality": "satisfactory"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-1.651236088784382,48.15551509309572],
           [-1.650285407670166,48.15701963223441],
           [-1.649207363749138,48.159046543138395],
           [-1.648762286368325,48.159788865318696],
@@ -34,18 +34,19 @@
       "type": "Feature",
       "properties": {
         "line": 12,
-        "name": "PN au Nord de Maison Blanche",
-        "status": "wip",
+        "name": "Voie de la Liberté",
+        "status": "done",
         "type": "bidirectionnelle",
-        "link": "/rev-rennes-12#FIXME"
+        "link": "/rev-rennes-12#voie-de-la-liberté",
+        "quality": "unsatisfactory"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-1.655390246028958,48.150671401310795],
           [-1.654807326207933,48.15182767828117],
           [-1.652233493394321,48.15416416279589],
-          [-1.651236088784382,48.15551509309572]
+          [-1.651236088784382,48.15551509309572],
+          [-1.650285407670166,48.15701963223441]
         ]
       }
     },
@@ -54,15 +55,35 @@
       "type": "Feature",
       "properties": {
         "line": 12,
-        "name": "Maison Blanche au sud du PN",
-        "status": "done",
+        "name": "Franchissement voie ferrée",
+        "status": "wip",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
-        "link": "/rev-rennes-12#FIXME"
+        "link": "/rev-rennes-12#franchissement-de-la-voie-ferrée-pn4"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [-1.655390246028958,48.150671401310795],
+          [-1.654807326207933,48.15182767828117]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "name": "Maison Blanche",
+        "status": "postponed",
+        "type": "voie-verte",
+        "link": "/rev-rennes-12#voie-verte-maison-blanche"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-1.656914830142202,48.147234588830294],
+          [-1.656777008015668,48.14758676948042],
+          [-1.656538003466562,48.148459030651836],
           [-1.656455479096223,48.148805042379664],
           [-1.65651258937025,48.14905246357014],
           [-1.656491505745747,48.149302664949914],
@@ -83,20 +104,16 @@
       "properties": {
         "line": 12,
         "name": "Du giratoire La Trudais au sud de Maison Blanche",
-        "status": "done",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
-        "link": "/rev-rennes-12#FIXME"
+        "status": "wip",
+        "type": "voie-verte",
+        "link": "/rev-rennes-12#voie-verte-sud-maison-blanche"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [-1.656255065586627,48.14442668510566],
           [-1.656821917294083,48.144900520535394],
-          [-1.656914830142202,48.147234588830294],
-          [-1.656777008015668,48.14758676948042],
-          [-1.656538003466562,48.148459030651836],
-          [-1.656455479096223,48.148805042379664]
+          [-1.656914830142202,48.147234588830294]
         ]
       }
     },
@@ -151,30 +168,10 @@
       "type": "Feature",
       "properties": {
         "line": 12,
-        "name": "Accès la coulée verte",
-        "status": "wip",
-        "type": "aucun",
-        "link": "/rev-rennes-12#FIXME"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-            [-1.658614458999254,48.14135819413952],
-            [-1.658231713291149,48.141477771317724],
-            [-1.657619699903741,48.141438972145664]
-        ]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 12,
         "name": "vers la Coulée verte - nord",
-        "status": "done",
+        "status": "postponed",
         "type": "voie-verte",
-        "quality": "unsatisfactory",
-        "link": "/rev-rennes-12#FIXME"
+        "link": "/rev-rennes-12##prairies-saint-martin-et-coulée-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -194,7 +191,9 @@
           [-1.660385602629864,48.141261301756934],
           [-1.659764497165557,48.141295746286076],
           [-1.658777664554231,48.14130880402764],
-          [-1.658614458999254,48.14135819413952]
+          [-1.658614458999254,48.14135819413952],
+          [-1.658231713291149,48.141477771317724],
+          [-1.657619699903741,48.141438972145664]
         ]
       }
     },
@@ -206,7 +205,7 @@
         "name": "coulée verte (derrière l'hopital de la Tauvrais)",
         "status": "postponed",
         "type": "voie-verte",
-        "link": "/rev-rennes-12#FIXME"
+        "link": "/rev-rennes-12#prairies-saint-martin-et-coulée-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -234,7 +233,7 @@
         "name": "coulée verte (arrivée sur Prairies St Martin)",
         "status": "postponed",
         "type": "voie-verte",
-        "link": "/rev-rennes-12#FIXME"
+        "link": "/rev-rennes-12#prairies-saint-martin-et-coulée-verte"
       },
       "geometry": {
         "type": "LineString",
