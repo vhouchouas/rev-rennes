@@ -6,7 +6,7 @@
           Le {{ getRevName() }}, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          C'est le nom donné au projet de réseau cyclable porté par Rennes Métropole.<br>Concrètement, c'est une voie cyclable large (au moins 3 mètres), souvent sous forme de piste bidirectionnelle et séparée des voitures. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les quartiers rennais aux communes de la périphérie de la métropole.
+          C'est le nom donné au projet de réseau cyclable porté par Rennes Métropole.<br>Concrètement, c'est une voie cyclable large (au moins 3 mètres), souvent sous forme de piste bidirectionnelle et séparée des voitures. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les quartiers rennais aux communes de première ou deuxième couronne.
         </p>
       </div>
     </div>
