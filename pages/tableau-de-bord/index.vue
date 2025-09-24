@@ -18,14 +18,12 @@
           <h2 class="text-center text-2xl font-bold">
             <LineLink :line="String(getLine(voie))" />
           </h2>
-          <div class="text-center text-xl text-gray-900">
+          <h2  class="text-center text-xl text-gray-900">
+            {{ getLineTitle(voie) }}
+          </h2>
+          <div class="text-center text-l text-gray-900">
             Distance totale prévue : <span class="font-bold" :style="`color: ${getLineColor(getLine(voie))}`">
               {{ displayDistanceInKm(getTotalDistance([voie]), 1) }}
-            </span>
-          </div>
-          <div v-if="getTrafic(voie)" class="text-center text-sm text-gray-900">
-            Fréquentation max 2030: <span class="font-bold" :style="`color: ${getLineColor(getLine(voie))}`">
-              {{ getTrafic(voie) }}
             </span>
           </div>
           <div>
@@ -50,9 +48,15 @@ const { getLineColor } = useColors();
 const { getTotalDistance, displayDistanceInKm } = useStats();
 const { displayQuality } = useConfig();
 
-const { data: geojsons } = await useAsyncData(() => {
-  return queryCollection('voiesCyclablesGeojson').all();
+const { data: geojsons } = await useAsyncData(async () => {
+  const allFiles = await queryCollection('voiesCyclablesGeojson').all();
+  return allFiles.sort((a, b) => {
+    const numA = parseInt(a.title.replace('Ligne ', ''), 10);
+    const numB = parseInt(b.title.replace('Ligne ', ''), 10);
+    return numA - numB;
+  });
 });
+
 const { data: mds } = await useAsyncData(() => {
   return queryCollection('voiesCyclablesPage').all();
 });
@@ -60,6 +64,12 @@ const { data: mds } = await useAsyncData(() => {
 function getLine(geojson: Collections['voiesCyclablesGeojson']): number {
   const lineStringFeature = geojson.features.find(isLineStringFeature);
   return lineStringFeature?.properties.line as number;
+}
+
+function getLineTitle(geojson: Collections['voiesCyclablesGeojson']): string {
+  const line = getLine(geojson);
+  const lineProp = mds.value?.find((md) => md.line === line)
+  return lineProp?.from + " -> " + lineProp?.to as string;
 }
 
 function getTrafic(geojson: Collections['voiesCyclablesGeojson']): string {

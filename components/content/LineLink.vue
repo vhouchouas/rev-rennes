@@ -2,7 +2,7 @@
   <NuxtLink :to="href" :style="`color: ${color}; text-decoration-color: ${color};`">
     Ligne
     <span
-      class="h-6 w-6 rounded-full inline-flex items-center justify-center text-white"
+      class="h-7 w-7 rounded-full inline-flex items-center justify-center text-white"
       :style="`background-color: ${color};`"
     >
       {{ line }}
