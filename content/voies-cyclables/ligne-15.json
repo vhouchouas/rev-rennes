@@ -187,6 +187,20 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "danger-rue-des-loges",
+        "type": "danger",
+        "name": "Danger traversée de la rue des Loges",
+        "danger": "L'absence de ralentisseur (régression) et d'une signalisation verticale satisfaisante rend cette traversée périlleuse (volume de trafic important)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6315769781718927, 48.07908714115865]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
         "line": 15,
         "name": "Rue du Bois de Soeuvres (nord)",
         "status": "done",
@@ -233,6 +247,20 @@
           [-1.62900552574686,48.07677839967318],
           [-1.629328651601542,48.0770486281605]
         ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "danger-7-frigo",
+        "type": "danger",
+        "name": "Danger sortie voie rapide",
+        "danger": "La vitesse excessive de véhicules en sortie de voie rapide peut être très dangereuse pour les cyclistes. L'arrêt obligatoire (stop) pour les cyclistes en témoigne."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6227868729044417, 48.06974942324817]
       }
     },
 
@@ -319,6 +347,19 @@
       }
     },
 
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "danger-val-d-orson",
+        "type": "danger",
+        "name": "Danger giratoire du Val d'Orson",
+        "danger": "Malgré la priorité des cyclistes et le marquage résine de la piste, il existe toujours un risque important pour les cyclistes sur ce giratoire (manque de visibilité, angles morts)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.618070031854927, 48.06338047669257]
+      }
+    },
 
     {
       "type": "Feature",
