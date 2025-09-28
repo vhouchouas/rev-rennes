@@ -245,7 +245,7 @@
         "doneAt": "01/01/2000",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-15#de-la-hallerais-au-giratoire-du-val-d'orson"
+        "link": "/rev-rennes-15#de-la-hallerais-au-giratoire-du-val-dorson"
       },
       "geometry": {
         "type": "LineString",
@@ -292,7 +292,7 @@
         "status": "done",
         "type": "bilaterale",
         "quality": "satisfactory",
-        "link": "/rev-rennes-15#giratoire-du-val-d-orson"
+        "link": "/rev-rennes-15#giratoire-du-val-dorson"
       },
       "geometry": {
         "type": "LineString",
@@ -329,7 +329,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-15#FIXME"
+        "link": "/rev-rennes-15#sud-giratoire-du-val-dorson"
       },
       "geometry": {
         "type": "LineString",
