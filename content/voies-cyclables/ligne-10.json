@@ -252,7 +252,7 @@
         "status": "done",
         "type": "voie-bus",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-10#FIXME"
+        "link": "/rev-rennes-10#voie-bus-vélos-du-boulevard-saint-roch"
       },
       "geometry": {
         "type": "LineString",
@@ -281,11 +281,11 @@
       "properties": {
         "id": "st-roch",
         "line": 10,
-        "name": "Bd St Roch",
+        "name": "Boulevard St Roch",
         "status": "done",
         "type": "voie-verte",
-        "quality": "satisfactory",
-        "link": "/rev-rennes-10#FIXME"
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-10#voie-verte-longeant-le-boulevard-saint-roch"
       },
       "geometry": {
         "type": "LineString",
@@ -307,12 +307,12 @@
       "properties": {
         "id": "déviation-parc-fin-st-roch",
         "line": 10,
-        "name": "Déviation à la fin du bd de St Roch",
+        "name": "Voie verte Boulevard Saint-Roch - Labo Cesson",
         "doneAt": "01/05/2025",
         "status": "done",
         "type": "voie-verte",
-        "quality": "satisfactory",
-        "link": "/rev-rennes-10#FIXME"
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-10#voie-verte-boulevard-saint-roch-labo-cesson"
       },
       "geometry": {
         "type": "LineString",
