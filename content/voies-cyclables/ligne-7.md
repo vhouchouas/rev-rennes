@@ -48,3 +48,6 @@ Globalement qualitatif :
 * le REV ne va pas tout droit vers le centre-ville de Noyal mais dévie vers la rue de l'ancienne gare
 
 Plus ennuyeux, les priorités ne sont pas cohérentes en inter-urbain : la piste a la même priorité que la voie générale dans les carrefours avec les axes les plus importants, qui ont un stop pour accéder à la départementale. Mais quelques accès secondaires ont la priorité sur la piste (mais pas sur la départementale) alors qu'il s'agit d'impasse et même d'un simple accès à un garage à un endroit
+
+# Passerelle Orson
+La passerelle sur le ruisseau de l'Orson voit la largeur réduite à 2m20 entre les deux lignes de rive (peut-être 2m30 entre le muret à l'ouest et la barrière de sécurité à l'est), ce qui rends les croisements et dépassements moins confortables.

@@ -379,6 +379,24 @@
       }
     },
 
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "danger-largeur-pont",
+        "type": "danger",
+        "name": "2m20 de large sur la passerelle sur l'Orson",
+        "line": 7,
+        "danger": "Largeur réduite à 2m20 entre les 2 lignes de rive",
+        "link": "/rev-rennes-7#passerelle-orson"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.66485852,
+          48.04890313
+        ],
+        "type": "Point"
+      }
+    },
 
     {
       "type": "Feature",
