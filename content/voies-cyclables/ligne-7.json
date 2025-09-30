@@ -314,6 +314,24 @@
       }
     },
 
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "danger-largeur-pont",
+        "type": "danger",
+        "name": "1m90 de large à l'arrêt de bus",
+        "line": 7,
+        "danger": "Largeur réduite à 1m90 entre les 2 lignes de rive à l'arrêt Mail Lancé",
+        "link": "/rev-rennes-7#arret-de-bus-mail-lancé"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.66387682,
+          48.06364736
+        ],
+        "type": "Point"
+      }
+    },
 
     {
       "type": "Feature",
