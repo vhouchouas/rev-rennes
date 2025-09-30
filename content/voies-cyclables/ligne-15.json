@@ -227,6 +227,34 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "danger-allée-du-blosne1",
+        "type": "danger",
+        "name": "Danger traversée de l'allée du Blosne",
+        "danger": "De nombreux automobilistes grille en venant de l'est"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6282433,48.0761872]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "danger-allée-du-blosne2",
+        "type": "danger",
+        "name": "Danger traversée de l'allée du Blosne",
+        "danger": "De nombreux automobilistes grillent les stops dans les deux sens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.62517016,48.07440557]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
         "line": 15,
         "name": "Rue du Bois de Soeuvres (sud)",
         "status": "done",
@@ -256,7 +284,7 @@
         "id": "danger-7-frigo",
         "type": "danger",
         "name": "Danger sortie voie rapide",
-        "danger": "La vitesse excessive de véhicules en sortie de voie rapide peut être très dangereuse pour les cyclistes. L'arrêt obligatoire (stop) pour les cyclistes en témoigne."
+        "danger": "La vitesse excessive de véhicules en sortie de voie rapide peut être très dangereuse pour les cyclistes. L'arrêt obligatoire (stop) pour les cyclistes en témoigne. D'autre part des automobilistes se garent régulièrement sur la sortie de la piste en rive sud."
       },
       "geometry": {
         "type": "Point",
