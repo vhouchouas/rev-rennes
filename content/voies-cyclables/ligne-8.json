@@ -6,8 +6,9 @@
       "properties": {
         "line": 8,
         "name": "Rue de Chateaugiron (halte La Poterie)",
-        "status": "wip",
+        "status": "done",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/rev-rennes-8#rue-de-chateaugiron"
       },
       "geometry": {
