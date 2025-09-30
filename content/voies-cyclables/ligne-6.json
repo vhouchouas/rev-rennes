@@ -641,6 +641,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "danger-chartres-BAU-étriute",
+        "type": "danger",
+        "name": "Piste rétrécie à 1m65",
+        "doneAt":"01/05/2025",
+        "line": 6,
+        "danger": "La largeur utile est de seulement 1m66 entre l'herbe qui pousse dans l'enrobé et le muret, juste avant le raccord qui descend vers la droite. 1m80 de large en comptant l'herbe, ce qui est totalement insuffisant pour une bidir."
+      },
+      "geometry": {
+        "coordinates": [
+          -1.69935989,
+          48.06204820
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "danger-chartres-BAU",
         "type": "danger",
         "name": "Portion sur BAU (bande d'arrêt d'urgence)",
