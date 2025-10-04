@@ -16,7 +16,9 @@ Il s'agit du chemin de halage, doublé par endroit de la route qui desservait le
 Certaines passerelles sont accessibles à vélo, d'autres non (escaliers).
 
 ### Boulevard de Chézy
-Il s'agit de l'un des premiers tronçons réalisés.
+Il s'agit de l'un des premiers tronçons continu de type REV réalisé en supprimant une des deux voies de circulation. Il part de la place de Bretagne jusqu'à la rue de Saint-Malo en empruntant un carrefour à feu rue Legraverend. A noter que le revètement commence à sérieusement se déteriorer par endroits.
+
+![](/images/ligne-0/REV-Rennes-ligne-0-chézy.jpg)
 
 ### Place de Bretagne
 
@@ -40,9 +42,10 @@ Bandes cyclables (discontinues par endroit au sud) ou couloir de bus avec cepend
 
 ## L'axe Est-Ouest
 
-### Quais Aristide Briand
+### Quais Aristide Briand / Sergent Maginot
+Il s'agit de simples bandes cyclables colorés de part et d'autre de la Vilaine, qui ne dispose d'aucun séparateur avec la voie de circulation générale.
 
-Il s'agit de simples bandes cyclables de part et d'autre de la Vilaine, sans aucune sécurisation.
+![](/images/ligne-0/REV-Rennes-ligne-0-aristide-briand.jpg)
 
 ### Quais Lamartine
 

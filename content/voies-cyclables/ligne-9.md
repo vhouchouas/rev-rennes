@@ -11,10 +11,10 @@ cover: https://osuny-1b4da.kxcdn.com/0rpki2xl2ixvewg8vnufslvdmvmr?format=webp&wi
 
 ## Les tronçons (d'ouest en est)
 ### Cimetière de l'Est
-Depuis le pont Villebois Mareuil, le REV Cesson emprunte tout d'abord la rue Arthur Fontaine en cohabitation (déserte résidentielle) puis reprend la rue Auguste Pavie côté nord en piste bidirectionnelle jusqu'à la rue de Bray.
+Depuis le pont Villebois Mareuil, le REV Cesson emprunte tout d'abord la rue Arthur Fontaine en cohabitation (déserte résidentielle). La rue n'est pas aménagée (aucun revêtement différencié) et beaucoup de voitures y sont stationnées, parfois de manière anarchique.
 
 ### Écopôle sud-est
-La piste bidirectionnelle continue côté nord de la rue de Bray jusqu'au giratoire du boulevard des Alliés. Se faisant, la piste cyclable traversent plusieurs entrées compliquée avec des entreprises de logistiques.
+La piste bidirectionnelle continue côté nord de la rue Auguste Pavie jusqu'à la rue de Bray qui se poursuit jusqu'au giratoire du boulevard des Alliés. Se faisant, la piste cyclable traverse plusieurs entrées compliquées avec des entreprises de logistiques.
 
 ### Quartier de la Monniais
 La traversée du boulevard des Alliés se fait sur un ralentisseur avec priorité vélo. Deux voies entrantes (ce qui ne garantit pas un bon niveau de sécurité) et une voie sortante sont à traverser. L'itinéraire suit ensuite la rue de Bray avec plusieurs giratoire à traverser avec un niveau de sécurité et de confort variable.

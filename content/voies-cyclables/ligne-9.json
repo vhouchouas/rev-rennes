@@ -58,6 +58,19 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "danger5-cesson",
+        "type": "danger",
+        "name": "Sorties de camions dangereuses",
+        "danger": "Les sorties de camion dans ce secteur sont dangereuses sur cette section, il faut une grande vigilance à chacune de ces sorties."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6202400360919853, 48.10742663941767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "line": 9,
         "id": "Arthur Fontaine",
         "name": "Arthur Fontaine",
