@@ -30,3 +30,62 @@ Le linéaire est ensuite une voie verte avec un revêtement stabilisé relativem
 La voie verte continue ensuite via une passerelle jusqu'à l'aire des gens du voyage / Labo Cesson, toujours en stabilisé et toujours interdite aux piétons.
 
 ![](/images/ligne-10/REV-Acigne-ligne-10-voie-verte-labo-cesson.jpg)
+
+### Vélorue Pommeraie
+L'itinéraire se poursuit sous forme de vélorue avec un niveau d'aménagement minimaliste. Il y a cependant très peu de flux motorisé depuis que la route a été barrée pour les voitures rendant ce passage plutôt satisfaisant.
+
+![](/images/ligne-10/REV-Acigne-ligne-10-velorue-pommeraie.jpg)
+
+### Fin boulevard Saint-Roch
+Un léger contournement termine finalement le tronçon parallèle au boulevard Saint-Roch. Il s'agit d'une nouvelle piste cyclable bidirectionnelle satisfaisante.
+
+![](/images/ligne-10/REV-Acigne-ligne-10-fin-contournement-st-roch.jpg)
+
+### Village des collectivités jusqu'à la porte de Tizé
+Cette section longue de presque 1,5km longe la D86 sous forme de pistes unidirectionnelles. Dans le sens Rennes -> Acigné, il faut traversée au niveau du giratoire. Cette traversée se fait via un plateau et une priorité accordée explicitement aux cyclistes, la voie est malheureusement trop large à ce niveau avec un respect de la priorité aléatoire. 
+![](/images/ligne-10/REV-Acigne-ligne-10-village-collectivite.jpg)
+
+La section courante n'est pas très agréable du fait de la vitesse des flux motorisés, mais assez confortable bien que peu large de part et d'autre (environ 2m).
+![](/images/ligne-10/REV-Acigne-ligne-10-d86.jpg)
+
+### Giratoire porte de Tizé
+Le passage du giratoire de Tizé s'effectue sous forme de pistes unidirectionnelles, prioritaires sur le trafic entrant et non prioritaire sur le trafic sortant. Les véhicules peuvent rouler vite en sortie ou entrée de rocade, les intersections sont donc problématiques, avec notamment un manque de visibilité sur les branches entrantes venant de la rocade (confirmé par les remontés du baromètre vélo 2025). 
+
+![](/images/ligne-10/REV-Acigne-ligne-10-tize-sortant.jpg)
+![](/images/ligne-10/REV-Acigne-ligne-10-tize-entrant.jpg)
+
+### Est de la porte de Tizé
+Ce tronçon s'effectue sous forme de pistes unidirectionnelles d'une faible largeur (parfois inférieure à 2 mètres utile).
+Dans l'autre sens, une petite section est mélangé avec un flux motorisé de déserte.
+
+![](/images/ligne-10/REV-Acigne-ligne-10-est-tize.jpg)
+
+### Giratoire intersection Thorigné-Fouillard
+La piste cyclable contourne ensuite le giratoire qui permet de remonter vers Thorigné Fouillard. La piste cyclable y est prioritaire sur le flux motorisé. Des refus de priorité peuvent être rencontrés mais les traversés se font avec une bonne co-visibilité.
+
+![](/images/ligne-10/REV-Acigne-ligne-10-giratoire-thorigne.jpg)
+
+### Section jusqu'à l'entrée d'Acigné
+La piste cyclable se poursuit sur 2,3 kilomètres jusqu'à l'entrée d'Acigné. Quelques sections sont entrecoupés de rues adjacentes sur lesquelles la piste cyclable a la priorité mais oblige parfois à ralentir très fortement à ces intersections sans que cela soit forcément justifié.
+
+![](/images/ligne-10/REV-Acigne-ligne-10-jusqua-entree-acigne.jpg)
+
+### Passage en bidirectionnelle
+La piste cyclable se retrouve ensuite uniquement en section nord (via une traversée prioritaire sur plateau) sous forme de piste bidrectionnelle. Cette section est assez large avec un revêtement différencié.
+
+![](/images/ligne-10/REV-Acigne-ligne-10-entree-acigne-bidi.jpg)
+
+### Section voie verte
+La piste cyclable se transforme ensuite en voie verte sur une petite section. Sur celle-ci, des voitures sont régulièrement garées. Il est dommage de ne pas avoir prolongé la piste cyclable moyennant quelques ajustements et suppression de stationnements. 
+
+![](/images/ligne-10/REV-Acigne-ligne-10-entree-acigne-voie-verte.jpg)
+
+### Vélorue Saint-Exupéry
+La voie verte se transforme ensuite en vélorue dans la rue Saint-Exupéry. Celle-ci est bien aménagée de manière à rendre le cycliste légitime dans ce quartier résidentiel ou il existe peu de trafic motorisé.
+
+![](/images/ligne-10/REV-Acigne-ligne-10-entree-acigne-velorue-saint-exupery.jpg)
+
+### Fin du REV
+Le REV se termine par une piste bidirectionnelle avec une couleur distincte de l'espace pour les piétons. Il dessert les équipements sportifs et se termine avec un lien vers l'est en direction de l'avenue des Verdaudais et un lien vers le sud de la ville via la rue du stade.
+
+![](/images/ligne-10/REV-Acigne-ligne-10-entree-acigne-fin-rev.jpg)
