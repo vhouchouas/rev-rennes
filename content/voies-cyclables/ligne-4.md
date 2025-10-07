@@ -1,6 +1,6 @@
 ---
 name: REV de Cesson Nord
-shortName: Cesson
+shortName: Cesson Nord
 line: 4
 from: Rennes
 to: Cesson
