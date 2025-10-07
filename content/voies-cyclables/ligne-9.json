@@ -121,7 +121,7 @@
         "doneAt":"01/01/2023",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "rev-rennes-9#écopôle-sud-est"
+        "link": "/rev-rennes-9#écopôle-sud-est"
       },
       "geometry": {
         "type": "LineString",
