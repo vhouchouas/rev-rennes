@@ -13,11 +13,24 @@ cover: https://osuny-1b4da.kxcdn.com/0rpki2xl2ixvewg8vnufslvdmvmr?format=webp&wi
 ### Cimetière de l'Est
 Depuis le pont Villebois Mareuil, le REV Cesson emprunte tout d'abord la rue Arthur Fontaine en cohabitation (déserte résidentielle). La rue n'est pas aménagée (aucun revêtement différencié) et beaucoup de voitures y sont stationnées, parfois de manière anarchique.
 
+
+### Rue Auguste Pavie
+
+La piste bidirectionnelle continue côté nord de la rue Auguste Pavie en longeant le techni-centre SNCF jusqu'à la rue de Bray.
+
+![](/images/ligne-9/rev9-auguste-pavie-1.jpg)
+
+
 ### Écopôle sud-est
-La piste bidirectionnelle continue côté nord de la rue Auguste Pavie jusqu'à la rue de Bray qui se poursuit jusqu'au giratoire du boulevard des Alliés. Se faisant, la piste cyclable traverse plusieurs entrées compliquées avec des entreprises de logistiques.
+
+La piste continue naturellement le long de la rue de Bray qui se poursuit jusqu'au giratoire du boulevard des Alliés. Se faisant, la piste cyclable traverse plusieurs entrées compliquées avec des entreprises de logistiques.
+
+![](/images/ligne-9/rev9-ecopole-sud-est.jpg)
 
 ### Quartier de la Monniais
 La traversée du boulevard des Alliés se fait sur un ralentisseur avec priorité vélo. Deux voies entrantes (ce qui ne garantit pas un bon niveau de sécurité) et une voie sortante sont à traverser. L'itinéraire suit ensuite la rue de Bray avec plusieurs giratoire à traverser avec un niveau de sécurité et de confort variable.
+
+![](/images/ligne-9/rev9-giratoire-allies.jpg)
 
 ### Parc de la Monniais et halte SNCF
 Une piste cyclable bidirectionnelle rejoint la halte SNCF en longeant le parc de la Monniais. La piste s'interrompt au niveau du pont de la LGV avec une seule voie de circulation et une perte de priorité pour les cyclistes. Les usagers sont ensuite en cohabitation jusqu'à la halte SNCF avec une traversée avec visibilité limitée. 
