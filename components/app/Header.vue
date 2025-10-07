@@ -63,7 +63,7 @@
                       Plan officiel
                     </NuxtLink>
                     <NuxtLink
-                      to="https://barometre.parlons-velo.fr/2021/carte/#11.66/48.1088/-1.644"
+                      to="https://www.barometre-velo.fr/2025/carte/?c=35238#10.51/48.0972/-1.6761"
                       target="_blank"
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-ra-green-600"
                       @click="close()"
