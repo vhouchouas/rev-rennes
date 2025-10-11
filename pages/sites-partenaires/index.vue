@@ -6,7 +6,7 @@
           Sites partenaires
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          Découvrez d'autres observatoires à travers le pays, dont certains sont basés sur le travail en Open Source de <a class="text-ra-blue" href="https://cyclopolis.fr/">Cyclopolis La Ville à Vélo</a>.
+          Découvrez d'autres observatoires à travers le pays, dont certains, comme le nôtre, sont basés sur le travail en Open Source de <a class="text-ra-blue" href="https://cyclopolis.fr/">Cyclopolis, La Ville à Vélo</a> (Lyon).
         </p>
       </div>
       <div class="mt-12 grid gap-16 pt-12 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-4">

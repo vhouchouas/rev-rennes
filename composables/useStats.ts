@@ -136,7 +136,7 @@ export const useStats = () => {
     const totalDistance = getDistance({ features });
     const doneDistance = getDistance({ features: doneFeatures });
     const wipDistance = getDistance({ features: wipFeatures });
-    const plannedDistance = getDistance({ features: plannedFeatures });
+    //const plannedDistance = getDistance({ features: plannedFeatures });
     const postponedDistance = getDistance({ features: postponedFeatures });
 
     function getPercent(distance: number) {
@@ -155,13 +155,13 @@ export const useStats = () => {
         distance: wipDistance,
         percent: getPercent(wipDistance),
         class: 'text-ra-green-600 font-normal'
-      },
+      },/*
       planned: {
         name: 'Prévus',
         distance: plannedDistance,
         percent: getPercent(plannedDistance),
         class: 'text-black font-semibold'
-      },
+      },*/
       postponed: {
         name: 'Reportés',
         distance: postponedDistance,

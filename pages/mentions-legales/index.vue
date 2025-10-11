@@ -111,6 +111,9 @@
           >Mentions légales</span>
         </h1>
       </div>
+      <p>
+        Ce site WEB a été créé grâce à la con
+      </p>
       <div class="mt-6 prose prose-lg text-gray-500 mx-auto">
         <h2>Hébergement</h2>
         <p>
@@ -134,7 +137,7 @@
 
         <h2>Réutilisation du contenu du site</h2>
         <p>
-          Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « Cyclopolis » (avec lien vers <a href="https://cyclopolis.fr" target="_blank">https://cyclopolis.fr</a>) et du nom de l’association contributrice « {{ getAssoName() }} » (avec lien vers <a :href="`${getAssoLink()}`" target="_blank">{{ getAssoLink() }}</a>).
+          Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « Cyclopolis » (avec lien vers <a href="https://cyclopolis.rayonsdaction.org" target="_blank">https://cyclopolis.fr</a>) et du nom de l’association contributrice « {{ getAssoName() }} » (avec lien vers <a :href="`${getAssoLink()}`" target="_blank">{{ getAssoLink() }}</a>).
         </p>
 
         <h2>Limitation de responsabilité</h2>

@@ -168,7 +168,7 @@
         "id": "BvdTA3",
         "line": 0,
         "name": "Boulevard de la Tour d'Auvergne 3",
-        "status": "planned",
+        "status": "postponed",
         "type": "voie-bus",
         "link": "/rev-rennes-0#boulevard-de-la-tour-dauvergne"
       },
@@ -190,7 +190,7 @@
         "id": "Pompidou1",
         "line": 0,
         "name": "Boulevard Pompidou 1",
-        "status": "planned",
+        "status": "postponed",
         "type": "bilaterale",
         "link": "/rev-rennes-0#boulevard-pompidou"
       },
@@ -210,7 +210,7 @@
         "id": "Pompidou2",
         "line": 0,
         "name": "Boulevard Pompidou 2",
-        "status": "planned",
+        "status": "postponed",
         "type": "voie-bus",
         "link": "/rev-rennes-0#boulevard-pompidou"
       },
@@ -231,7 +231,7 @@
         "id": "Nantes1",
         "line": 0,
         "name": "Rue de Nantes 1",
-        "status": "planned",
+        "status": "postponed",
         "type": "bandes-cyclables",
         "link": "/rev-rennes-0#FIXME"
       },
@@ -254,7 +254,7 @@
         "id": "Nantes2",
         "line": 0,
         "name": "Rue de Nantes 2",
-        "status": "planned",
+        "status": "postponed",
         "type": "bandes-cyclables",
         "link": "/rev-rennes-0#rue-de-nantes"
       },
@@ -308,7 +308,7 @@
         "id": "duguay-trouin",
         "line": 0,
         "name": "Quais Duguay Trouin",
-        "status": "planned",
+        "status": "postponed",
         "type": "velorue",
         "link": "/rev-rennes-0#quais-duguay-trouin"
       },
@@ -331,7 +331,7 @@
         "id": "lamartine",
         "line": 0,
         "name": "Quais Lamartine",
-        "status": "planned",
+        "status": "postponed",
         "type": "velorue",
         "link": "/rev-rennes-0#quais-lamartine"
       },
@@ -351,7 +351,7 @@
       "properties": {
         "line": 0,
         "name": "Quai Chateaubriand",
-        "status": "planned",
+        "status": "postponed",
         "type": "velorue",
         "quality": "satisfactory",
         "link": "/rev-rennes-0#FIXME"
@@ -1258,8 +1258,8 @@
       "type": "Feature",
       "properties": {
         "line": 0,
-        "name": "Bd Villebois-Mareuil (sud)",
-        "status": "postponed",
+        "name": "Boulevard Villebois-Mareuil (sud)",
+        "status": "wip",
         "type": "bandes-cyclables",
         "link": "/rev-rennes-0#FIXME"
       },
