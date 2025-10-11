@@ -5,7 +5,6 @@ line: 13
 from: Rennes
 to: Saint-Grégoire
 description: Le REV entre Rennes et Saint-Grégoire, empruntant le chemin de halage de l'Ille, l'avenue Gros Malhon et la rue du Général de Gaulle à Saint-Grégoire, est en grande partie reporté. Sa réalisation est liée aux travaux de la ligne de trambus T3 (horizon 2030).
-trafic: XX vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ---
 

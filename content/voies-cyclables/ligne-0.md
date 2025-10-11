@@ -5,7 +5,6 @@ line: 0
 from: Rennes
 to: Rennes
 description: La ligne 0 constitue l'anneau cyclable rennais qui relie l'ensemble des liaisons du réseau express vélo métropolitain. 
-trafic: N/A
 cover: /images/rev-rennes.png
 ---
 

@@ -5,7 +5,6 @@ line: 10
 from: Rennes
 to: Acigné
 description: Le REV entre Rennes et Acigné suit le boulevard Saint Roch à Cesson-Sévigné puis La Pommeraie avant de continuer sous la forme de deux pistes unidirectionnelles de part et d'autre de la D86 avec un anneau cyclable porte de Tizé qui se prolonge ensuite par des pistes unidirectionnelles jusqu'à Acigné.
-trafic: xxx vélos/jour
 cover: /images/ligne-10/REV-Acigne-ligne-10.jpg
 ---
 

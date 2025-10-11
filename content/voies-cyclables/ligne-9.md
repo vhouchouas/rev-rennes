@@ -5,7 +5,6 @@ line: 9
 from: Rennes
 to: Cesson-Sévigné
 description: Le REV Cesson permet de relier la halte SNCF de Cesson-Sévigne au sud est de Rennes en passant par le quartier de la Monniais de Cesson et l'écopôle sud-est (anciennement ZI sud-est).
-trafic: "?"
 cover: https://osuny-1b4da.kxcdn.com/0rpki2xl2ixvewg8vnufslvdmvmr?format=webp&width=1500&height=0&&fit=inside&quality=50
 ---
 

@@ -5,7 +5,6 @@ line: 5
 from: Rennes
 to: Bruz
 description: Le REV relie Rennes à Bruz en passant par Saint-Jacques-de-la-Lande
-trafic: xxx vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ---
 
