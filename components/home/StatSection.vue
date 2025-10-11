@@ -1,12 +1,12 @@
 <template>
-  <div class="bg-white pt-12 sm:pt-16">
+  <div class="bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="max-w-4xl mx-auto text-center">
         <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-          Le {{ getRevName() }}, c'est quoi ?
+          Le REV, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          C'est le projet de réseau cyclable porté par Rennes Métropole. Concrètement, c'est une voie cyclable large (environ 3 mètres), souvent sous forme de piste bidirectionnelle et séparée des voitures. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les quartiers rennais aux communes de première ou deuxième couronne.
+          C'est le projet de Réseau Express Vélo porté par Rennes Métropole. Concrètement, c'est une voie cyclable large (environ 3 mètres), souvent sous forme de piste bidirectionnelle et séparée des voitures. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les quartiers rennais aux communes de première ou deuxième couronne.
         </p>
       </div>
     </div>
