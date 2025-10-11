@@ -5,7 +5,6 @@ line: 6
 from: Rennes
 to: Chartres-de-Bretagne
 description: Le REV Rennes - Chartres de Bretagne propose un itinéraire sécurisé le long de la D837 en traversant le vallon et passant à proximité de l'usine Stellantis. Depuis Rennes, l'accès à cette ligne se fait depuis le parc de Bréquigny, et fait passer par un petit tunnel sous la rocade.
-trafic: "?"
 cover: https://www.territoires-rennes.fr/sites/default/files/styles/1200x600/public/2021-02/MiVoie_LeVallon_VoieCyclistes_Projets_Territoires-Rennes.jpg?itok=hSLdIODg
 ---
 
@@ -23,7 +22,7 @@ Le REV continue vers Rennes vers le Nord avec un léger décroché vers la gauch
 
 Côté sud, il s'agit d'un ancien chemin agricole qui a été déplacé lors de l'élargissement de la 2x2 voies et qui est partagé avec le REV.
 Le trafic y est limité (un seul riverain habite le long de cette route) et cette route relie le buvoduc de Bréquigny au Vallon.
-La vélorue fait un léger décroché pour faire le tour du parking routier avant de franchir une traversée prioritaire pour rejoindre la piste séparée du Vallon
+La vélorue fait un léger décroché pour faire le tour du parking routier avant de franchir une traversée prioritaire pour rejoindre la piste séparée du Vallon.
 
 ### Stationnement sauvage au Vallon
 
@@ -46,23 +45,21 @@ streetView: 48.0693563,-1.696642,3a,75y,91.52h,74.42t
 
 Au Vallon, il s'agit d'une piste bidirectionnelle au statut mixte : voie verte sur 100m puis piste cyclable et trottoir sont séparés.
 Elle bifurque vers la rue Bell puis emprunte un ancien chemin REV-isé en 2022.
-Arrivée à la Chaîne, la bidir bifurque vers l'Est avant de monter vers la BAU.
+Arrivée à la Chaîne, la piste bidirectionnelle bifurque vers l'est avant de monter vers la bande d'arrêt d'urgence.
 
 ### Piste bidirectionnelle le long de la D837
 Sur la fin de la ligne avant Chartres de Bretagne, on roule à proximité immédiate de la départementale D837, mais sur une piste toujours large et avec a minima un séparateur physique en béton conséquent.
 Le tronçon entre la Chaîne et l'arrêt de bus de La Janais est du "temporaire pérennisé" : suite à un conflit foncier, RM n'a pu acquérir le foncier nécessaire et l'amorce de la piste à La Châine a été convertie en rampe vers la bande d'arrêt d'urgence, où la bande cyclable a été sécurisée grâce à des barrières en béton.
 Ce segment est donc sécurisé, mais moins large que les autres tronçons (moins confortable pour se croiser) et le revêtement est ancien et recouvert de gravillons).
 
-# Voie d'accès
+### Voie d'accès
 
-le REV permet de faire le tour du giratoire dans les deux sens (anneau cyclable) et une bidir permet d'accéder au centre commercial.
-Sa fin est peu qualitative (virage sec et double cédez-le-passage)
+Le REV permet de faire le tour du giratoire dans les deux sens (anneau cyclable) et une bidir permet d'accéder au centre commercial.
+Sa fin est peu qualitative (virage sec et double cédez-le-passage).
 
 ## Calendrier prévisionnel
 La ligne a été entièrement realisée en 2022.
 Le tronçon problématique (conflit foncier) a été sécurisé par des balisettes de chantier puis par des barrières de béton une fois la nouvelle canalisation d'eau installée fin 2024.
-L'ancienne amorce en contrebas de la départementale a été transformée en rampe vers la BAU au printemps 2025
-Quelques travaux d'ajustements au niveau du site de Stellantis sont potentiellement encore prévus (le tronçon concerné fait moins de 400 mètres)
-
-## Fil d'actu
+L'ancienne amorce en contrebas de la départementale a été transformée en rampe vers la BAU au printemps 2025.
+Quelques travaux d'ajustements au niveau du site de Stellantis sont potentiellement encore prévus (le tronçon concerné fait moins de 400 mètres).
 
