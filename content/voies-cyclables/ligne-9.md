@@ -12,7 +12,7 @@ cover: https://osuny-1b4da.kxcdn.com/0rpki2xl2ixvewg8vnufslvdmvmr?format=webp&wi
 ## Les tronçons (d'ouest en est)
 ### Cimetière de l'Est
 Depuis le pont Villebois Mareuil, le REV Cesson emprunte tout d'abord la rue Arthur Fontaine en cohabitation (déserte résidentielle). La rue n'est pas aménagée (aucun revêtement différencié) et beaucoup de voitures y sont stationnées, parfois de manière anarchique.
-
+![](/images/ligne-9/rev9-arthur-fontaine.jpg)
 
 ### Rue Auguste Pavie
 
@@ -34,3 +34,6 @@ La traversée du boulevard des Alliés se fait sur un ralentisseur avec priorit�
 
 ### Parc de la Monniais et halte SNCF
 Une piste cyclable bidirectionnelle rejoint la halte SNCF en longeant le parc de la Monniais. La piste s'interrompt au niveau du pont de la LGV avec une seule voie de circulation et une perte de priorité pour les cyclistes. Les usagers sont ensuite en cohabitation jusqu'à la halte SNCF avec une traversée avec visibilité limitée. 
+
+![](/images/ligne-9/rev9-monniais.jpg)
+![](/images/ligne-9/rev9-pont-sncf.jpg)
