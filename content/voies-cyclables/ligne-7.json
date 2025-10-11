@@ -180,7 +180,7 @@
         "doneAt":"01/10/2022",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#bidir-rennes-noyal"
+        "link": "/rev-rennes-7#piste-bidirectionnelle-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -201,7 +201,7 @@
         "doneAt":"01/10/2022",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#bidir-rennes-noyal"
+        "link": "/rev-rennes-7#piste-bidirectionnelle-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -224,7 +224,7 @@
         "doneAt":"01/10/2022",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#bidir-rennes-noyal"
+        "link": "/rev-rennes-7#piste-bidirectionnelle-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -251,7 +251,7 @@
         "doneAt":"01/12/2017",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#bidir-rennes-noyal"
+        "link": "/rev-rennes-7#piste-bidirectionnelle-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -297,7 +297,7 @@
         "doneAt":"01/10/2022",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#bidir-rennes-noyal"
+        "link": "/rev-rennes-7#piste-bidirectionnelle-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -343,7 +343,7 @@
         "doneAt":"01/10/2022",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#bidir-rennes-noyal"
+        "link": "/rev-rennes-7#piste-bidirectionnelle-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -426,7 +426,7 @@
         "doneAt":"01/01/2023",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#bidir-rennes-noyal"
+        "link": "/rev-rennes-7#piste-bidirectionnelle-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -479,7 +479,7 @@
         "doneAt":"01/01/2023",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-7#bidir-rennes-noyal"
+        "link": "/rev-rennes-7#piste-bidirectionnelle-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
@@ -535,7 +535,7 @@
         "status": "expected",
         "doneAt":"01/01/2023",
         "type": "bidirectionnelle",
-        "link": "/rev-rennes-7#bidir-rennes-noyal"
+        "link": "/rev-rennes-7#piste-bidirectionnelle-rennes-noyal"
       },
       "geometry": {
         "type": "LineString",
