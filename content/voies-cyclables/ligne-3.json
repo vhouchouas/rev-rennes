@@ -50,11 +50,10 @@
       "properties": {
         "id": "pont-vilaine",
         "line": 3,
-        "name": "Pont Schuman",
-        "status": "done",
-        "type": "bidirectionnelle",
-        "quality": "unsatisfactory",
-        "link": "/rev-rennes-3#pont-schuman"
+        "name": "Rue Louis Guilloux",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "link": "/rev-rennes-3#rue-louis-guilloux"
       },
       "geometry": {
         "type": "LineString",

@@ -16,11 +16,13 @@ cover: /images/ligne-3/rev3-rheu-principal.png
 Il s'agit d'un des deux premiers tronçons réalisé durant le mandat 2014-2020.
 Il s'agit d'une piste bidirectionnelle qualitative reliant la place de Bretagne jusqu'à la rue de Lorient.
 
-### Pont Schuman
+### Rue Louis Guilloux
 
 Malheureusement la bidir Prévalaye s'interrompt au nord du pont Rober Schuman :
 * dans le sens Nord-Sud, il faut s'arrêter avant de traverser la voie générale
 * dans le sens Sud-Nord, la bidir s'arrête à 50m du passage piéton, sans cheminement clair pour continuer
+
+Nous considérons la section comme reportée, d'autant qu'aucun marquage continu (chevrons REV) n'est présent sur la section.
 
 ### Rue de Lorient
 
