@@ -14,8 +14,8 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [
-          [-1.650285407670166,48.15701963223441],
+          "coordinates": [
+	  [-1.650175, 48.157236],
           [-1.649207363749138,48.159046543138395],
           [-1.648762286368325,48.159788865318696],
           [-1.648119121503452,48.16099158961738],
@@ -38,15 +38,34 @@
         "status": "done",
         "type": "bidirectionnelle",
         "link": "/rev-rennes-12#voie-de-la-liberté",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-1.654807326207933,48.15182767828117],
-          [-1.652233493394321,48.15416416279589],
-          [-1.651236088784382,48.15551509309572],
-          [-1.650285407670166,48.15701963223441]
+	    [-1.653204 , 48.153275],
+	    [-1.652388, 48.153760],
+	    [-1.651077, 48.154382],
+	    [-1.650106, 48.155950],
+	    [-1.650175, 48.157236]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "name": "passage à niveau à voie de la Liberté",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "type": "LineString",
+          "coordinates": [
+	      [-1.653204 , 48.153275],
+	      [-1.654807326207933,48.15182767828117]
         ]
       }
     },
