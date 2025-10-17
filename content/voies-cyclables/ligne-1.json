@@ -57,9 +57,9 @@
         "line": 1,
         "name": "Derrière le CC Grand Quartier",
         "status": "done",
-        "type": "bandes-cyclables",
+        "type": "bidirectionnelle",
         "link": "/rev-rennes-1#FIXME",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       },
       "geometry": {
         "type": "LineString",
