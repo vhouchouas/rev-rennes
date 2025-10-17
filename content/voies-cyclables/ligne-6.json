@@ -95,7 +95,7 @@
         "name": "Voie cyclable le long de la départementale",
         "status": "done",
         "doneAt": "01/01/2023",
-        "type": "aucun",
+        "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-6#piste-bidirectionnelle-le-long-de-la-d837"
       },
