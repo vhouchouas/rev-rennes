@@ -5,7 +5,7 @@ line: 12
 from: Rennes
 to: Betton
 description: Le REV entre Rennes et Betton emprunte le chemin de halage de l'Ille, puis la coulée verte et enfin une piste bidirectionnelle le long de la voie de la Liberté en passant par Maison Blanche.
-cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
+cover: /images/ligne-12/REV-Betton-ligne-12-cover.jpg
 ---
 
 ## Les tronçons de Rennes vers Betton
@@ -16,6 +16,12 @@ Ce tronçon se fait via des voies vertes où les cyclistes doivent cohabiter ave
 
 Une alternative à cet itinéraire pourrait être l'avenue du Général Georges S. Patton sur laquelle une requalification est prévue, permettant de rejoindre l'avenue de Rochester.
 
+|  |  |
+|----------|---|
+| ![](/images/ligne-12/REV-Betton-ligne-12-prairie_st_martin.jpg) |  ![](/images/ligne-12/REV-Betton-ligne-12-lien_coulee_verte_prairie_st_martin.jpg) |
+| ![](/images/ligne-12/REV-Betton-ligne-12-coulee_verte.jpg) | ![](/images/ligne-12/REV-Betton-ligne-12-coulee_verte2.jpg) |
+
+
 ### Franchissement de la rocade
 
 L'accès à la piste bidirectionnelle se fait via une traversée sur plateau sur lequel les cyclistes ont la priorité. 
@@ -23,6 +29,11 @@ L'accès à la piste bidirectionnelle se fait via une traversée sur plateau sur
 La piste cyclable de 3m de large et confortable mais ne dispose pas d'espace tampon créant un léger effet précipice avec la route.
 
 Une seule traversée avec des entrées/sorties riverains existe dans le giratoire sur laquelle les cyclistes ont la priorité.
+
+|  |  |
+|----------|---|
+| ![](/images/ligne-12/REV-Betton-ligne-12-patton.jpg) | ![](/images/ligne-12/REV-Betton-ligne-12-giratoire-rocade.jpg) |
+
 
 ### Voie verte sud de Maison Blanche
 
@@ -42,15 +53,18 @@ Travaux prévus de 2026 à 2028. https://ici.rennes.fr/actualites/2025-06-24-mai
 
 ### Voie de la Liberté
 
-Réutilisation d'une voirie secondaire parallèle à la voie de la liberté. Revêtement dégradé.
+Réutilisation d'une voirie secondaire parallèle à la voie de la liberté. Revêtement dégradé. L'insertion sur celle-ci est dangereuse, il faut slalomer entre des plots disposés parallelement à la route alors que les voiture accélèrent (limitation 70km/h).
+
+|  |  |
+|----------|---|
+| ![](/images/ligne-12/REV-Betton-ligne-12-debut-voie-liberte.jpg) |  ![](/images/ligne-12/REV-Betton-ligne-12-insertion-voie-liberte.jpg) |
 
 ### Bel Air
 
 Piste cyclable bidirectionnelle de très bonne qualité. Revêtement très roulant, piste séparée de la voirie soit par une bande végétale, soit par une barrière.
 
-![](/images/ligne-12/REV-Betton-ligne-12-la-victoire.png)
-©PanierAvide - CC-By-Sa - Panoramax
+![](/images/ligne-12/REV-Betton-ligne-12-bel-air.jpg)
 
+Au global, le REV jusqu'à Maison Blanche est confortable et corrige beaucoup de problèmes de sécurité pour les cyclistes qui n'étaient pas traités jusqu'à présent. Le principal regret est l'insertion du REV, qui ne démarre officiellement qu'au niveau de l'impasse du halage, alors qu'on aurait aimé avoir un trajet reliant au minimum la mairie de Betton à Rennes, afin d'avoir un parcours lisible pour les cyclistes. Il est actuellement compliqué pour un usager occasionnel de trouver le début du chemin depuis le centre de Betton (ex: un touriste faisant la V42, qui pourrait envisager de prendre le REV pour aller au camping des Gayeulles).
 
-Au global, le REV jusqu'à Maison Blanche est confortable et corrige pas mal de soucis de sécurité des cyclistes qui n'étaient pas traités jusqu'à présent. Le principal regret est l'insertion du REV, qui ne démarre officiellement qu'au niveau de l'impasse du halage, alors qu'on aurait aimé avoir un trajet reliant au minimum la mairie de Betton à Rennes, afin d'avoir un parcours lisible pour les cyclistes. Il est actuellement compliqué pour un usager occasionnel de trouver le début du chemin depuis le centre de Betton (ex: un touriste faisant la V42, qui pourrait envisager de prendre le REV pour aller au camping des Gayeulles).
-
+![](/images/ligne-12/REV-Betton-ligne-12-betton.jpg)
