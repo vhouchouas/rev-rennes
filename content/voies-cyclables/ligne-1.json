@@ -9,7 +9,7 @@
         "name": "Rue de St Malo depuis l'Ille et bd Robiquette",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/rev-rennes-1#FIXME"
+        "link": "/rev-rennes-1#rue-saint-malo-reporté"
       },
       "geometry": {
         "type": "LineString",
@@ -89,7 +89,7 @@
         "status": "done",
         "doneAt": "01/11/2022",
         "type": "bidirectionnelle",
-        "link": "/rev-rennes-1#FIXME",
+        "link": "/rev-rennes-1#montgermont",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -114,7 +114,7 @@
         "status": "done",
         "doneAt": "01/11/2022",
         "type": "bidirectionnelle",
-        "link": "/rev-rennes-1#FIXME",
+        "link": "/rev-rennes-1#montgermont",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -155,7 +155,7 @@
         "status": "done",
         "doneAt": "01/11/2022",
         "type": "bidirectionnelle",
-        "link": "/rev-rennes-1#FIXME",
+        "link": "/rev-rennes-1#montgermont",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -192,7 +192,7 @@
         "status": "done",
         "doneAt": "01/11/2022",
         "type": "bidirectionnelle",
-        "link": "/rev-rennes-1#FIXME",
+        "link": "/rev-rennes-1#montgermont",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -677,7 +677,8 @@
         "line": 1,
         "name": "Liaison Montgerval réseau CD35. Pas officiellement REV",
         "status": "expected",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+	"link": "/rev-rennes-1#et-au-delà"
       },
       "geometry": {
         "type": "LineString",
