@@ -5,7 +5,7 @@ line: 1
 from: Rennes
 to: Montgermont
 description: Le REV entre Rennes et Montgermont relie Grand Quartier à Montgermont avant de se connecter au REV départemental reliant Montgermont à La Chapelle-des-Fougeretz et La Mézière, le long de la route du meuble.
-cover: /images/ligne-1/REV-Montgermont-ligne-1-fin.jpg
+cover: /images/ligne-1/REV-Montgermont-ligne-1-chataigneraie.jpg
 ---
 
 ## Les tronçons (du Sud au Nord)
@@ -33,12 +33,9 @@ L'arrivée à Montgermont se fait par le rond point du Marais. Son franchissemen
 
 On rejoint ensuite de départ de la REV toujours par une piste cyclable bidirectionnelle de bonne qualité.
 
-![](/images/ligne-1/REV-Montgermont-ligne-1-fin.jpg)
-
 ## Et au-delà (ne fait pas partie du REV actuellement)
-L'itinéraire se poursuit en réalité jusqu'à la Chapelle des Fougeretz sans pour autant qu'il fasse partie officiellement du REV. Rayons d'Action souhaite que Rennes Métropole mette en lumière cette continuité d'aménagement de qualité vers La Mézière en l'y intégrant.
- 
-![](/images/ligne-1/REV-Montgermont-ligne-1-chapelle-des-fougeretz.jpg)
+L'itinéraire se poursuit jusqu'à la Chapelle des Fougeretz sans pour autant qu'il fasse partie officiellement du REV. Rayons d'Action souhaite que Rennes Métropole mette en lumière cette continuité d'aménagement de qualité vers La Mézière en l'y intégrant.
 
-
-
+| | |
+|---|---|
+|![](/images/ligne-1/REV-Montgermont-ligne-1-fin.jpg) | ![](/images/ligne-1/REV-Montgermont-ligne-1-chapelle-des-fougeretz.jpg) |

@@ -357,26 +357,11 @@
         "type": "danger",
         "name": "Rond Point du Marais",
         "line": 1,
-        "description" : "Deux voies à franchir, priorité aux voitures",
+        "description" : "Deux voies à franchir puis une voie à franchir, priorité aux voitures",
         "danger": "Circulation automobile importante sur cet axe"
       },
       "geometry": {
-        "coordinates": [-1.706227774048159, 48.15214896375841],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "danger-d29-2",
-        "type": "danger",
-        "name": "Rond Point du Marais",
-        "line": 1,
-        "description" : "Une voie à franchir, priorité aux voitures",
-        "danger": "Circulation automobile importante sur cet axe"
-      },
-      "geometry": {
-        "coordinates": [-1.7063329455978646, 48.152267855514026],
+        "coordinates": [-1.706257774048159, 48.15220896375841],
         "type": "Point"
       }
     },
@@ -416,11 +401,8 @@
         "id": "montgermont-nord",
         "line": 1,
         "name": "Montgermont nord",
-        "status": "done",
-        "doneAt": "01/11/2022",
-        "type": "bidirectionnelle",
-        "link": "/rev-rennes-1#FIXME",
-        "quality": "satisfactory"
+        "status": "expected",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
