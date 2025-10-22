@@ -764,7 +764,7 @@ export const useMap = () => {
         },
         getTooltipProps: () => {
           const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['dangers'] })[0];
-          const feature = features.find(f => f.properties.name === mapFeature.properties.name);
+          const feature = features.find(f => f.properties.id === mapFeature.properties.id);
           return { feature };
         },
         component: DangerTooltip
