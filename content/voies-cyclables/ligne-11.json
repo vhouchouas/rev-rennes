@@ -6,10 +6,10 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "name": "bd alliés entre Bellefontaine & Cesson/Viasilva",
+        "name": "boulevard des Alliés entre Bellefontaine & Cesson/Viasilva",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#boulevard-des-alliés-entre-bellefontaine-cessonviasilva"
       },
       "geometry": {
         "type": "LineString",
@@ -77,7 +77,7 @@
         "name": "Ouest de La Baillée",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#tronçon-non-terminé-la-baillée"
       },
       "geometry": {
         "type": "LineString",
@@ -124,7 +124,7 @@
         "status": "done",
         "type": "velorue",
         "quality": "satisfactory",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#voie-partagée-de-la-gravelle"
       },
       "geometry": {
         "type": "LineString",
@@ -174,7 +174,7 @@
         "status": "done",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#voie-verte-de-la-gravelle"
       },
       "geometry": {
         "type": "LineString",
@@ -223,7 +223,7 @@
         "status": "done",
         "type": "velorue",
         "quality": "satisfactory",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#vélorue-du-clos-corbin"
       },
       "geometry": {
         "type": "LineString",
@@ -253,7 +253,7 @@
         "status": "done",
         "type": "bilaterale",
         "quality": "satisfactory",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#bidirectionnel-jusquà-la-mairie-de-thorigné-fouillard"
       },
       "geometry": {
         "type": "LineString",
