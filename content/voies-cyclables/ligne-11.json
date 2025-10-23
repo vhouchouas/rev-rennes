@@ -95,7 +95,7 @@
         "name": "chemin agricole La Baillée",
         "status": "postponed",
         "type": "velorue",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#tronçon-non-terminé-la-baillée"
       },
       "geometry": {
         "type": "LineString",
@@ -122,9 +122,9 @@
         "line": 11,
         "name": "La Gravelle Ouest Rocade",
         "status": "done",
-        "type": "velorue",
+        "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#intersection-avec-le-champ-pouri-creux"
       },
       "geometry": {
         "type": "LineString",
@@ -174,7 +174,7 @@
         "status": "done",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#voie-verte-de-la-gravelle"
       },
       "geometry": {
         "type": "LineString",
@@ -223,7 +223,7 @@
         "status": "done",
         "type": "velorue",
         "quality": "satisfactory",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#vélorue-du-clos-corbin"
       },
       "geometry": {
         "type": "LineString",
@@ -251,9 +251,9 @@
         "line": 11,
         "name": "Liaison Thorigné Fouillard mairie",
         "status": "done",
-        "type": "bilaterale",
+        "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-11#FIXME"
+        "link": "/rev-rennes-11#bidirectionnelle-le-long-de-lavenue-irène-joliot-curie"
       },
       "geometry": {
         "type": "LineString",
