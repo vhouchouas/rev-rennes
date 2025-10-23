@@ -244,6 +244,20 @@
       }
     },
 
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "danger-rue-irene-joliot-curie",
+        "type": "danger",
+        "name": "Danger traversée de la rue Irène Joliot Curie",
+        "danger": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5835007149971432, 48.15160606676514]
+      }
+    },
+
 
     {
       "type": "Feature",
