@@ -18,6 +18,8 @@ L'insertion vers la voie bus est soumise à un cédez le passage. Dans ce sens, 
 
 On peut questionner le choix de ce bout d'itinéraire par Rennes Métropole, la voie bus étant anxiogène avec des bus (mais plus souvent des cars) qui doublent à vitesse élevée.
 
+![](/images/ligne-10/REV-Acigne-ligne-10-bd-allies.jpg)
+
 ### Voie verte longeant le boulevard Saint-Roch
 Les feux du carrefour avec l'avenue des Champs Blancs ne détectent pas les cyclistes, mais ceux-ci disposent d'un M12 gauche permettant de bien se positionner pour effectuer la traversée. Le carrefour n'est donc pas vraiment conçu pour les cyclistes (si on veut tourner à droite on doit griller le feu car seuls les bus déclenchent le feu vert), il faut donc être prudents qu'aucun bus n'arrive en face lorsqu'on se déporte sur l'ilôt à gauche grâce au M12.
 
