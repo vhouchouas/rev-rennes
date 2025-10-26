@@ -16,11 +16,9 @@ Le REV débute par le franchissement de l'Ille par la passerelle Élisa Napoléo
 
 | | |
 |---|---|
-|![](/images/ligne-13/REV-Saint-Grégoire-ligne-13-passerelle-Baciocchi.jpg) | ![](/images/ligne-13/REV-Saint-Grégoire-ligne-13-halage-ouest.jpg) |
+|![](/images/ligne-13/REV-Saint-Grégoire-ligne-13-passerelle-Baciocchi.jpg) | ![](/images/ligne-13/REV-SaintGrégoire-ligne-13-halage.jpg) |
 
 Le revêtement en dur s'arrête après le pont du boulevard d'Armorique. On passe alors sur une portion en stabilisé (refaite récemment).
-
-![](/images/ligne-13/REV-SaintGrégoire-ligne-13-halage.jpg)
 
 ### Liaison halage - Avenue de Gros Malhon
 
