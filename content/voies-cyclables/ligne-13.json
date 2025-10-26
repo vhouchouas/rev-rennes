@@ -249,11 +249,11 @@
       "type": "Feature",
       "properties": {
         "line": 13,
-        "name": "passerelle ZAC Plaisance",
+        "name": "passerelle Élisa Napoléone Baciocchi",
         "status": "done",
         "type": "voie-verte",
         "quality": "satisfactory",
-        "link": "/rev-rennes-13#FIXME"
+        "link": "/rev-rennes-13#halage-ouest-jusquau-niveau-de-la-bellangerais"
       },
       "geometry": {
         "type": "LineString",
