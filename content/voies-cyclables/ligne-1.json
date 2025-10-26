@@ -106,7 +106,7 @@
         "line": 1,
         "name": "Rue Saint-Malo au Boulevard de la Robiquette",
         "status": "done",
-        "type": "bandes-cyclables",
+        "type": "bidirectionnelle",
 	"quality": "satisfactory",
 	"doneAt": "1/09/2025",
         "link": "/rev-rennes-1#rue-de-saint-malo-reporté"

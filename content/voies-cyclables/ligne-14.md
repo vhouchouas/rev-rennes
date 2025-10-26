@@ -8,4 +8,4 @@ description: Le REV entre Rennes et Vezin le Coquet est un embranchement du REV 
 cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ---
 
-## Les tronçons (d'ouest en est)
+## Les tronçons (du sud vers le nord)
