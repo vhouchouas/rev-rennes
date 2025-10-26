@@ -711,6 +711,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "danger-chartres-la-touche",
+        "type": "danger",
+        "name": "Refus de priorité",
+        "line": 6,
+        "danger": "Très fréquents refus de priorités",
+        "link": "/rev-rennes-6#la-touche"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.7018174869379576, 48.05595836438061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "line": 6,
         "name": "Liaison Ker Lann",
         "status": "expected",
