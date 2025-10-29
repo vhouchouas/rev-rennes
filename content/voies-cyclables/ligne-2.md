@@ -35,3 +35,11 @@ La vitesse maximale sur cette portion est limitée à 50km/h. L'environnement es
 |----------------------------------------------|---------------------------------------------|
 | ![](/images/ligne-2/rev2-pace-velorue-1.jpg) | ![](/images/ligne-2/rev2-pace-velorue-2.jpg) |
 | ![](/images/ligne-2/rev2-pace-velorue-3.jpg) | ![](/images/ligne-2/rev2-pace-velorue-4.jpg)  |
+
+### Voie verte
+Un peu plus loin, la vélorue devient une voie verte autorisée pour les riverains.
+La chaussée y est beaucoup moins large, cela ne facilite pas les dépassements (en principe limité aux riverains).
+Sur la dernière section allant vers l'ouest, le trafic motorisé est interdit et empêché par un potelet.
+|                                              |                                             |                                             |
+|----------------------------------------------|---------------------------------------------|---------------------------------------------|
+| ![](/images/ligne-2/rev2-pace-voie-verte-1.jpg) | ![](/images/ligne-2/rev2-pace-voie-verte-2.jpg) | ![](/images/ligne-2/rev2-pace-voie-verte-3.jpg) |
