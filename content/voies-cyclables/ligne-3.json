@@ -11,7 +11,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-3#bidir-quais-prévalaye"
+        "link": "/rev-rennes-3#piste-bidirectionnelle-quais-prévalaye"
       },
       "geometry": {
         "type": "LineString",
@@ -218,7 +218,7 @@
         "status": "done",
         "type": "voie-verte",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-3#FIXME"
+        "link": "/rev-rennes-3#sous-la-rocade"
       },
       "geometry": {
         "type": "LineString",
