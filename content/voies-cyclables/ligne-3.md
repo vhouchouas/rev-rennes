@@ -4,7 +4,7 @@ shortName: Le Rheu
 line: 3
 from: Rennes
 to: Le Rheu
-description: Le REV entre Rennes et Le Rheu commence par une piste bidirectionnelle au début de la rue de Lorient avant de longer la Vilaine via le chemin de halage en intra rocade puis la rue du Manoir de Servigné et ensuite une bidir le long de la route de Lorient (N24) avant de rejoindre le Pont d"Avoine et les Landes d'Apigné. 
+description: Le REV entre Rennes et Le Rheu commence par une piste bidirectionnelle le long des quais de la Prévalaye. Après avoir rejoint la rue de Lorient, il longe la Vilaine par le chemin de halage, en intra-rocade, puis emprunte la rue du Manoir de Servigné. Il se poursuit ensuite par une piste bidirectionnelle le long de la route de Lorient, avant de traverser le Pont d’Avoine et de se diriger vers les Landes d’Apigné. 
   Ci-dessous une illustration des quais de la Prévalaye avec une signalétique améliorée.
 cover: /images/ligne-3/REV-Le-Rheu-ligne-3-principal.png
 ---
