@@ -24,7 +24,7 @@ Dans le futur, les vélos arriveront à bonne vitesse depuis la rue La Baillée 
 
 ### Voie partagée de la Gravelle
 
-On emprunte ensuite la rue dite La Gravelle qui en régime de voie verte avec un faible trafic motorisé (desserte locale).
+On emprunte ensuite la rue dite La Gravelle qui est en régime de voie verte avec un faible trafic motorisé (desserte locale).
 Elle est cependant peu large ce qui fait qu'un véhicule doublant un vélo ne peut pas respecter la distance légal (1,50m en campagne) et ce qui peut provoqué des conflits d'usage.
 Certains passages permettent au vélo de se décaler pour un dépassement en sécurité.
 ![](/images/ligne-11/REV-Thorigne-ligne-11-2.jpg)
