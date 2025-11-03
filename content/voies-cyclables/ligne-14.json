@@ -9,7 +9,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
-        "link": "/rev-rennes-14#FIXME"
+        "link": "/rev-rennes-14#rue-de-montigné"
       },
       "geometry": {
         "type": "LineString",
@@ -39,7 +39,7 @@
         "status": "done",
         "type": "velorue",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-14#FIXME"
+        "link": "/rev-rennes-14#vélorue"
       },
       "geometry": {
         "type": "LineString",
@@ -66,10 +66,7 @@
           [-1.754337784412975,48.109397400217226],
           [-1.754523330815494,48.10955430432241],
           [-1.754544115747538,48.10956735463365],
-          [-1.754461938437756,48.10972422885138],
-          [-1.754347114696941,48.1100180828979],
-          [-1.754167370580462,48.11040991475189],
-          [-1.754275369053295,48.110434251809544]
+          [-1.754461938437756,48.10972422885138]
         ]
       }
     },
@@ -78,15 +75,19 @@
       "type": "Feature",
       "properties": {
         "line": 14,
-        "name": "Longe les étangs",
+        "name": "Station d'épuration",
         "status": "done",
         "type": "voie-verte",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-14#FIXME"
+        "link": "/rev-rennes-14#station-dépuration"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [-1.754461938437756,48.10972422885138],
+          [-1.754347114696941,48.1100180828979],
+          [-1.754167370580462,48.11040991475189],
+          [-1.754275369053295,48.110434251809544],
           [-1.754275369053295,48.110434251809544],
           [-1.754174049943066,48.110626617913574],
           [-1.7539566051346,48.11121007880119],
@@ -110,7 +111,7 @@
         "status": "done",
         "type": "aucun",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-14#FIXME"
+        "link": "/rev-rennes-14#rue-du-lozeret"
       },
       "geometry": {
         "type": "LineString",
