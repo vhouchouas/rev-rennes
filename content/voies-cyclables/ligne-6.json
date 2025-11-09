@@ -11,7 +11,7 @@
         "doneAt":"2023",
         "type": "bilaterale",
         "quality": "satisfactory",
-        "link": "/rev-rennes-6#FIXME"
+        "link": "/rev-rennes-6#piste-cyclable-le-long-de-la-piscine-de-bréquigny"
       },
       "geometry": {
         "type": "LineString",
@@ -406,7 +406,7 @@
         "status": "done",
         "type": "voie-verte",
         "quality": "unsatisfactory",
-        "link": "/rev-rennes-6#fixme"
+        "link": "/rev-rennes-6#boviduc-de-bréquigny"
       },
       "geometry": {
         "coordinates": [
@@ -566,7 +566,7 @@
         "name": "Stationnement illégal sauvage",
         "line": 6,
         "danger": "Stationnement sauvage entre 12h et 14h en face du resto/bar du Vallon",
-        "link": "/rev-rennes-6#stationnement-sauvage-au-vallon"
+        "link": "/rev-rennes-6#vallon"
       },
       "geometry": {
         "coordinates": [
@@ -704,6 +704,24 @@
         "coordinates": [
           -1.6896047948749147,
           48.07978014580387
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "danger-chartres-verglas",
+        "type": "danger",
+        "name": "Verglas",
+        "line": 6,
+        "danger": "Verglas fréquent",
+        "link": "/rev-rennes-6#vallon"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.69560950550877,
+          48.06968593070587
         ],
         "type": "Point"
       }
