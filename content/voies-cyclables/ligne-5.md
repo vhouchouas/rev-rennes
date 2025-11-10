@@ -5,7 +5,7 @@ line: 5
 from: Rennes
 to: Bruz
 description: Le REV relie Rennes à Bruz en passant par Saint-Jacques-de-la-Lande
-cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
+cover: /images/ligne-5/REV-Rennes-ligne-5-main.png
 ---
 
 ## Les tronçons (de Rennes vers Bruz)

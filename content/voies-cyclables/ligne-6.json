@@ -91,8 +91,8 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "id": "Voie cyclable le long de la départementale",
-        "name": "Voie cyclable le long de la départementale",
+        "id": "Voie cyclable le long de la départementale 1",
+        "name": "Voie cyclable le long de la départementale 1ère partie",
         "status": "done",
         "doneAt": "01/01/2023",
         "type": "bidirectionnelle",
@@ -164,6 +164,29 @@
           [
             -1.7022316603422212,
             48.05701865088375
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "id": "Voie cyclable le long de la départementale contournement",
+        "name": "Voie cyclable le long de la départementale : contournement, revêtement dégradé (racines, trous ...)",
+        "status": "done",
+        "doneAt": "01/01/2023",
+        "type": "bidirectionnelle",
+        "quality": "unsatisfactory",
+        "link": "/rev-rennes-6#piste-bidirectionnelle-le-long-de-la-d837"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -1.7022316603422212,
+            48.05701865088375
           ],
           [
             -1.7022397533137905,
@@ -213,6 +236,29 @@
             -1.7019373257781467,
             48.05546290546812
           ],
+          [
+            -1.703417194341938,
+            48.05515173018375
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "id": "Voie cyclable le long de la départementale 2",
+        "name": "Voie cyclable le long de la départementale 2ème partie",
+        "status": "done",
+        "doneAt": "01/01/2023",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/rev-rennes-6#piste-bidirectionnelle-le-long-de-la-d837"
+      },
+      "geometry": {
+        "coordinates": [
           [
             -1.703417194341938,
             48.05515173018375
@@ -357,6 +403,7 @@
         "type": "LineString"
       }
     },
+
     {
       "type": "Feature",
       "properties": {
@@ -365,7 +412,7 @@
         "name": "Voie d'accès",
         "status": "done",
         "doneAt": "06/06/2024",
-        "type": "aucun",
+        "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/rev-rennes-6#voie-daccès"
       },
@@ -641,6 +688,24 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "danger-chartres-traversée-chaine",
+        "type": "danger",
+        "name": "traverée dangereuse",
+        "doneAt": "01/05/2025",
+        "line": 6,
+        "danger": "La traversée est dangereuse en particulier dans le sens est-ouest du fait de l'absence de covisibilité (véhicules dans le dos)"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.698578561350132,
+          48.06287717919113
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "danger-chartres-BAU-étroite",
         "type": "danger",
         "name": "Piste rétrécie à 1m65",
@@ -739,6 +804,40 @@
       "geometry": {
         "coordinates": [
           -1.7018174869379576, 48.05595836438061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "danger-chartres-marais",
+        "type": "danger",
+        "name": "Traversée rond-point du Marais",
+        "line": 6,
+        "danger": "Deux voies entrantes doivent être traversée sur ce giratoire où les vitesses peuvent être élevées. Absence de priorité cycliste et piétonne. Bordures inconfortables."
+      },
+      "geometry": {
+        "coordinates": [
+          -1.7070241404341289,
+          48.04922687167155
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "danger-chartres-métairie",
+        "type": "danger",
+        "name": "Traversée rond-point de la Métairie",
+        "line": 6,
+        "danger": "Une voie rapide en sortie de giratoire doit être traversée, les vitesses peuvent être élevées. Absence de ralentisseur. Absence de priorité cycliste et piétonne. Bordures inconfortables."
+      },
+      "geometry": {
+        "coordinates": [
+          -1.7086869845469153,
+          48.048036023867894
         ],
         "type": "Point"
       }
