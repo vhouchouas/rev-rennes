@@ -3,8 +3,8 @@ name: REV de Cesson Nord
 shortName: Cesson Nord
 line: 4
 from: Rennes
-to: Cesson
-description: Le REV entre Rennes et Cesson par le nord de la Vilaine.
+to: Cesson-Sévigné
+description: Le REV entre Rennes et Cesson-Sévigné par le nord de la Vilaine.
 cover: /images/ligne-4/rev4-rue-de-rennes.jpg
 ---
 

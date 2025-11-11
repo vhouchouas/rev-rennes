@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-4xl mx-auto mt-14 px-4 sm:px-6 lg:px-8 lg:mt-24">
     <h1 class="text-center text-3xl text-ra-green-600 font-bold mb-8">
-      Tableau de bord de suivi des {{ config.revName }}
+      Tableau de bord de suivi du {{ config.revName }}
     </h1>
     <div v-if="!geojsons">
       Chargement ...

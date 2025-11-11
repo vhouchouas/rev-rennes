@@ -174,40 +174,6 @@
                   </span>
                 </NuxtLink>
 
-                <!-- Compteurs -->
-                <hr class="h-px bg-gray-200 border-0">
-
-                <NuxtLink
-                  to="/compteurs/velo"
-                  class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
-                  @click="close()"
-                >
-                  <span class="ml-3 text-base font-medium text-gray-900">
-                    Compteurs vélo
-                  </span>
-                </NuxtLink>
-                <NuxtLink
-                  to="/compteurs/voiture"
-                  class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
-                  @click="close()"
-                >
-                  <span class="ml-3 text-base font-medium text-gray-900">
-                    Compteurs voiture
-                  </span>
-                </NuxtLink>
-                <NuxtLink
-                  to="/compteurs/comparaison"
-                  class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
-                  @click="close()"
-                >
-                  <span class="ml-3 text-base font-medium text-gray-900">
-                    Comparaison voiture/vélo
-                  </span>
-                </NuxtLink>
-
-                <!-- Autres -->
-                <hr class="h-px bg-gray-200 border-0">
-
                 <NuxtLink
                   to="/blog"
                   class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
@@ -261,8 +227,7 @@ const { getAssoName } = useConfig();
 const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive', target: '_self' },
   { name: 'Plan officiel', path: '/plan-officiel', target: '_self' },
-  { name: 'Évolution du réseau', path: '/evolution', target: '_self' },
-  { name: 'Baromètre FUB Rennes', path: 'https://barometre.parlons-velo.fr/2021/carte/#11.17/48.0994/-1.6533', target: '_blank' }
+  { name: 'Baromètre FUB Rennes', path: 'https://barometre.parlons-velo.fr/2025/carte/#11.17/48.0994/-1.6533', target: '_blank' }
 ];
 
 const { data: voies } = await useAsyncData(() => {

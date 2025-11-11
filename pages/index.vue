@@ -2,7 +2,7 @@
   <div>
     <HomeHeroSection />
     <HomeStatSection />
-    <div class="space-y-8 sm:space-y-12 mt-8">
+    <div class="space-y-8 sm:space-y-12 mt-8 pl-1 pr-1">
       <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl">
         <h2 class="text-2xl font-extrabold tracking-tight sm:text-4xl">
           Où en est le projet ?
