@@ -37,6 +37,8 @@ Une bande cyclable existe en rive Ouest dans le sens nord -> sud. Moins sécuris
 
 Principalement constitué de bandes cyclables, un segment a cependant été sécurisé en 2024 devant le commissariat (piste cyclable)
 
+![](/images/ligne-0/REV-Rennes-ligne-0-tour-d-auvergne.jpg)
+
 ### Rue de Nantes
 
 Bandes cyclables (discontinues par endroit au sud) ou couloir de bus avec cependant un segment sécurisé avec pistes cyclables.
