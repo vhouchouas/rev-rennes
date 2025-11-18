@@ -812,12 +812,12 @@ export const useMap = () => {
           })[0];
 
           const line = mapFeature.properties.line;
-          const name = mapFeature.properties.name;
+          const id = mapFeature.properties.id;
 
           const lineStringFeatures = features.filter(isLineStringFeature);
 
           const feature = lineStringFeatures
-            .find(f => f.properties.line === line && f.properties.name === name);
+            .find(f => f.properties.line === line && f.properties.id === id);
 
           const lines = feature!.properties.id
             ? [...new Set(lineStringFeatures.filter(f => f.properties.id === feature!.properties.id).map(f => f.properties.line))]
