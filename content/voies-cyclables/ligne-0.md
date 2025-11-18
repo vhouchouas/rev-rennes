@@ -11,13 +11,21 @@ cover: /images/rev-rennes.png
 ## Les tronçons de l'axe Nord-Sud (du Nord au Sud)
 
 ### Canal Saint-Martin
-Il s'agit du chemin de halage, doublé par endroit de la route qui desservait les anciennes maison. Celle-ci a été reprise sur une largeur plus étroite en 2025.
-Certaines passerelles sont accessibles à vélo, d'autres non (escaliers).
+Il s'agit d'une vélorue (accès uniquement pour les riverains), jusqu'à la guinguette. Une partie a été refaite en 2025. Certaines passerelles pour rejoindre l'autre rive sont accessibles à vélo, d'autres non (escaliers).
+
+Aucuns aménagements cyclables ne sont présents ensuite. Ils reprennent au pont qui permet de rejoindre le boulevard de Chézy sans devoir traverser le carrefour (boulevard de Chézy/rue de Saint-Malo). 
+
+| | |
+|---|---|
+| ![](/images/ligne-0/REV-Rennes-ligne-0-canal-saint-Martin.jpg) | ![](/images/ligne-0/REV-Rennes-ligne-0-canal-saint-Martin-partage.jpg) |
+
 
 ### Boulevard de Chézy
 Il s'agit de l'un des premiers tronçons continu de type REV réalisé en supprimant une des deux voies de circulation. Il part de la place de Bretagne jusqu'à la rue de Saint-Malo en empruntant un carrefour à feu rue Legraverend. A noter que le revètement commence à sérieusement se déteriorer par endroits.
 
-![](/images/ligne-0/REV-Rennes-ligne-0-chézy.jpg)
+| | |
+|---|---|
+| ![](/images/ligne-0/REV-Rennes-ligne-0-boulevard-de-Chezy.jpg) | ![](/images/ligne-0/REV-Rennes-ligne-0-chézy.jpg) |
 
 ### Place de Bretagne
 
